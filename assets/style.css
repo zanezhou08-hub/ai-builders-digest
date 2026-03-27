@@ -25,7 +25,7 @@ body {
 header {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
-    padding: 40px;
+    padding: 40px 40px 20px;
     text-align: center;
 }
 
@@ -42,6 +42,36 @@ header h1 a {
 .tagline {
     font-size: 1.1em;
     opacity: 0.9;
+    margin-bottom: 20px;
+}
+
+/* Tab Navigation */
+.tabs {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    padding-top: 20px;
+    border-top: 1px solid rgba(255,255,255,0.3);
+}
+
+.tab {
+    padding: 10px 25px;
+    background: rgba(255,255,255,0.1);
+    border-radius: 20px;
+    color: white;
+    text-decoration: none;
+    transition: all 0.3s;
+    font-weight: 500;
+}
+
+.tab:hover {
+    background: rgba(255,255,255,0.2);
+    transform: translateY(-2px);
+}
+
+.tab.active {
+    background: white;
+    color: #667eea;
 }
 
 main {
@@ -58,6 +88,7 @@ h2 {
     font-size: 1.8em;
     border-bottom: 3px solid #667eea;
     padding-bottom: 10px;
+    margin-top: 0;
 }
 
 h3 {
@@ -144,6 +175,52 @@ code {
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
 }
 
+/* News Categories */
+.news-category {
+    margin: 30px 0;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 12px;
+}
+
+.news-category h2 {
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+
+.news-item {
+    background: white;
+    padding: 15px 20px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border-left: 4px solid #667eea;
+}
+
+.news-item h4 {
+    color: #2c3e50;
+    margin-bottom: 8px;
+}
+
+.news-item .meta {
+    font-size: 0.9em;
+    color: #6c757d;
+    margin-bottom: 8px;
+}
+
+/* Summary Box */
+.summary-box {
+    background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
+    padding: 20px;
+    border-radius: 12px;
+    margin: 20px 0;
+    border: 2px solid #667eea;
+}
+
+.summary-box h3 {
+    color: #667eea;
+    margin-top: 0;
+}
+
 footer {
     background: #f8f9fa;
     padding: 30px;
@@ -176,5 +253,15 @@ footer a {
 
     h2 {
         font-size: 1.5em;
+    }
+
+    .tabs {
+        flex-direction: column;
+        gap: 5px;
+    }
+
+    .tab {
+        display: block;
+        text-align: center;
     }
 }

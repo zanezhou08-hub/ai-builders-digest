@@ -1,60 +1,51 @@
 ---
 layout: default
-title: "AI Builders Digest"
+title: "Daily Digest"
+section: home
 ---
 
-# 🦞 AI Builders Digest
+# 🦞 Daily Digest
 
-**每日精选 AI 领域顶尖建设者的洞察与思考**
-
-关注真正做产品、有原创观点的人，而不是复读信息的人。
-
----
-
-## 📬 订阅方式
-
-- **每日早上 8:00 自动投递**（北京时间）
-- 通过 Telegram / Email / 微信等渠道接收
+**每日精选 AI 洞察与全球新闻**
 
 ---
 
-## 📚 历史存档
+## 📬 订阅内容
 
-### 2026年3月
-
-- [2026-03-27](digests/2026/03/27/) - Anthropic auto mode、Andrej Karpathy 谈 LLM 记忆、AI for Science 突破
-
----
-
-## 🎯 追踪内容
-
-**官方博客**：
-- Anthropic Engineering
-- Claude Blog
-- OpenAI Blog
-
-**X/Twitter Builders**：
-- Andrej Karpathy
-- Swyx
-- Sam Altman
-- Aaron Levie
-- Garry Tan
-- Dan Shipper
-- ...等 25 位顶尖 AI builder
-
-**播客**：
-- Latent Space
-- Training Data
-- No Priors
-- Unsupervised Learning
-- Data Driven NYC
+- **🤖 AI Builders Digest** - 每日精选 AI 领域顶尖建设者的洞察与思考
+- **📰 新闻速递** - 国际国内要闻、财经科技动态
 
 ---
 
-## 📖 理念
+## 🕐 投递时间
 
-> Follow people who build products and have original opinions, not influencers who regurgitate information.
+- **早上 8:00** - AI Builders Digest + 新闻简报
+- **晚上 20:00** - 新闻速递（重要事件）
 
 ---
 
-*Generated through the [Follow Builders skill](https://github.com/zarazhangrui/follow-builders)*
+## 📚 最新内容
+
+### 🤖 AI Builders
+
+- [2026-03-27](/ai-builders/2026/03/27/) - Anthropic auto mode、Andrej Karpathy 谈 LLM 记忆、AI for Science 突破
+
+### 📰 新闻
+
+- [2026-03-28](/news/2026/03/28/) - 最新国际国内要闻
+
+---
+
+## 🎯 理念
+
+> Focus on what matters. Filter the noise.
+
+---
+
+## 📖 快速导航
+
+[🤖 AI Builders Archive](/ai-builders/) | [📰 News Archive](/news/)
+
+---
+
+*Powered by OpenClaw 🦞*
