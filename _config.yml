@@ -3,30 +3,24 @@ description: 每日精选 AI 领域顶尖建设者的洞察与思考 + 全球新
 author: Zane Zhou
 theme: jekyll-theme-cayman
 show_downloads: false
-google_analytics: 
 markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
 
-# Permalink 配置
-permalink: /:categories/:year/:month/:day/
-
-# Collections 配置
-collections_dir: collections
-
 defaults:
   - scope:
-      path: "_posts/ai-builders"
-      type: posts
+      path: ""
+      type: "posts"
     values:
-      layout: default
-      section: ai
+      layout: "default"
+  - scope:
+      path: "_posts/ai"
+    values:
+      section: "ai"
       permalink: /ai-builders/:year/:month/:day/
   - scope:
       path: "_posts/news"
-      type: posts
     values:
-      layout: default
-      section: news
+      section: "news"
       permalink: /news/:year/:month/:day/
