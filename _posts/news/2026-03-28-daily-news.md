@@ -11,105 +11,139 @@ section: news
 
 ## 🌍 国际新闻
 
-### ['My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises](https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss)
+### 'My daughter is under the rubble': Inside Tehran as civilian toll of strikes rises
 
 One month since the US and Israel launched strikes on Iran, Tehran residents tell the BBC their lives have been devastated.
 
+📎 [阅读原文](https://www.bbc.com/news/articles/cn0w1qxzd4xo?at_medium=RSS&at_campaign=rss)
+
 ---
 
-### [Why the geography of the Strait of Hormuz makes passing through it so risky](https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss)
+### Why the geography of the Strait of Hormuz makes passing through it so risky
 
 Paul Adams explains why it is so dangerous to navigate the strait, one of the world's busiest oil shipping channels.
 
+📎 [阅读原文](https://www.bbc.com/news/videos/cx24jk0z74yo?at_medium=RSS&at_campaign=rss)
+
 ---
 
-### [Asda boss rejects profiteering claims as petrol price tops 150p](https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss)
+### Asda boss rejects profiteering claims as petrol price tops 150p
 
 Motorists are facing higher fuel prices ahead of Easter break due to the conflict in the Middle East, the RAC says.
 
----
-
-## 🇨🇳 国内新闻
-
-### [微视频｜“新”在中国](http://www.news.cn/politics/2022-12/14/c_1129207254.htm)
-
-<a href="http://www.news.cn/politics/2022-12/14/c_1129207254.htm">新时代的中国，日新月异。</a>
+📎 [阅读原文](https://www.bbc.com/news/articles/cdxdnd87v78o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### [疫情防控措施优化 各地复商复市进行时](http://www.news.cn/politics/2022-12/14/c_1129207168.htm)
+### Haberman reveals why Trump attacked judge and his family in speech
 
-<a href="http://www.news.cn/politics/2022-12/14/c_1129207168.htm">近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。</a>
+CNN political contributor Maggie Haberman explains the reasoning behind Donald Trump's attacks on the judge and his family during a speech at his Mar-a-Lago resort after he was arraigned on felony charges.
 
----
-
-### [国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案](http://www.news.cn/politics/2022-12/14/c_1129207117.htm)
-
-<a href="http://www.news.cn/politics/2022-12/14/c_1129207117.htm">为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。</a>
+📎 [阅读原文](https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn)
 
 ---
 
-### [Education, health fees among key concerns](http://www.chinadaily.com.cn/a/201712/12/WS5a2f29d4a3108bc8c6721a30.html)
+### Is Europe heading to an energy crisis?
 
-China to legislate on preschool education
+Europe is bracing for a supply crunch and a price shock as the Iran conflict drags on.
 
----
-
-### [Education, health fees among key concerns](http://www.chinadaily.com.cn/a/201712/12/WS5a2f29d4a3108bc8c6721a30.html)
-
-China to legislate on preschool education
+📎 [阅读原文](https://www.aljazeera.com/video/counting-the-cost/2026/3/27/is-europe-heading-to-an-energy-crisis?traffic_source=rss)
 
 ---
 
-### [International group praises green revival](http://www.chinadaily.com.cn/a/201712/12/WS5a2f2701a3108bc8c6721a16.html)
+### Meet the children left without parents under El Salvador’s emergency decree
 
-A high-level international advisory body applauded China's efforts to improve the environment and suggested a 15-year strategy against pollution in a draft recommendation report on Monday.
+As El Salvador's state of emergency turns four years old, families warn of the toll of the mass arrests on children.
+
+📎 [阅读原文](https://www.aljazeera.com/news/longform/2026/3/27/meet-the-children-left-without-parents-under-el-salvadors-emergency-decree?traffic_source=rss)
+
+---
+
+### Lebanon faces ‘humanitarian catastrophe’ under Israeli assault: UN
+
+Displaced Lebanese families 'living in constant fear' under Israeli bombardment, warns UN Refugee Agency official.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/3/27/lebanon-faces-humanitarian-catastrophe-under-israeli-assault-un?traffic_source=rss)
 
 ---
 
 ## 💼 财经科技
 
-### [龙湖：2025年收入973.1亿，预计两年后完成新模式筑基](https://36kr.com/p/3741132856115207?f=rss)
+### Rivian gets another $1B from Volkswagen
 
-<p>3月27日，龙湖集团发布2025年度业绩报告。报告显示，龙湖集团2025年营业收入约为973.1亿元。&nbsp;</p>
-  <p>其中，地产开发业务收入705.4亿元；运营及服务业务收入为267.7亿元，在集团营业收入中占比达到27.5%，创历史新高；公司拥有人应占溢利为10.2亿元；剔除投资物业及其他衍生金融工具公平值变动影响后，归母核心亏损为17亿元。&nbsp;</p>
-  <p>...
+The two companies have been collaborating on a joint venture that would see Rivian tech go in VW's EVs.
 
----
-
-### [氪星晚报｜菜鸟集团与泰国正大集团旗下CP AXTRA签署战略合作协议；平头哥镇岳510出货量超50万片，多家存储公司SSD已搭载该芯片；猎户星空推出AI Agent服务机器人](https://36kr.com/p/3737878513844224?f=rss)
-
-<h2><strong>大公司：</strong></h2>
-  <p><a href="https://36kr.com/newsflashes/3740914791317504" rel="noopener noreferrer" target="_blank"><strong>日本ispace公司将美国国家航空航天局（NASA）资助的登月任务推迟至2030年</strong></a></p>...
+📎 [阅读原文](https://techcrunch.com/2026/03/27/rivian-gets-another-1b-from-volkswagen/)
 
 ---
 
-### [瞄准多场景、全周期运动体验，趣冲健身推出多款自研AI智能健身设备｜最前线](https://36kr.com/p/3740892215623942?f=rss)
+### Iranian hackers claim breach of FBI director Kash Patel’s personal email account
 
-<p>作者｜黄楠</p>
-  <p>编辑｜袁斯来</p>
-  <p>一个庞大的万亿级健康消费市场正加速形成。根据国际健身协会（IFAI）等报告显示，近年来，数字健身市场增速高达41.4%，全球健身行业规模预计2030年达1.5万亿美元。其中，中国健康产业规模在2025年已突破10万亿元规模，健康生活服务赛道以每年超15%增速增长。</p>
-  <p>然而，传统健身行业长期受困于用户留存难、运营效率...
+Handala, a pro-Iranian hacking group allegedly working for Iran’s government, published emails it said were taken from the Gmail account of FBI director Kash Patel.
 
----
-
-### [The AI Doc explores how we can survive an uncertain AI future](https://www.engadget.com/entertainment/tv-movies/the-ai-doc-explores-how-we-can-survive-an-uncertain-ai-future-154341735.html?src=rss)
-
-<p>Anxiety, more so than technological rigor, sits at the heart of <em>The AI Doc: Or How I Became an Apocaloptimist. </em>Director Daniel Roher is anxious about the future he's bringing a child into ...
+📎 [阅读原文](https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/)
 
 ---
 
-### [The PS5 is getting more expensive... again](https://www.engadget.com/gaming/playstation/the-ps5-is-getting-more-expensive-again-133141514.html?src=rss)
+### Apple says no one using Lockdown Mode has been hacked with spyware
 
-<p>It was only last August that Sony <a href="https://www.engadget.com/gaming/playstation/sony-raises-ps5-console-prices-in-the-us-153429564.html">raised</a> PS5 console prices in the US, blaming a &q...
+The tech giant's claim that it has not seen any successful spyware attacks targeting Apple devices with Lockdown Mode enabled comes amid a leak of hacking tools targeting users running devices with older software.
 
----
-
-### [Engadget Podcast: Can Microsoft fix Windows 11 by dumping AI?](https://www.engadget.com/computing/engadget-podcast-can-microsoft-fix-windows-11-by-dumping-ai-122601592.html?src=rss)
-
-<p></p><p>It turns out people don't actually love having Copilot shoved into their faces. This week, Devindra and PCWorld Senior Editor Mark Hachman discuss <a class="link" href="https://www.engadget....
+📎 [阅读原文](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/)
 
 ---
 
+### Apple says no one using Lockdown Mode has been hacked with spyware
 
-*Generated by OpenClaw News Aggregator at 00:39 GMT+8*
+Article URL: https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/ Comments URL: https://news.ycombinator.com/item?id=47544614 Points: 19 # Comments: 1
+
+📎 [阅读原文](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/)
+
+---
+
+### SimpleX Chat
+
+Article URL: https://simplex.chat/ Comments URL: https://news.ycombinator.com/item?id=47544006 Points: 19 # Comments: 6
+
+📎 [阅读原文](https://simplex.chat/)
+
+---
+
+### Desk for people who work at home with a cat
+
+Article URL: https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/ Comments URL: https://news.ycombinator.com/item?id=47543943 Points: 59 # Comments: 26
+
+📎 [阅读原文](https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/)
+
+---
+
+### Apple pulls the plug on its high-priced, oft-neglected Mac Pro desktop
+
+M2 Ultra Mac Pro is no longer for sale, and Apple says no replacement is planned.
+
+📎 [阅读原文](https://arstechnica.com/gadgets/2026/03/apple-has-finally-discontinued-the-mac-pro-desktop-after-years-of-fitful-effort/)
+
+---
+
+### Rivian and VW Group complete winter testing of new zonal architecture
+
+The RV Tech joint venture passed a key milestone, opens up $1 billion for Rivian.
+
+📎 [阅读原文](https://arstechnica.com/cars/2026/03/rivian-and-vw-group-complete-winter-testing-of-new-zonal-architecture/)
+
+---
+
+### Senators want US energy information agency to monitor data center electricity usage
+
+In a letter, senators press for mandated annual electricity disclosure for data centers.
+
+📎 [阅读原文](https://arstechnica.com/tech-policy/2026/03/senators-want-us-energy-information-agency-to-monitor-data-center-electricity-usage/)
+
+---
+
+
+---
+
+📊 **今日摘要**: 16 篇精选文章
+
+*Generated by OpenClaw News Aggregator at 00:41 GMT+8*
