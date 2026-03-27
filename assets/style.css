@@ -25,13 +25,13 @@ body {
 header {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
-    padding: 40px 40px 20px;
+    padding: 30px 20px 20px;
     text-align: center;
 }
 
 header h1 {
-    font-size: 2.5em;
-    margin-bottom: 10px;
+    font-size: 2.2em;
+    margin-bottom: 8px;
 }
 
 header h1 a {
@@ -40,32 +40,37 @@ header h1 a {
 }
 
 .tagline {
-    font-size: 1.1em;
+    font-size: 1em;
     opacity: 0.9;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
-/* Tab Navigation */
-.tabs {
+/* Horizontal Tab Navigation */
+.tab-nav {
     display: flex;
     justify-content: center;
-    gap: 10px;
-    padding-top: 20px;
-    border-top: 1px solid rgba(255,255,255,0.3);
+    gap: 8px;
+    padding-top: 15px;
+    border-top: 1px solid rgba(255,255,255,0.2);
+    flex-wrap: wrap;
 }
 
 .tab {
-    padding: 10px 25px;
-    background: rgba(255,255,255,0.1);
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    padding: 8px 16px;
+    background: rgba(255,255,255,0.15);
     border-radius: 20px;
     color: white;
     text-decoration: none;
     transition: all 0.3s;
     font-weight: 500;
+    font-size: 0.9em;
 }
 
 .tab:hover {
-    background: rgba(255,255,255,0.2);
+    background: rgba(255,255,255,0.25);
     transform: translateY(-2px);
 }
 
@@ -74,35 +79,33 @@ header h1 a {
     color: #667eea;
 }
 
+.tab-icon {
+    font-size: 1.2em;
+}
+
+.tab-text {
+    white-space: nowrap;
+}
+
 main {
-    padding: 40px;
+    padding: 30px 20px;
 }
 
 h1, h2, h3 {
     color: #2c3e50;
-    margin-top: 30px;
+    margin-top: 25px;
     margin-bottom: 15px;
 }
 
 h2 {
-    font-size: 1.8em;
+    font-size: 1.6em;
     border-bottom: 3px solid #667eea;
     padding-bottom: 10px;
-    margin-top: 0;
 }
 
 h3 {
-    font-size: 1.3em;
+    font-size: 1.2em;
     color: #667eea;
-}
-
-h3 a {
-    color: #667eea;
-    text-decoration: none;
-}
-
-h3 a:hover {
-    text-decoration: underline;
 }
 
 p {
@@ -114,22 +117,13 @@ strong {
     color: #667eea;
 }
 
-ul, ol {
+ul {
     margin: 15px 0;
     padding-left: 30px;
 }
 
 li {
     margin-bottom: 8px;
-    color: #495057;
-}
-
-blockquote {
-    background: #f8f9fa;
-    border-left: 4px solid #667eea;
-    padding: 15px 20px;
-    margin: 20px 0;
-    font-style: italic;
     color: #495057;
 }
 
@@ -145,85 +139,21 @@ a:hover {
 hr {
     border: none;
     border-top: 2px solid #e9ecef;
-    margin: 30px 0;
+    margin: 25px 0;
 }
 
-code {
+blockquote {
     background: #f8f9fa;
-    padding: 2px 6px;
-    border-radius: 4px;
-    font-family: 'Monaco', 'Courier New', monospace;
-    font-size: 0.9em;
-    color: #e83e8c;
-}
-
-.archive-list {
-    list-style: none;
-    padding-left: 0;
-}
-
-.archive-list li {
-    background: #f8f9fa;
-    padding: 15px 20px;
-    border-radius: 8px;
-    margin-bottom: 10px;
-    transition: transform 0.2s, box-shadow 0.2s;
-}
-
-.archive-list li:hover {
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-}
-
-/* News Categories */
-.news-category {
-    margin: 30px 0;
-    padding: 20px;
-    background: #f8f9fa;
-    border-radius: 12px;
-}
-
-.news-category h2 {
-    margin-top: 0;
-    margin-bottom: 15px;
-}
-
-.news-item {
-    background: white;
-    padding: 15px 20px;
-    border-radius: 8px;
-    margin-bottom: 10px;
     border-left: 4px solid #667eea;
-}
-
-.news-item h4 {
-    color: #2c3e50;
-    margin-bottom: 8px;
-}
-
-.news-item .meta {
-    font-size: 0.9em;
-    color: #6c757d;
-    margin-bottom: 8px;
-}
-
-/* Summary Box */
-.summary-box {
-    background: linear-gradient(135deg, #667eea15 0%, #764ba215 100%);
-    padding: 20px;
-    border-radius: 12px;
-    margin: 20px 0;
-    border: 2px solid #667eea;
-}
-
-.summary-box h3 {
-    color: #667eea;
-    margin-top: 0;
+    padding: 12px 18px;
+    margin: 18px 0;
+    font-style: italic;
+    color: #495057;
 }
 
 footer {
     background: #f8f9fa;
-    padding: 30px;
+    padding: 25px 20px;
     text-align: center;
     color: #6c757d;
     border-top: 1px solid #dee2e6;
@@ -240,28 +170,27 @@ footer a {
     }
 
     header {
-        padding: 25px;
+        padding: 20px 15px 15px;
     }
 
     header h1 {
-        font-size: 1.8em;
+        font-size: 1.6em;
     }
 
     main {
-        padding: 20px;
+        padding: 20px 15px;
     }
 
     h2 {
-        font-size: 1.5em;
+        font-size: 1.3em;
     }
 
-    .tabs {
-        flex-direction: column;
-        gap: 5px;
+    .tab-nav {
+        gap: 6px;
     }
 
     .tab {
-        display: block;
-        text-align: center;
+        padding: 6px 12px;
+        font-size: 0.85em;
     }
 }

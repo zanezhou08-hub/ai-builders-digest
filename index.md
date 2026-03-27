@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Daily Digest"
-section: home
 ---
 
 # 🦞 Daily Digest
@@ -10,41 +9,45 @@ section: home
 
 ---
 
-## 📬 订阅内容
+## 📬 最新内容
 
-- **🤖 AI Builders Digest** - 每日精选 AI 领域顶尖建设者的洞察与思考
-- **📰 新闻速递** - 国际国内要闻、财经科技动态
+### 🤖 [AI Builders Digest — 2026年3月27日](2026-03-27-ai-builders.html)
+
+- Anthropic auto mode 发布
+- Andrej Karpathy 谈 LLM 记忆问题
+- AI for Science 的重大突破
+
+### 📰 [新闻速递 — 2026年3月28日](2026-03-28-news.html)
+
+- 国际新闻：霍尔木兹海峡风险、特朗普攻击法官
+- 科技新闻：Rivian 获大众投资
+- 国内新闻：需要配置 API key 或手动添加
 
 ---
 
 ## 🕐 投递时间
 
-- **早上 8:00** - AI Builders Digest + 新闻简报
-- **晚上 20:00** - 新闻速递（重要事件）
+- **早上 8:00** - AI Builders + 新闻简报
+- **晚上 20:00** - 新闻更新
 
 ---
 
-## 📚 最新内容
-
-### 🤖 AI Builders
-
-- [2026-03-27](/ai-builders/2026/03/27/) - Anthropic auto mode、Andrej Karpathy 谈 LLM 记忆、AI for Science 突破
-
-### 📰 新闻
-
-- [2026-03-28](/news/2026/03/28/) - 最新国际国内要闻
-
----
-
-## 🎯 理念
+## 📖 理念
 
 > Focus on what matters. Filter the noise.
 
 ---
 
-## 📖 快速导航
+## ⚠️ 关于国内新闻
 
-[🤖 AI Builders Archive](/ai-builders/) | [📰 News Archive](/news/)
+**当前状态**: 由于国内新闻网站不支持 RSS，暂时无法自动抓取。
+
+**解决方案**:
+1. **配置 Gemini API key** - 启用 web_search 功能
+2. **手动添加** - 我可以帮你整理重要新闻
+3. **使用第三方 API** - 如 NewsAPI 等
+
+**需要帮助?** 在 Telegram 中告诉我！🦞
 
 ---
 

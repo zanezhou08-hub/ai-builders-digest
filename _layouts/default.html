@@ -12,12 +12,21 @@
             <h1><a href="{{ site.baseurl }}/">🦞 Daily Digest</a></h1>
             <p class="tagline">每日精选 AI 洞察与全球新闻</p>
             
-            <!-- Tab Navigation -->
-            <div class="tabs">
-                <a href="{{ site.baseurl }}/" class="tab {% if page.section == 'home' %}active{% endif %}">首页</a>
-                <a href="{{ site.baseurl }}/ai-builders/" class="tab {% if page.section == 'ai' %}active{% endif %}">🤖 AI Builders</a>
-                <a href="{{ site.baseurl }}/news/" class="tab {% if page.section == 'news' %}active{% endif %}">📰 新闻</a>
-            </div>
+            <!-- Horizontal Tab Navigation -->
+            <nav class="tab-nav">
+                <a href="{{ site.baseurl }}/" class="tab {% if page.url == '/' %}active{% endif %}">
+                    <span class="tab-icon">🏠</span>
+                    <span class="tab-text">首页</span>
+                </a>
+                <a href="{{ site.baseurl }}/2026-03-27-ai-builders.html" class="tab {% if page.title contains 'AI Builders' %}active{% endif %}">
+                    <span class="tab-icon">🤖</span>
+                    <span class="tab-text">AI Builders</span>
+                </a>
+                <a href="{{ site.baseurl }}/2026-03-28-news.html" class="tab {% if page.title contains '新闻' %}active{% endif %}">
+                    <span class="tab-icon">📰</span>
+                    <span class="tab-text">新闻</span>
+                </a>
+            </nav>
         </header>
 
         <main>
@@ -26,6 +35,7 @@
 
         <footer>
             <p>Generated through <a href="https://github.com/zarazhangrui/follow-builders">Follow Builders</a> & <a href="#">News Aggregator</a></p>
+            <p style="margin-top: 10px; font-size: 0.9em;">每日 8:00 & 20:00 自动更新 · 北京时间</p>
         </footer>
     </div>
 </body>
