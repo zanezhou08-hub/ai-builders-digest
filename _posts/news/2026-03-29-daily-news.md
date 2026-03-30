@@ -11,27 +11,27 @@ section: news
 
 ## 🌍 国际新闻
 
-### Potential Houthi threat to Red Sea shipping could further damage global economy
+### Jeremy Bowen: Trump is waging war based on instinct and it isn't working
 
-The Iran-backed group could bring a second crucial waterway to a standstill, writes Sebastian Usher.
+One month into the conflict in Iran, Trump's gut-instinct approach is not proving effective, writes the BBC's international editor.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cwyvd5z1xjno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 'I was naive,' says minister who quit over Labour Together claims
-
-Josh Simons resigned after facing claims a think tank he used to run commissioned a report into journalists' backgrounds.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cy8135ny182o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/c5y969pnxgvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Another car crash and another arrest - what now for Tiger Woods?
+### Our skin is falling off and no-one can tell us why
 
-BBC golf correspondent Iain Carter assesses where Tiger Woods' latest arrest leaves his legacy.
+Posts with #TSW have had over a billion views on TikTok, sparking research into this mystery skin condition.
 
-📎 [阅读原文](https://www.bbc.com/sport/golf/articles/cn5322p5k99o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cx26pzpr71ko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Cut taxes on energy bills before giving bailouts, Badenoch says
+
+The Tory leader refuses to rule out direct payments to households if bills spike but says this would come at a cost.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c1d941vw172o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Vice President JD Vance tops CPAC’s straw poll to be US president in 2028
+### Pakistan hosts four-nation bid to encourage US, Iran towards diplomacy
 
-Secretary of State Marco Rubio, however, made advances in this year's informal poll about who might succeed Trump.
+Top diplomats of Pakistan, Egypt, Saudi Arabia and Turkiye meet to prepare ground for de-escalation in war on Iran.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/3/28/vice-president-jd-vance-tops-cpacs-straw-poll-to-be-us-president-in-2028?traffic_source=rss)
-
----
-
-### Key moments in first month of US-Israeli war on Iran
-
-One month after US and Israel launched strikes on Iran, the conflict has escalated across the Middle East.
-
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/3/28/key-moments-in-first-month-of-us-israeli-war-on-iran?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/3/29/pakistan-hosts-four-nation-bid-to-encourage-us-iran-towards-diplomacy?traffic_source=rss)
 
 ---
 
-### Air strikes in Iraq kill three PMF fighters, two police
+### ‘We will see a new government in Venezuela, in Cuba and in Iran’
 
-Iraq turning into 'expanding battleground' in war, which began on February 28 with US-Israeli strikes on Iran.
+Senator Ted Cruz says US President Donald Trump’s approach could lead to government changes in Venezuela, Cuba and Iran.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/3/28/air-strikes-in-iraq-kill-three-pmf-fighters-and-two-iraqi-police?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/3/29/we-will-see-a-new-government-in-venezuela-in-cuba-and-in?traffic_source=rss)
+
+---
+
+### Olympic gender test ‘a disrespect for women’, South Africa’s Semenya says
+
+Olympic gold medallist lashes out at IOC and its president, Kirsty Coventry, for asking women to prove themselves.
+
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/3/29/olympic-gender-test-a-disrespect-for-women-south-africas-semenya-says?traffic_source=rss)
 
 ---
 
@@ -135,27 +135,27 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
+### 科氪 | 变革传统同传设备，亮亮视野推出全球首创AR+AI会议翻译系统，部署中关村论坛
+
+在2026中关村论坛主会场，亮亮视野联合智谱AI推出并部署了全球首创的AR+AI会议翻译系统，为主论坛及多场平行论坛提供大会翻译保障。这套系统深度融合亮亮视野AR眼镜与智谱AI大模型能力，可支持54种语言实时翻译，延迟小于1秒，单次续航8小时，并可7×24小时稳定运行。这标志着国际会议翻译从传统设备和人工依赖，迈向更高效率、更低成本、更强普惠性的 AR+AI 新阶段。 长期以来，国际会议翻译领域始终受困于部署繁琐、成本高昂、语种覆盖有限、实时传递滞后等核心痛点。尤其在大型论坛、专业峰会等高端跨语言交流场景中，传统同传模式更受限于包厢搭建、接收设备调试、专业人工译员稀缺及会场信号不稳定等多重因素...
+
+📎 [阅读原文](https://36kr.com/p/3743855989587971?f=rss)
+
+---
+
+### 36氪首发 | 这家量子计算公司获吉利等数亿投资，对标国际巨头Quantinuum
+
+作者丨欧雪 编辑丨袁斯来 硬氪获悉，合肥幺正量子科技有限公司（以下简称“幺正量子”）近日已完成数亿元Pre A轮融资。本轮由蚂蚁集团和吉利资本联合领投，混沌投资、英飞尼迪、中博聚力、国元基金等跟投，老股东顺为资本追加投资，云岫资本担任本轮独家财务顾问。资金将主要用于加速QCCD离子阱量子计算路线的核心技术研发。 幺正量子成立于2022年，是目前国内唯一基于QCCD（量子电荷耦合架构）离子阱技术路线的量子计算公司。 公司孵化自郭光灿院士创立的中科院量子信息重点实验室，创始人韩永建博士毕业于中国科大，师从郭光灿院士，曾在美国密西根大学段路明院士组从事博士后研究，期间曾与国际离子阱先驱、IONQ创始...
+
+📎 [阅读原文](https://36kr.com/p/3743360666566919?f=rss)
+
+---
+
 ### 「一人一天一部剧」时代降临，但AI短剧供给过剩不是末日｜专访巨日禄杰夫
 
 2026春节前，由字节跳动旗下视频生成模型Seedance2.0掀起的巨浪，正推动AI剧走向规模化落地。身在这场巨变中的短剧公司，或惊恐、焦虑，抑或面对新的机会热情高涨。 AI短剧创作平台巨日禄创始人杰夫预判，3—4月将成为行业关键节点，“一人一天一部剧”的生产能力成为现实，商业化标准的短剧制作成本将被大幅压缩，随之而来的是成本结构的彻底倒挂：人力成本占比从8成骤降至2成，算力与Token成为核心成本。供给过剩将在两三个月后如期而至，但这并非赛道式微的信号，反而意味着市场细分需求将被充分激活，行业总盘持续扩大。 在他看来，这场变革远不止于效率提升。从“跟风盯榜单”到“回归用户本身”，从“平台找...
 
 📎 [阅读原文](https://36kr.com/p/3738258350817540?f=rss)
-
----
-
-### 9点1氪｜“华人神探”李昌钰去世；罗技为“一降价你像狗一样跑来”广告语道歉；寿司郎就餐需出示手机SIM卡尾号
-
-今日热点导览 前阿里千问负责人林俊旸离职后首发长文：从训练模型转向训练智能体 九号公司：与泡泡玛特达成合作，联名电动车将于4月推出 苹果公司或将改变战略，向外部人工智能助手开放Siri 多位即将卸任的CEO将人工智能列为决定离职的原因之一 英国将对限制青少年使用社交媒体展开试点 TOP3大新闻 美籍华裔刑事鉴识专家李昌钰逝世，享年87岁 美国康涅狄格州纽黑文大学27日发布公告说，美籍华裔刑事鉴识专家李昌钰当天在位于内华达州的家中逝世，享年87岁。纽黑文大学校长延斯·弗雷泽里克森表示，李昌钰对该校以及国际法医学界作出卓越贡献，深刻影响一代又一代学生和执法专业人员。 李昌钰1938年11月生于江苏...
-
-📎 [阅读原文](https://36kr.com/p/3741924007461128?f=rss)
-
----
-
-### 曹操出行2025年业绩：首次调整后Q4盈利，迈向盈利性增长新阶段
-
-3月27日，曹操出行公布了2025年全年业绩���数据显示，公司业务范围已覆盖全国195座城市，2025年全年实现营收202亿元，同比增长38%；毛利率提升至9.4%，增加1.3个百分点。 更值得关注的是第四季度的财务数据——期内公司经调整净利润转正，历史性地首次实现单季扭亏为盈。与此同时，现金流指标也释放出积极信号，公司全年经营活动净现金流同比增长60.3%。这意味着，曹操出行已经彻底摆脱了依赖外部输血的阶段，真正具备了自我造血与内生增长的能力。 在中国共享出行版图中，曹操出行始终是一个独特的存在。其不仅是定制车模式的先行者，更是吉利控股在Robotaxi万亿赛道上的“终极落子”。 这种产业...
-
-📎 [阅读原文](https://36kr.com/p/3741142695117059?f=rss)
 
 ---
 
@@ -183,27 +183,35 @@ While there’s been plenty of debate about AI sycophancy, a new study by Stanfo
 
 ---
 
-### South Korea Mandates Solar Panels for Public Parking Lots
+### Show HN: Sheet Ninja – Google Sheets as a CRUD Back End for Vibe Coders
 
-Article URL: https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ Comments URL: https://news.ycombinator.com/item?id=47558997 Points: 23 # Comments: 2
+Article URL: https://sheetninja.io Comments URL: https://news.ycombinator.com/item?id=47562288 Points: 7 # Comments: 2
 
-📎 [阅读原文](https://www.reutersconnect.com/item/south-korea-mandates-solar-panels-for-public-parking-lots/dGFnOnJldXRlcnMuY29tLDIwMjY6bmV3c21sX01UMU5VUlBITzAwMFZKRjFZQQ)
-
----
-
-### TreeTrek – A raw Git repository viewer web app
-
-Article URL: https://repo.autonoma.ca/treetrek Comments URL: https://news.ycombinator.com/item?id=47558843 Points: 3 # Comments: 0
-
-📎 [阅读原文](https://repo.autonoma.ca/treetrek)
+📎 [阅读原文](https://sheetninja.io)
 
 ---
 
-### Roman Catholic Churches See a Surge of New Converts
+### Miasma: A tool to trap AI web scrapers in an endless poison pit
 
-Article URL: https://www.nytimes.com/2026/03/26/us/catholics-converts.html Comments URL: https://news.ycombinator.com/item?id=47558813 Points: 8 # Comments: 0
+Article URL: https://github.com/austin-weeks/miasma Comments URL: https://news.ycombinator.com/item?id=47561819 Points: 9 # Comments: 1
 
-📎 [阅读原文](https://www.nytimes.com/2026/03/26/us/catholics-converts.html)
+📎 [阅读原文](https://github.com/austin-weeks/miasma)
+
+---
+
+### Overestimation of microplastics potentially caused by scientists' gloves
+
+Article URL: https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/ Comments URL: https://news.ycombinator.com/item?id=47561711 Points: 19 # Comments: 1
+
+📎 [阅读原文](https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/)
+
+---
+
+### Polygraphs have major flaws. Are there better options?
+
+Research proceeds on alternatives, but some doubt whether true lie detection is possible.
+
+📎 [阅读原文](https://arstechnica.com/science/2026/03/polygraphs-have-major-flaws-are-there-better-options/)
 
 ---
 
@@ -223,14 +231,6 @@ A quantum experiment shows that we can formally test if the order of events matt
 
 ---
 
-### How new fishing tech can reduce bycatch of turtles and other creatures
-
-Specially equipped nets can help save some species, while allowing fisherman to still catch others.
-
-📎 [阅读原文](https://arstechnica.com/science/2026/03/how-new-fishing-tech-can-reduce-bycatch-of-turtles-and-other-creatures/)
-
----
-
 
 ---
 
@@ -240,4 +240,4 @@ Specially equipped nets can help save some species, while allowing fisherman to 
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:02 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
