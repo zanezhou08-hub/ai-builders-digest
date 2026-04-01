@@ -6,7 +6,7 @@
 WORK_DIR="/Users/zx/.openclaw/workspace/follow-builders-digest"
 SCRIPT_DIR="/Users/zx/.openclaw/workspace/skills/tavily-search"
 DATE=$(date +%Y-%m-%d)
-NEWS_FILE="$WORK_DIR/2026-$DATE-news.md"
+NEWS_FILE="$WORK_DIR/$DATE-news.md"
 
 cd "$WORK_DIR"
 
@@ -28,13 +28,7 @@ fetch_news() {
     echo "🔍 Fetching $topic news..."
     
     # Use the tavily skill to fetch news
-    if [ "$topic" = "international" ]; then
-        node "$SCRIPT_DIR/scripts/search.mjs "$search_query" --topic news --days 1" > temp_news.txt
-    elif [ "$topic" = "china" ]; then
-        node "$SCRIPT_DIR/scripts/search.mjs "$search_query" --topic news --days 1" > temp_news.txt
-    elif [ "$topic" = "tech" ]; then
-        node "$SCRIPT_DIR/scripts/search.mjs "$search_query" --topic news --days 1" > temp_news.txt
-    fi
+    node "$SCRIPT_DIR/scripts/search.mjs" "$search_query" --topic news --days 1 > temp_news.txt 2>&1
     
     # Process results and count articles
     local article_count=0
@@ -68,24 +62,24 @@ fetch_news() {
 cat > "$NEWS_FILE" << EOF
 ---
 layout: default
-title: "新闻速递 — 2026年$DATE"
+title: "新闻速递 — $DATE"
 date: $DATE
 ---
 
-# 📰 新闻速递 — 2026年$DATE
+# 📰 新闻速递 — $DATE
 
 ---
 
 EOF
 
-# Fetch news for each category and count articles
-international_count=$(fetch_news "international" "🌍 国际新闻" "world news latest breaking news")
+# Fetch news for each category and count articles (中文搜索)
+international_count=$(fetch_news "international" "🌍 国际新闻" "今日国际新闻 全球要闻")
 echo "---" >> "$NEWS_FILE"
 
-china_count=$(fetch_news "china" "🇨🇳 国内新闻" "China news latest breaking news")
+china_count=$(fetch_news "china" "🇨🇳 国内新闻" "今日国内新闻 中国要闻")
 echo "---" >> "$NEWS_FILE"
 
-tech_count=$(fetch_news "tech" "💼 财经科技" "AI technology news latest tech news")
+tech_count=$(fetch_news "tech" "💼 财经科技" "科技新闻 AI人工智能 财经要闻")
 echo "---" >> "$NEWS_FILE"
 
 # Calculate total articles
