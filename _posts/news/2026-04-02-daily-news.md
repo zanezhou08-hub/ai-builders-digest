@@ -11,233 +11,202 @@ section: news
 
 ## 🌍 国际新闻
 
-### BBC sacked Scott Mills after learning alleged victim in police investigation was under 16
+### 🇺🇸🇮🇷 特朗普称伊朗请求停火，但坚持先重开霍尔木兹海峡
 
-It comes as Mills released a statement saying he had "fully cooperated and responded" with the police investigation in 2018.
+特朗普在Truth Social上表示伊朗"新政权总统"已请求停火，但美国只有在霍尔木兹海峡恢复自由通航后才会考虑。特朗普称美国将在2-3周内结束对伊行动，并计划于美东时间4月1日晚9点发表全国讲话。伊朗外交部发言人则称特朗普的说法"虚假且毫无根据"。此前一天，美股因战争可能结束的消息大涨，道指飙升1125点。
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c4gv7yj71llo?at_medium=RSS&at_campaign=rss)
-
----
-
-### UK will seek closer ties with EU in light of Iran war, Starmer says
-
-It comes as UK-US relations have been strained by the PM's refusal to be dragged further into the Iran war.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss)
+📎 [CNBC](https://www.cnbc.com/2026/04/01/trump-iran-war-ceasefire.html) | [AP News](https://apnews.com/live/iran-war-israel-trump-04-01-2026)
 
 ---
 
-### Travelodge boss was sent email by sex assault victim
+### 🚀 NASA Artemis II 成功发射，四名宇航员开启10天月球任务
 
-The victim of a sexual assault in a Travelodge - by a man given the key card to her room - sent an email to the chief executive soon after the attack.
+NASA于4月1日晚成功发射四名宇航员前往月球，这是Artemis载人登月计划的第二次关键任务，标志着人类重返月球计划迈出重要一步。
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cg54vn87813o?at_medium=RSS&at_campaign=rss)
-
----
-
-### Haberman reveals why Trump attacked judge and his family in speech
-
-CNN political contributor Maggie Haberman explains the reasoning behind Donald Trump's attacks on the judge and his family during a speech at his Mar-a-Lago resort after he was arraigned on felony charges.
-
-📎 [阅读原文](https://www.cnn.com/videos/politics/2023/04/05/maggie-haberman-donald-trump-speech-indictment-reaction-sot-cnntm-vpx.cnn)
+📎 [The Guardian](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates) | [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/4/1/artemis-ii-successfully-launches-four-astronauts-into-space?traffic_source=rss)
 
 ---
 
-### FBI agents from US arrive in Cuba to probe lethal speedboat shooting
+### 🇬🇧 英国将寻求与欧盟加强关系，斯塔默称受伊朗战争影响
 
-Trump administration has denied involvement after Cuban government says a boat of armed men tried to infiltrate island.
+英国首相斯塔默表示，在伊朗战争导致英美关系紧张的背景下，英国将寻求与欧盟建立更紧密的联系。此前英国拒绝进一步卷入伊朗军事冲突。
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/4/1/fbi-agents-from-us-arrive-in-cuba-to-probe-lethal-speedboat-shooting?traffic_source=rss)
-
----
-
-### First troops from UN-backed Gang Suppression Force arrive in Haiti
-
-The force has an initial mandate of 12 months to address widespread gang violence in Haiti ahead of its elections.
-
-📎 [阅读原文](https://www.aljazeera.com/news/2026/4/1/first-troops-from-un-backed-gang-suppression-force-arrive-in-haiti?traffic_source=rss)
+📎 [BBC](https://www.bbc.com/news/articles/c62l6w03lwzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Artemis II successfully launches four astronauts into space
+### 🇮🇷 伊朗威胁攻击中东地区18家美国科技公司基础设施
 
-NASA successfully launched four astronauts into space on Wednesday evening, for a 10-day flight to the moon.
+伊朗伊斯兰革命卫队通过Telegram发布声明，威胁将攻击Nvidia、Apple、Microsoft、Google、Tesla、Intel、Oracle等18家美国科技公司在中东的基础设施，称这是对任何暗杀伊朗官员行为的报复。此前伊朗曾攻击阿联酋的亚马逊数据中心。
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/4/1/artemis-ii-successfully-launches-four-astronauts-into-space?traffic_source=rss)
+📎 [Investopedia](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-04012026-11940240)
+
+---
+
+### 🇭🇹 联合国支持的"镇压帮派部队"首批部队抵达海地
+
+该部队初始授权12个月，旨在应对海地广泛存在的帮派暴力问题，为即将到来的选举创造安全环境。
+
+📎 [Al Jazeera](https://www.aljazeera.com/news/2026/4/1/first-troops-from-un-backed-gang-suppression-force-arrive-in-haiti?traffic_source=rss)
+
+---
+
+### 🇨🇺 FBI探员抵达古巴调查致命快艇袭击事件
+
+古巴政府称一艘载有武装人员的快艇试图入侵古巴，特朗普政府否认参与。FBI已派出探员协助调查。
+
+📎 [Al Jazeera](https://www.aljazeera.com/news/2026/4/1/fbi-agents-from-us-arrive-in-cuba-to-probe-lethal-speedboat-shooting?traffic_source=rss)
 
 ---
 
 ## 🇨🇳 国内新闻
 
-### Education, health fees among key concerns
+### 📊 华为2025年年报发布：营收增长2.2%
 
-China to legislate on preschool education
+华为发布年度报告，全年营收实现2.2%的增长，在复杂国际环境和制裁压力下保持稳健发展。
 
-📎 [阅读原文](http://www.chinadaily.com.cn/a/201712/12/WS5a2f29d4a3108bc8c6721a30.html)
-
----
-
-### Education, health fees among key concerns
-
-China to legislate on preschool education
-
-📎 [阅读原文](http://www.chinadaily.com.cn/a/201712/12/WS5a2f29d4a3108bc8c6721a30.html)
+📎 [Reuters](https://www.reuters.com/video/watch/idRW919801042026RP1/)
 
 ---
 
-### International group praises green revival
+### 🏭 中国制造业PMI放缓，伊朗战争威胁出口
 
-A high-level international advisory body applauded China's efforts to improve the environment and suggested a 15-year strategy against pollution in a draft recommendation report on Monday.
+受伊朗战争推高出口成本影响，中国制造业活动指标出现放缓，显示出地缘政治冲突对中国经济的溢出效应。
 
-📎 [阅读原文](http://www.chinadaily.com.cn/a/201712/12/WS5a2f2701a3108bc8c6721a16.html)
-
----
-
-### 疫情防控措施优化 各地复商复市进行时
-
-近日，全国多地加大复商复市力度，有序恢复正常生产生活秩序。
-
-📎 [阅读原文](http://www.news.cn/politics/2022-12/14/c_1129207168.htm)
+📎 [Bloomberg Law](https://news.bloomberglaw.com/international-trade/china-factory-activity-gauge-slows-as-iran-war-threatens-exports)
 
 ---
 
-### 国家卫健委发布新冠病毒疫苗第二剂次加强免疫接种实施方案
+### 🏍️ 小牛电动宣布全面转型AI，发布灵犀AIOS系统
 
-为深入贯彻落实党中央、国务院决策部署，进一步做好新冠肺炎疫情应对工作，保障人民群众生命安全和身体健康，经研究，现提出新冠病毒疫苗第二剂次加强免疫接种实施方案。
+成立12年的两轮电动车厂商小牛电动宣布"All in or nothing"转型AI，在新品NXT2和NX2上搭载自研的灵犀AIOS和首个面向骑行的AI智能体，具备雨天自动防侧滑、语音导航等功能。
 
-📎 [阅读原文](http://www.news.cn/politics/2022-12/14/c_1129207117.htm)
-
----
-
-### 学习卡丨“人不负青山，青山定不负人”
-
-生态环境是关系党的使命宗旨的重大政治问题，也是关系民生的重大社会问题。 习近平总书记多次指出，必须站在中华民族永续发展根本大计的高度，尊重自然、顺应自然、保护自然，建设人与自然和谐共生的现代化，建设望得见山、看得见水、记得住乡愁的美丽中国。 今天（6月5日）是世界环境日。如何像保护眼睛一样保护自然和生态环境？一起学习↓↓↓ 总监制丨闫帅南 监制丨李浙 主编丨王兴栋 编辑&制图丨马玮璐
-
-📎 [阅读原文](http://politics.people.com.cn/n1/2025/0605/c1001-40494898.html)
+📎 [36氪](https://36kr.com/p/3748233045541637?f=rss)
 
 ---
 
-### 镜观·足迹｜呵护千山万水 擘画永续发展
+### 🚗 特斯拉正式停产Model S和Model X，弗里蒙特工厂转产Optimus人形机器人
 
-大美中国，江山如画。 党的十八大以来，习近平总书记的考察足迹遍及神州大地。祁连山麓、坝上林海，秦岭深处、黄河之滨，总书记在大江奔涌处谋划千秋大计，在山川锦绣间擘画生态蓝图。一系列重要论述，为新时代生态文明建设提供了根本遵循和行动指南。 世界环境日到来之际，我们跟随习近平总书记的脚步，一起呵护山水、寄情山水，领悟守护绿水青山、建设生态文明之道。 江河为脉 心系长江之变，习近平总书记前往沿江重镇，考察长江经济带发展。从三峡库区到洞庭湖畔，从港口码头到企业车间，总书记深入调研，作出一系列重要指示，为新时代江河保护治理提供了重要遵循。 2018年4月，习近平总书记来到湖南岳阳城陵矶水文站考察。在狭窄的...
+马斯克4月1日在X平台宣布，特斯拉正式停产Model S和Model X两款车型，停止接受新车定制订单。弗里蒙特工厂将转产Optimus人形机器人。
 
-📎 [阅读原文](http://politics.people.com.cn/n1/2025/0605/c1001-40494899.html)
-
----
-
-### 学习手记 | “环境就是民生”
-
-6月5日是世界环境日，也是我国环境保护法确立的环境日。 22年前的这一天，在时任浙江省委书记习近平部署推动下，以农村人居环境整治为重点的“千万工程”启动。 当时，习近平同志担任浙江省委书记刚半年多，工作千头万绪。他何以将农村人居环境整治作为重点工作？ 在基层调研时，习近平同志发现，在浙江经济快速发展的同时，广大农村却面临“成长的烦恼”，村庄面貌不如人意。 全省3.4万个村庄中，人居环境较好的仅4000个。有人形容：“走过一村又一村，村村都是垃圾村。”还有农民这样描述：“起早贪黑赚钞票，垃圾堆里数钞票，躺在医院花钞票。”可以说，人居环境整治是当时浙江农村群众的一个迫切期盼。 “千万工程”聚焦乡亲...
-
-📎 [阅读原文](http://politics.people.com.cn/n1/2025/0605/c1001-40494900.html)
+📎 [36氪](https://36kr.com/p/3748061455778311?f=rss)
 
 ---
 
 ## 💼 财经科技
 
-### 小牛电动胡依林：一家成立12年的两轮电动车厂商决定转型AI，“all in or nothing”
+### 💰 AI公司融资创历史纪录：Q1筹集2970亿美元
 
-文｜邱晓芬 编辑｜苏建勋 一家成立12年的两轮电动车厂商，在成功经历过中国的锂电化、智能化浪潮，并在纳斯达克上市后，决定加入AI时代全新的竞争。造AI时代的智能两轮电动车——被小牛电动称为：“下一个十年的护城河”。 在小牛电动不久前的发布会上，他们展示了初步的成果——在新发布的电动车NXT2和NX2上，搭载了自研的小牛灵犀AIOS、以及首个面向骑行的AI智能体。 当你开车上路时，小牛灵犀AIOS和智能体的搭配，将让你的电动车变成“会看路、懂说话”的骑行伙伴。 举个例子，当你在雨天转弯时，AI会识别到骑行状态，并自动开启防侧滑功能；你也可以让它“找附近人少的咖啡店”，电动车能听懂并导航…… △小...
+据Crunchbase数据，2026年Q1全球AI公司融资总额达2970亿美元，打破历史纪录。OpenAI融资1220亿美元、Anthropic 300亿、xAI 200亿、Waymo 160亿。AI交易占Q1全部融资的81%，投资者对AI泡沫的担忧正在消退。
 
-📎 [阅读原文](https://36kr.com/p/3748233045541637?f=rss)
-
----
-
-### 2026有智青年挑战赛，报名通道全面开启！
-
-这不是一场传统比赛，是一次对话。 我们始终相信，AI 的使命不应是取代人类，而是帮助人类变得更强大。因此在这次选拔中，我们不会关注你的教育背景、融资规模或是使用了多么前沿的算法，唯一在意的是你的产品是否真正让个体变得更强。 行至决赛，你会站上WAVES的舞台，这是中国创投圈最重要的舞台之一，台下坐着投资人、产业伙伴、未来的用户，过去很多你叫得出名字的创业者，都是从这里被看见、被理解、被加速。2026年夏天，我们想把这个舞台分你一半。 大赛报名已开启，欢迎所有年轻实干家报名，等你来定义下一个—商业坐标！ Part01- 赛道划分 赛道一：智能体——"第二大脑"挑战赛 核心命题：设计一个能嵌入个人...
-
-📎 [阅读原文](https://36kr.com/p/3748145916740100?f=rss)
+📎 [NYT](https://www.nytimes.com/2026/04/01/technology/ai-companies-fund-raising-records.html)
 
 ---
 
-### 氪星晚报｜特斯拉正式停产Model S和Model X两款车型；马斯克：FSD 14.3版本预计将于本周末发布；阿里发布Wan2.7-Image
+### 🚀 SpaceX秘密提交IPO申请，或成史上最大IPO
 
-大公司： 李亚鹏名下公司成立麋鹿咖啡公司 36氪获悉，爱企查App显示，近日，云南麋鹿咖啡有限公司成立，法定代表人为杨凝，注册资本100万元人民币，经营范围包括咖啡豆种植、食用农产品批发、食用农产品零售、食品互联网销售等。股权穿透图显示，该公司由李亚鹏名下北京艺莲文化科技有限公司、罗毓藻分别持股90%、10%。 特斯拉正式停产Model S和Model X两款车型 据媒体报道，马斯克4月1日在X平台发文，宣布特斯拉正式停产Model S和Model X两款车型，目前已停止接受新车定制订单，消费者只能购买库存现车。此前马斯克表示，将在弗里蒙特工厂生产Optimus人形机器人，Model S和Mo...
+据Bloomberg和WSJ报道，SpaceX已秘密提交IPO申请，计划融资400-800亿美元。即使取下限，也将超越沙特阿美292亿美元的纪录。SpaceX此前通过与xAI合并，估值已超过OpenAI成为全球最有价值私人公司。
 
-📎 [阅读原文](https://36kr.com/p/3748061455778311?f=rss)
-
----
-
-### Cash App launches ‘buy now, pay later’ feature for P2P pay transfers
-
-Block says that the new feature has strong built-in protections to keep users from so-called debt spirals.
-
-📎 [阅读原文](https://techcrunch.com/2026/04/01/cash-app-launches-buy-now-pay-later-feature-for-p2p-pay-transfers/)
+📎 [Investopedia](https://www.investopedia.com/the-countdown-starts-on-musk-mega-ipo-spacex-files-confidentially-to-go-public-reports-say-11940586)
 
 ---
 
-### De-fi platform Drift suspends deposits and withdrawals after millions in crypto stolen in hack
+### 📈 美股连续两日大涨：道指涨0.5%，纳指涨1.2%
 
-Blockchain trackers put the cryptocurrency heist in the hundreds of millions of dollars and is already on track to be the largest crypto theft in 2026 so far.
+受伊朗停火乐观情绪推动，美股第二季度开门红。道指涨0.5%，标普500涨0.7%，纳指涨1.2%。Intel涨近10%（142亿美元回购爱尔兰芯片厂49%股权）、Alphabet涨3.5%。Nike暴跌15%（销售前景悲观），RH暴跌19%。
 
-📎 [阅读原文](https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/)
-
----
-
-### Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident
-
-Anthropic executives said it was an accident and retracted the bulk of the takedown notices.
-
-📎 [阅读原文](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)
+📎 [Investopedia](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-04012026-11940240)
 
 ---
 
-### A new C++ back end for ocamlc
+### 💊 FDA批准礼来GLP-1减肥口服药Foundayo（orforglipron）
 
-Article URL: https://github.com/ocaml/ocaml/pull/14701 Comments URL: https://news.ycombinator.com/item?id=47608058 Points: 16 # Comments: 0
+礼来宣布FDA批准其GLP-1口服减肥药Foundayo，为"唯一可在一天中任意时间服用、无饮食限制的GLP-1减肥药"。临床试验显示最高剂量平均减重12.4%。保险自付$25/月，自费$149/月。礼来股价涨5%。
 
-📎 [阅读原文](https://github.com/ocaml/ocaml/pull/14701)
-
----
-
-### Artemis II lifts off: four astronauts begin 10-day lunar mission
-
-Article URL: https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates Comments URL: https://news.ycombinator.com/item?id=47607447 Points: 242 # Comments: 136
-
-📎 [阅读原文](https://www.theguardian.com/science/live/2026/apr/01/artemis-ii-launch-nasa-orion-moon-trip-live-updates)
+📎 [Investopedia](https://www.investopedia.com/stock-market-today-dow-jones-s-and-p-500-04012026-11940240)
 
 ---
 
-### Swappa.com for GrapheneOS compatible devices – Stay Away
+### 🤖 Meta、Google、JPMorgan等大公司强制推行AI工具使用
 
-Article URL: https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away Comments URL: https://news.ycombinator.com/item?id=47607067 Points: 80 # Comments: 45
+据Business Insider报道，多家大型企业正在通过激励措施和强制要求推动员工使用AI工具，AI在工作场所的普及正在加速。
 
-📎 [阅读原文](https://discuss.grapheneos.org/d/33727-swappacom-for-grapheneos-compatible-devices-stay-away)
-
----
-
-### Nvidia rolls out its fix for PC gaming's "compiling shaders" wait times
-
-Microsoft, Intel are also working on their own solutions for the issue.
-
-📎 [阅读原文](https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/)
+📎 [Let's Data Science](https://letsdatascience.com/news/companies-push-employees-to-adopt-ai-94bd7b7e)
 
 ---
 
-### Here's what that Claude Code source leak reveals about Anthropic's plans
+### 📢 OpenAI签约Smartly，启动ChatGPT个性化广告试点
 
-A persistent agent, stealth "Undercover" mode, and... a virtual assistant named Buddy?
+OpenAI与广告技术公司Smartly签约，成为其首个创意广告合作伙伴，将在娱乐、零售和体育领域试点个性化对话式ChatGPT广告。
 
-📎 [阅读原文](https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/)
-
----
-
-### Research roundup: 7 cool science stories we almost missed
-
-Sperm gets lost in space; raccoons solve puzzles; the physics of folding a crepe; and more.
-
-📎 [阅读原文](https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/)
+📎 [Let's Data Science](https://letsdatascience.com/news/openai-signs-smartly-to-personalize-ads-282b2080)
 
 ---
 
+### 🔐 Claude Code源码泄露揭示Anthropic计划：持久代理、隐形模式与"Buddy"助手
+
+Anthropic此前发生了Claude Code源码泄露事件。Ars Technica分析发现泄露代码揭示了Anthropic的开发计划：持久代理模式、秘密"Undercover"模式，以及名为"Buddy"的虚拟助手。
+
+📎 [Ars Technica](https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/)
 
 ---
 
-📊 **今日摘要**: 27 篇精选文章
+### 💻 Anthropic误发数千条GitHub仓库下架通知
 
-- 🌍 国际: 7 篇
-- 🇨🇳 国内: 8 篇
-- 💼 科技: 12 篇
+Anthropic为撤回泄露的源代码，向GitHub发送了大量DMCA下架通知，影响了数千个无关仓库。公司高管事后承认是"误操作"并撤回了大部分通知。
 
-*Generated by OpenClaw News Aggregator at 08:01 GMT+8*
+📎 [TechCrunch](https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/)
+
+---
+
+### 🔐 DeFi平台Drift遭黑客攻击，数亿美元加密资产被盗
+
+区块链追踪显示此次盗窃规模达数亿美元，可能成为2026年迄今最大的加密货币盗窃案。Drift已暂停存取款服务。
+
+📎 [TechCrunch](https://techcrunch.com/2026/04/01/de-fi-platform-drift-suspends-deposits-and-withdrawals-after-millions-in-crypto-stolen-in-hack/)
+
+---
+
+### 🏢 Oracle大规模裁员，科技行业AI转型阵痛持续
+
+继多家科技巨头后，Oracle也启动了大规模裁员，CNBC报道称裁员人数可能达"数千人"。Oracle当前约有16.2万名全职员工。
+
+📎 [Investopedia](https://www.investopedia.com/big-tech-faces-another-large-round-of-layoffs-this-time-it-is-oracle-orcl-11938208)
+
+---
+
+### 🛒 Nike股价暴跌至2014年以来最低，中国市场销售预期大幅下滑
+
+Nike发布财报后股价暴跌超15%，跌至2014年以来最低水平。公司预计本季度营收将下降2%-4%，中国市场预计下滑20%。CEO称"转型所需时间比我预期的更长"。
+
+📎 [Investopedia](https://www.investopedia.com/nike-projects-a-decline-in-sales-its-stock-is-getting-hammered-nke-11938721)
+
+---
+
+### 🎮 Nvidia推出着色器预编译解决方案，解决游戏加载等待问题
+
+Nvidia发布了新应用，允许用户在电脑空闲时预编译游戏着色器，解决PC游戏长期存在的"编译着色器"等待时间问题。Microsoft和Intel也在开发各自的解决方案。
+
+📎 [Ars Technica](https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/)
+
+---
+
+## 📊 今日数据
+
+- 🛢️ WTI原油：$99.70/桶（-1.7%）| 布伦特原油：$101/桶（-3%）
+- 🥇 黄金：$4,795/盎司（+2.5%），较1月29日高点$5,625回落
+- 💵 美元指数：99.62（-0.3%）
+- ₿ 比特币：$68,100
+- 📊 10年期美债收益率：4.33%
+- 💼 美国3月ADP私人部门就业：+62,000（预期39,000）
+- ⛽ 美国汽油均价：$4/加仑（自2022年以来首次）
+
+---
+
+📊 **今日摘要**: 21 篇精选文章
+
+- 🌍 国际: 6 篇
+- 🇨🇳 国内: 4 篇
+- 💼 财经科技: 11 篇
+
+*Generated by OpenClaw News Aggregator at 08:20 GMT+8*
