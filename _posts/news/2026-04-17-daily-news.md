@@ -11,27 +11,27 @@ section: news
 
 ## 🌍 国际新闻
 
-### Top Foreign Office official to leave post after Mandelson vetting row
+### Chris Mason: Mandelson nightmare haunts Starmer again
 
-It comes after it emerged the peer failed security vetting but the Foreign Office still allowed him to take up the post.
+The prime minister is believed to be absolutely furious over the handling of Lord Mandelson's vetting, Chris Mason writes.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c747r3v90k3o?at_medium=RSS&at_campaign=rss)
-
----
-
-### UK seeks closer EU ties in volatile times - but at what cost?
-
-The UK is adopting a "ruthlessly pragmatic" approach to becoming closer to its European neighbours, the UK's EU minister tells the BBC.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cqj8pg5yppwo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/c8dl8l5l008o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Andrew invited to relinquish Freedom of City
+### Kensington Gardens shut as police 'assess items'
 
-Andrew Mountbatten-Windsor received the historic honour in 2012 "by virtue of patrimony".
+It comes after a video is shared in which a group claims to have targeted the nearby Embassy of Israel.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c239219g7l5o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cj60p6zldzgo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Lamborghini among 160,000 cars seized as uninsured driving reaches 17-year high
+
+Seizure numbers hit a 17-year high as an estimated 300,000 uninsured vehicles are driven each day.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/clyr7dmry5mo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### People in Beirut wary of trusting Israel will uphold Lebanon ceasefire
+### Lebanese celebrate return to homes as 10-day ceasefire begins
 
-Lebanon’s residents say they are wary of trusting that Israel will abide by the ceasefire agreement announced by Trump.
+A 10-day ceasefire between Israel and Lebanon has come into effect.
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/4/16/people-in-beirut-wary-of-trusting-israel-will-uphold-lebanon-ceasefire?traffic_source=rss)
-
----
-
-### US panel approves Trump’s design for massive arch in Washington, DC
-
-The proposed 76-metre arch would tower over other iconic landmarks in Washington, DC, and has attracted scrutiny.
-
-📎 [阅读原文](https://www.aljazeera.com/news/2026/4/16/us-panel-approves-trumps-design-for-massive-arch-in-washington-dc?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/4/17/lebanese-celebrate-return-to-homes-as-10-day-ceasefire-begins?traffic_source=rss)
 
 ---
 
-### Israel and Lebanon’s 10-day ceasefire goes into effect
+### Israeli attacks kill several over two days in Gaza despite ‘ceasefire’
 
-A 10-day ceasefire between Israel and Lebanon has gone into effect. It began at midnight local time (21:00 GMT).
+As Gaza violence continues, activist says Israeli settlers torch vehicles, attack homes in occupied West Bank.
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/4/16/israel-and-lebanons-10-day-ceasefire-goes-into-effect?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/4/17/israeli-attacks-kill-several-over-two-days-in-gaza-despite-ceasefire?traffic_source=rss)
+
+---
+
+### What we know about the Israel-Lebanon ceasefire
+
+US President Donald Trump announced the 10-day ceasefire between the two countries.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/4/17/what-we-know-about-the-israel-lebanon-ceasefire?traffic_source=rss)
 
 ---
 
@@ -135,27 +135,35 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 8点1氪丨全季大连某酒店账号公开多名客人特殊订单备注；金立手机创始人被曝在印尼卖家具；雷军将连播15小时测试新SU7续航
+### 小米汽车重磅任命：胡峥楠任CTO，宋钢任参谋长｜36氪独家
 
-今日热点导览 丝芭传媒：创始人王子杰去世，享年63岁 国家统计局：日均词元调用量突破140万亿，较上年末增长40% 京东发布机器人产业服务全景图 为加速重塑Siri，苹果安排近200名工程师培训AI编程 特朗普签发多项输油管道许可，以促进美加之间的石油运输 TOP3大新闻 全季大连某酒店账号公开多名客人特殊订单备注，华住集团客服回应 近日，一则题为“全季客人备注大赏”的帖文在社交平台引发争议。涉事账号“全季大连xx酒店”将多名客人的特殊订单备注公开发布，配文称“每天被客人备注笑到捶桌”“前台已笑晕在系统里”。有网友发帖表示：“一个酒店官方账号，私自将客人订单备注发到网上，评论区引起网友无谓的猜...
+36 氪从多个独立信源获悉，4月17日，小米集团通过内部邮件宣布：胡峥楠出任小米集团副总裁、汽车部 CTO；宋钢出任小米集团汽车部副总裁、参谋长。这是小米汽车自 2021 年宣布成立以来首次设立 CTO 岗位。 据 36 氪了解，两位新任高管在汽车行业均有超过二十年的从业积累，履历横跨传统车企与新能源赛道。 截至目前，小米汽车研发人员接近万人。一大批各有所长的汽车行业专家的加入，小米汽车正加快形成覆盖研发、设计、制造、安全、供应链等全链条人才体系。 顶尖人才也渴望更大舞台 胡峥楠加入小米，是一个经过长期观察与验证的双向选择。 胡峥楠 1997 年进入汽车行业，至今已有近三十年从业积累，是中国汽...
 
-📎 [阅读原文](https://36kr.com/p/3770155029398018?f=rss)
-
----
-
-### 智元旗下觅蜂发布一站式物理 AI 数据服务平台｜最前线
-
-2026年，大语言模型和视频生成大模型都在疯狂烧token，而具身机器人行业却正在经历“无token可烧”的局面。大模型能像人一样读书，而具身智能要去真实的世界里摸爬滚打才能获取数据——数据的匮乏成为了卡住全行业的瓶颈。 4月16日，智元机器人旗下觅蜂科技发布一站式物理 AI 数据服务平台，希望能让数据像水电一样即取即用。 “GPT5用了100万亿tokens的训练语料。1token约等于0.75个英语单词，如果一个正常人一分钟能说150个词，这个语料级就等于一个人要说100亿个小时才能说完。”觅蜂科技董事长兼 CEO 姚卯青说，“但具身智能不一样。今天，全世界的高质量数据汇聚在一起，可能也只...
-
-📎 [阅读原文](https://36kr.com/p/3769501816439555?f=rss)
+📎 [阅读原文](https://36kr.com/p/3770688595214857?f=rss)
 
 ---
 
-### 氪星晚报｜特斯拉拟在上海生产人形机器人；台积电CEO：全力扩产仍难以满足强劲AI需求；奥迪高管透露明年将推第三款中国专属车型
+### 专访荣耀AI专家李向东：端侧AI方向还没收敛，但AI手机是最好的载体
 
-大公司： 亚马逊全球智能枢纽仓（GWD）深圳首仓面向卖家正式开放 36氪获悉，亚马逊今日宣布，全球首个亚马逊全球智能枢纽仓（Global Warehousing and Distribution, GWD）在深圳正式向卖家全面开放。目前，深圳GWD仓支持向亚马逊美国站运营中心（Fulfillment Center）发货。 京东发布机器人产业服务全景图 36氪获悉，4月15日，京东发布“机器人产业服务全景图”。全景图聚焦三大核心：携手超 200家品牌，目标2026年销售破百亿；依托超级供应链，建全球最大具身数据采集中心、京东机器人售后维修服务3年覆盖50余城；基于JoyAI大模型加速开放JoyI...
+文｜邱晓芬 编辑｜苏建勋 2026年，AI正在加速从云端落地到端侧。近期，模型厂商和手机厂商都在背后开始发力—— 3月下旬，国内几大手机厂商几乎同时推送了端侧AI的大规模更新，把原本仅限于旗舰机的AI能力下放到中端和千元机市场。自此，端侧AI终于成为大部分智能手机的标配。 到了4月初，谷歌发布开源模型Gemma 4系列，通过架构创新显著降低了端侧AI部署门槛，让AI能力首次真正下沉至手机、IoT等边缘场景中。 尽管当前行业里对端侧AI落地方向的探索五花八门，但众多非共识中唯一的共识是，AI手机依旧是短期内端侧AI最佳的落地形式。 而此前在2025年，在全球AI浪潮下，荣耀已发起了一场转型，从一...
 
-📎 [阅读原文](https://36kr.com/p/3769360179298818?f=rss)
+📎 [阅读原文](https://36kr.com/p/3770819743728131?f=rss)
+
+---
+
+### AI PC下半场，荣耀想让所有人先用上消费级龙虾
+
+文｜王欣逸 编辑｜苏建勋 龙虾热还在继续。 4月16日，荣耀进行了一场史上最短的发布会，正式发布此前预热的“养虾本”——荣耀MagicBook系列轻薄本。 即便OpenClaw已经刷屏了两个多月，但对于普通用户而言，要养一只原装龙虾，并没有想象中的容易。 不少软件和云服务厂商赶上热度，推出一键部署的龙虾。但对终端厂商而言，下场做龙虾和“养虾本”，荣耀是第一家。 据悉，荣耀MagicBook数字系列是荣耀首款“养虾本”，出厂即配置荣耀自研龙虾YOYO CLAW，荣耀MagicBook 14 | 16 2026款售价5949.15元起。 作为一家终端厂商，荣耀一直在AI PC有所布局。 2026年...
+
+📎 [阅读原文](https://36kr.com/p/3770787623404293?f=rss)
+
+---
+
+### New leaders, new fund: Sequoia has raised $7B to expand its AI bets
+
+The fundraise is the first major capital raise under Sequoia's new leadership, with Alfred Lin and Pat Grady now serving as co-stewards of the 54-year-old firm.
+
+📎 [阅读原文](https://techcrunch.com/2026/04/16/new-leaders-new-fund-sequoia-has-raised-7b-to-expand-its-ai-bets/)
 
 ---
 
@@ -175,59 +183,51 @@ The studio's first project will be about Moses and star Academy Award-winner Ben
 
 ---
 
-### Netflix co-founder and chair Reed Hastings to leave board
+### Ada, Its Design, and the Language That Built the Languages
 
-Hastings helped to transform the video rental industry — first with physical, then digital, delivery.
+Article URL: https://www.iqiipi.com/the-quiet-colossus.html Comments URL: https://news.ycombinator.com/item?id=47803844 Points: 98 # Comments: 39
 
-📎 [阅读原文](https://techcrunch.com/2026/04/16/netflix-co-founder-and-chair-reed-hastings-to-leave-board/)
-
----
-
-### George Orwell Predicted the Rise of "AI Slop" in Nineteen Eighty-Four (1949)
-
-Article URL: https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html Comments URL: https://news.ycombinator.com/item?id=47800765 Points: 14 # Comments: 3
-
-📎 [阅读原文](https://www.openculture.com/2026/04/how-george-orwell-predicted-the-rise-of-ai-slop.html)
+📎 [阅读原文](https://www.iqiipi.com/the-quiet-colossus.html)
 
 ---
 
-### New unsealed records reveal Amazon's price-fixing tactics, California AG claims
+### How Big Tech wrote secrecy into EU law to hide data centres' environmental toll
 
-Article URL: https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit Comments URL: https://news.ycombinator.com/item?id=47800166 Points: 55 # Comments: 9
+Article URL: https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint Comments URL: https://news.ycombinator.com/item?id=47803745 Points: 49 # Comments: 8
 
-📎 [阅读原文](https://www.theguardian.com/us-news/ng-interactive/2026/apr/16/amazon-price-fixing-california-lawsuit)
-
----
-
-### Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine
-
-Article URL: https://github.com/gainsec/autoprober Comments URL: https://news.ycombinator.com/item?id=47800033 Points: 60 # Comments: 9
-
-📎 [阅读原文](https://github.com/gainsec/autoprober)
+📎 [阅读原文](https://www.investigate-europe.eu/posts/big-tech-data-centres-secrecy-eu-law-environment-footprint)
 
 ---
 
-### Intel refreshes non-Ultra Core CPUs with new silicon for the first time
+### FIM – Linux framebuffer image viewer
 
-For the first time in a while, the benefits of new Intel tech will trickle down.
+Article URL: https://www.nongnu.org/fbi-improved/ Comments URL: https://news.ycombinator.com/item?id=47803323 Points: 68 # Comments: 33
 
-📎 [阅读原文](https://arstechnica.com/gadgets/2026/04/intels-non-ultra-core-cpus-are-new-silicon-this-year-for-a-change/)
-
----
-
-### OpenAI starts offering a biology-tuned LLM
-
-GPT-Rosalind is an LLM trained on biology workflows, available in closed access.
-
-📎 [阅读原文](https://arstechnica.com/science/2026/04/openai-starts-offering-a-biology-tuned-llm/)
+📎 [阅读原文](https://www.nongnu.org/fbi-improved/)
 
 ---
 
-### As they got close to the Moon, Artemis II astronauts were eager to land
+### Recent advances push Big Tech closer to the Q-Day danger zone
 
-"If you had given us the keys to the lander, we would have taken it down."
+Here's which players are winning the race to transition to post-quantum crypto.
 
-📎 [阅读原文](https://arstechnica.com/space/2026/04/artemis-ii-astronauts-say-landing-on-the-moon-is-absolutely-doable-soon/)
+📎 [阅读原文](https://arstechnica.com/security/2026/04/while-some-big-tech-players-accelerate-pqc-readiness-others-stay-the-course/)
+
+---
+
+### After a saga of broken promises, a European rover finally has a ride to Mars
+
+Europe's first Mars rover mission is now on its fourth rocket: SpaceX's Falcon Heavy.
+
+📎 [阅读原文](https://arstechnica.com/space/2026/04/after-a-saga-of-broken-promises-a-european-rover-finally-has-a-ride-to-mars/)
+
+---
+
+### Lucasfilm drops The Mandalorian and Grogu final trailer at CinemaCon
+
+"The old protect the young, and then the young protect the old."
+
+📎 [阅读原文](https://arstechnica.com/culture/2026/04/lucasfilm-drops-mandalorian-and-grogu-final-trailer-at-cinemacon/)
 
 ---
 
@@ -240,4 +240,4 @@ GPT-Rosalind is an LLM trained on biology workflows, available in closed access.
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:04 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:02 GMT+8*
