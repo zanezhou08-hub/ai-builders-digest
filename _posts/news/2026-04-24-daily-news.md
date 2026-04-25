@@ -11,27 +11,27 @@ section: news
 
 ## 🌍 国际新闻
 
-### Trump tells BBC that King's visit could 'absolutely' help repair relations with UK
+### No 10 says Falklands sovereignty rests with UK after report of US 'review'
 
-In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM.
+An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### Police arrest two over alleged drug sales through shops in West Midlands after BBC investigation
-
-It follows a BBC investigation that found High Street mini-marts were selling drugs in some West Midlands towns.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c3w3v77l23xo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Stock markets are too high and set to fall, says Bank of England deputy
+### Epstein housed victims in London flats after Met chose not to investigate him, BBC reveals
 
-It is unusual for a senior figure at the Bank to be so forthright on market movements.
+The revelations intensify concerns about repeated police decisions not to investigate 2015 trafficking claims.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c75kp1y43lgo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Ringo Starr: 'I made all my mistakes on stage'
+
+Beatles star reveals all about his new country album, being a Sir and coming up with the phrase A Hard Day's Night.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cp8645d9lvyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### US professors sue university over arrest during pro-Palestine protest
+### How long can Iran survive the US’s Hormuz blockade?
 
-Philosophy professor Noelle McAfee says university failed to protect students and staff in crackdown on protests.
+And just how long can the US hold out?
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/4/23/us-professors-sue-university-over-arrest-during-pro-palestine-protest?traffic_source=rss)
-
----
-
-### US soldier charged with using Polymarket to bet on Nicolas Maduro abduction
-
-The suspect, 38-year-old Gannon Ken Van Dyke, allegedly made $400,000 from insider knowledge of the Venezuela attack.
-
-📎 [阅读原文](https://www.aljazeera.com/economy/2026/4/23/us-soldier-charged-with-using-polymarket-to-bet-on-nicolas-maduro-abduction?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/4/24/how-long-can-iran-survive-the-uss-hormuz-blockade?traffic_source=rss)
 
 ---
 
-### Meta lines up layoffs while Microsoft offers buyouts
+### Number of amputees set to rise in Gaza as Israel blocks aid, NGO warns
 
-Meta will lay off 8,000 workers while Microsoft is offering buyouts to 8,750 people, a first for the Windows maker.
+Thousands of amputees cannot access care and are struggling with basic mobility.
 
-📎 [阅读原文](https://www.aljazeera.com/economy/2026/4/23/meta-lines-up-layoffs-while-microsoft-offers-buyouts?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/4/24/number-of-amputees-set-to-rise-in-gaza-as-israel-blocks-aid-ngo-warns?traffic_source=rss)
+
+---
+
+### US considers suspending Spain from NATO, reported internal email suggests
+
+Pentagon email obtained by Reuters reveals US anger at Spain and the UK as Iran war tensions persist.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/4/24/us-weighs-retaliation-against-nato-allies-over-iran-war-divisions-reuters?traffic_source=rss)
 
 ---
 
@@ -135,75 +135,83 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 美国百年太妃糖易手，Roca乐家被全资收购
+### 氪星晚报｜美团万亿级参数大模型开放测试，训练全程由国产算力集群完成；百度联盟正式发布海外App业务；央行等八部门发布金融产品网络营销管理办法
 
-作者 | 钟艺璇 编辑 | 乔芊 36氪获悉，BHM集团已完成对美国百年糖巧制造商Brown & Haley公司的全资收购，Brown & Haley是一家总部位于美国，成立于1912年的百年糖巧制造商，旗下拥有Almond ROCA、Mountain等糖巧品牌。交易于2026年4月17日正式完成交割。本次收购不会对Brown & Haley位于塔科马的总部生产基地造成影响，其原有生产运营将保持稳定。 据悉，孟一烽（Sam Meng）将会出任Brown & Haley全球CEO，他同时也是Brown & Haley旗下核心品牌Almond ROCA（下称“ROCA乐家”）过去十余年大中华区独家...
+大公司： 京东和格力推出空调换新全包服务 36氪获悉，近日，京东与格力正式签署深度合作协议，推出空调换新全包服务，覆盖全国超过300个城市。 据了解，京东与格力已合作多年，在去年双方合作安装空调量达数百万台。 如祺出行与黑芝麻智能达成战略合作 4月24日，出行科技与服务公司如祺出行和车规级智能汽车计算芯片及解决方案供应商黑芝麻智能达成战略合作。根据协议，如祺出行将依托有人网约车与Robotaxi混合运营沉淀的真实场景数据闭环与商业化运营标准，为方案输出算力需求定义；黑芝麻智能则提供华山及武当系列芯片平台及完整工具链的技术支撑，满足L4级自动驾驶对高性能、低功耗与高可靠性的要求。 美团万亿级参数...
 
-📎 [阅读原文](https://36kr.com/p/3779468716938499?f=rss)
-
----
-
-### 破局“智驾双雄”，千里科技如何以AI之力重塑行业格局
-
-智驾圈杀出了一匹“黑马”，智能驾驶的市场格局正面临重新洗牌的变量。 在4月22日举办的千里科技AI战略暨产品发布会上，千里科技公布了一组数据：千里智驾装车量已突破46万辆，覆盖极氪、领克17款车型，并预计在2026年正式跨入“百万量级俱乐部”。 从品牌发布到方案规模化量产，并达成46万装车量，千里科技仅用时半年多。在行业普遍认为智驾格局趋于稳定的当下，这一扩张速度史无前例。 这种“非常规速度”的背后，是增长逻辑本身发生了变化。本质上千里速度就是AI速度，这种高增长成为华为之外的第二极，形成了AI时代“智驾双雄”新行业格局。 传统智驾公司的增长依赖于“工程复制”，开发周期长，适配成本高。而千里科...
-
-📎 [阅读原文](https://36kr.com/p/3779369343144965?f=rss)
+📎 [阅读原文](https://36kr.com/p/3777694346548482?f=rss)
 
 ---
 
-### 氪星晚报｜ThinkPad发布AI主机，可一键部署“龙虾”、较云主机三年总成本可节省48%；量化投资先驱马丁·卢克警告勿将交易决策全盘交予人工智能；国家知识产权局：2025年我国共授权发明专利97.2万件
+### 科氪|高配不溢价，20万内首选！国民好车2.0深蓝L06增程版折后价低至127155元起
 
-大公司： 三星电子工会举行集会，要求公司发放占营业利润15%的绩效奖金并废除奖金上限 三星电子首个超过半数职员加入的“跨企业工会”23日下午1时起在三星电子平泽厂区举行集会，要求资方废除绩效奖金上限。工会方面要求公司发放占营业利润15%的绩效奖金，并废除绩效奖金上限。若劳资未能达成协议，劳方将从下月21日至6月7日进行全面罢工。截至目前，“跨企业工会”成员数量为7.4万多人，成为三星电子成立以来首个超过半数员工加入的工会，并经雇佣劳动部确认，正式获得“过半工会”地位，可单独行使集体谈判权等权利。（财联社） 闪送开源CLI，为同城即时速递行业首家 36氪获悉，近日，一对一急送平台闪送宣布正式开源...
+4月23日，京东汽车与深蓝汽车联合推出的国民好车2.0车型——深蓝L06增程版正式公布售价，开启大定。京东汽车宣布京东PLUS会员购车可享95折，深蓝L06增程版叠加会员折扣后价格低至127155元起。这也是汽车行业首次开创平台会员直接享受整车价格折扣的新模式，标志着“电商+车企”合作模式迈向了新阶段，平台会员价值也从日常消费延伸到了涵盖购车、用车等更广阔链路。 官方图片  深蓝L06增程版提供 245Ultra 激光版和245Ultra + 激光版两款配置，官方指导价分别为134900元、146900元。在叠加京东 PLUS 会员 95 折，车型折后价分别低至127155元起、138555...
 
-📎 [阅读原文](https://36kr.com/p/3774776226923272?f=rss)
-
----
-
-### Authorities arrest special forces soldier who allegedly made $400K on Polymarket bet involving Maduro operation
-
-The soldier is accused of using classified government information to inform a wager on the prediction market Polymarket.
-
-📎 [阅读原文](https://techcrunch.com/2026/04/23/authorities-arrest-special-forces-soldier-who-allegedly-made-400k-on-polymarket-bet-involving-maduro-operation/)
+📎 [阅读原文](https://36kr.com/p/3780654186535941?f=rss)
 
 ---
 
-### Redwood Materials loses COO amid layoffs, restructuring
+### 最前线｜AI收入破亿后的路径选择：微盟推行AI First战略与B端交付的挑战
 
-Former Tesla executive Chris Lister is retiring, and at least three other VPs have left Redwood around the recent restructuring, TechCrunch has learned.
+文｜张子怡 编辑｜袁斯来 在SaaS行业普遍面临增长瓶颈、寻求数智化转型的背景下，微盟于2026年4月22日在上海总部举办了城市峰会，正式对外呈现其“AI First”战略全景。 根据微盟2025年财报披露，其AI相关业务收入已首次突破亿元大关，且2025年下半年的环比增长率达到130%。在此财务数据基础上，微盟试图通过战略升维，将AI从原有的产品辅助插件地位提升至业务底座高度。 微盟此次提出的“AI First”战略，核心覆盖了AI+SaaS、AI+营销、AI+出海及AI To C等方向。 在技术架构层面，微盟将其升级为“Agent+Skills”。这一转变的底层逻辑在于：将原本复杂的Saa...
 
-📎 [阅读原文](https://techcrunch.com/2026/04/23/redwood-materials-loses-coo-amid-layoffs-restructuring/)
-
----
-
-### These are the countries moving to ban social media for children
-
-Australia was the first country to issue a ban in late 2025, aiming to reduce the pressures and risks that young users may face on social media, including cyberbullying, social media addiction, and exposure to predators.
-
-📎 [阅读原文](https://techcrunch.com/2026/04/23/social-media-ban-children-countries-list/)
+📎 [阅读原文](https://36kr.com/p/3780556402531330?f=rss)
 
 ---
 
-### U.S. Soldier Charged with Using Classified Info to Profit from Prediction Market
+### In another wild turn for AI chips, Meta signs deal for millions of Amazon AI CPUs
 
-Article URL: https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjp...
+Meta has commandeered a big chunk of Amazon's homegrown CPUs (not GPUs) for AI agentic workloads, signaling that a new kind of chip race has begun.
 
-📎 [阅读原文](https://www.justice.gov/usao-sdny/pr/us-soldier-charged-using-classified-information-profit-prediction-market-bets?bm-verify=AAQAAAAN_____y6To7sZYZ502biZwIHXlr-7zXZUqV4H0xLTfW__wDA3SjNLqifXRaQwsikyuz6IJknyuL8xfVYRkesxcDk5V10m-HoXl2K93f17rygBphL77WVFoQ_XvlmUo922IwM_DQ66137X6wWMtpdHslcEjpJG7KbBmUw9Su4kDENpDt_yv2spThQZehgv-X1Adk5U2VHfp41co2s_QJGjRj4y0KmL1mhSCyVaE7MC1LHG0mtP-xYmD0xBOQwn6PlHkPiP5Nt46h5ZIjLGXgCZDEVD42i7rIEM379DKLPUPX0PDNmOAwFSuTqcTDVnT_UUV8vxpHLRMb7rUxPxKUPcIB23iZTRJddWDDtPHMXadpwv67xr-f1sKDLZT9NgHCO4iuC2EthmAt0)
-
----
-
-### Show HN: Tolaria – open-source macOS app to manage Markdown knowledge bases
-
-Hey there! I am Luca, I write https://refactoring.fm/ and I built Tolaria for myself to manage my own knowledge base (10K notes, 300+ articles written in over 6 years of newslettering) and work well with AI.Tolaria is offline-first, file-based, has first-class support for git, and has strong opinion...
-
-📎 [阅读原文](https://github.com/refactoringhq/tolaria)
+📎 [阅读原文](https://techcrunch.com/2026/04/24/in-another-wild-turn-for-ai-chips-meta-signs-deal-for-millions-of-amazon-ai-cpus/)
 
 ---
 
-### TorchTPU: Running PyTorch Natively on TPUs at Google Scale
+### Porsche is adding an all-electric Cayenne coupe to its lineup
 
-Article URL: https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/ Comments URL: https://news.ycombinator.com/item?id=47881786 Points: 19 # Comments: 2
+Porsche will start selling the Cayenne Coupe Electric in late summer.
 
-📎 [阅读原文](https://developers.googleblog.com/torchtpu-running-pytorch-natively-on-tpus-at-google-scale/)
+📎 [阅读原文](https://techcrunch.com/2026/04/23/porsche-is-adding-an-all-electric-cayenne-coupe-to-its-lineup/)
+
+---
+
+### Bob Iger rejoins Thrive Capital as advisor after Disney exit
+
+The former Disney CEO hold a stake in Thrive, and has previously held the role of the venture partner at the firm.
+
+📎 [阅读原文](https://techcrunch.com/2026/04/23/bob-iger-rejoins-thrive-capital-as-advisor-after-disney-exit/)
+
+---
+
+### UK Biobank leak: Health details of 500 000 people are offered for sale
+
+Article URL: https://www.bmj.com/content/393/bmj.s781 Comments URL: https://news.ycombinator.com/item?id=47888557 Points: 27 # Comments: 1
+
+📎 [阅读原文](https://www.bmj.com/content/393/bmj.s781)
+
+---
+
+### How to be anti-social – a guide to incoherent and isolating social experiences
+
+Article URL: https://nate.leaflet.pub/3mk4xkaxobc2p Comments URL: https://news.ycombinator.com/item?id=47888372 Points: 23 # Comments: 14
+
+📎 [阅读原文](https://nate.leaflet.pub/3mk4xkaxobc2p)
+
+---
+
+### nowhere: an entire website encoded in a URL
+
+Article URL: https://hostednowhere.com/ Comments URL: https://news.ycombinator.com/item?id=47888337 Points: 24 # Comments: 8
+
+📎 [阅读原文](https://hostednowhere.com/)
+
+---
+
+### Rocket Report: Artemis III rocket getting ready; SpaceX is now an AI company
+
+"If it doesn’t rely on a solid, there’s no reason why we can’t launch."
+
+📎 [阅读原文](https://arstechnica.com/space/2026/04/rocket-report-some-canadians-dont-want-a-spaceport-falcon-hits-600-landings/)
 
 ---
 
@@ -223,14 +231,6 @@ Trump-Xi summit may be rocked by US mulling huge sanctions.
 
 ---
 
-### Carbon nanotube wiring gets closer to competing with copper
-
-While this material degrades over time, it could point to better ones.
-
-📎 [阅读原文](https://arstechnica.com/science/2026/04/researchers-get-carbon-nanotube-wiring-to-conduct-more-like-copper/)
-
----
-
 
 ---
 
@@ -240,4 +240,4 @@ While this material degrades over time, it could point to better ones.
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:02 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
