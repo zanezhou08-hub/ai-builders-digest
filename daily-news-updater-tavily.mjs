@@ -6,9 +6,9 @@
  * Updates the date-based markdown file and commits to git
  */
 
-const fs = require('fs');
-const path = require('path');
-const { execSync } = require('child_process');
+import fs from 'fs';
+import path from 'path';
+import { execSync } from 'child_process';
 
 // Configuration
 const TAVILY_SCRIPT_DIR = "/Users/zx/.openclaw/workspace/skills/tavily-search/scripts";
