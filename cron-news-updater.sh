@@ -16,10 +16,10 @@ echo "🚀 Starting daily news update - $TIMESTAMP"
 cd "$WORK_DIR"
 echo "📁 Working directory: $WORK_DIR"
 
-# Check if TAVILY_API_KEY is set
+# Check if TAVILY_API_KEY is set (optional - enhanced-news-fetcher.js has fallback)
 if [ -z "$TAVILY_API_KEY" ]; then
-    echo "❌ Error: TAVILY_API_KEY environment variable not set"
-    exit 1
+    echo "⚠️  Warning: TAVILY_API_KEY environment variable not set"
+    echo "💡 Using fallback API key from enhanced-news-fetcher.js"
 fi
 
 # Check if the news fetcher script exists
