@@ -1,0 +1,109 @@
+---
+layout: default
+title: "新闻速递 — 2026-05-07"
+date: 2026-05-07
+---
+
+# 📰 新闻速递 — 2026-05-07
+
+---
+
+## 🌍 国际新闻
+
+- **US pauses Strait of Hormuz escort operation, Trump says - Modern Ghana (relevance: 42%)**
+  <https://www.modernghana.com/amp/videonews/645315>
+
+- **Woman arrested after driving on sidewalk toward child riding bike, police say - Modern Ghana (relevance: 41%)**
+  <https://www.modernghana.com/amp/videonews/645174>
+
+- **3 cruise ship passengers evacuated amid hantavirus outbreak - Modern Ghana (relevance: 40%)**
+  <https://www.modernghana.com/amp/videonews/645188>
+
+- **Trump-backed candidates score wins in Indiana - Modern Ghana (relevance: 38%)**
+  <https://www.modernghana.com/amp/videonews/645152>
+
+- **Potato chip brands recalled for salmonella contamination & other trending stories | Searched - Modern Ghana (relevance: 37%)**
+  <https://www.modernghana.com/amp/videonews/645489>
+
+- **Quadruple amputee accused of murder heads to court - Modern Ghana (relevance: 37%)**
+  <https://www.modernghana.com/amp/videonews/645214>
+
+- **President Trump hosts Mother’s Day event for military families at the White House: LIVE - Modern Ghana (relevance: 36%)**
+  <https://www.modernghana.com/amp/videonews/645357>
+
+- **Defense analyst on Trump pausing 'Project Freedom' - Modern Ghana (relevance: 34%)**
+  <https://www.modernghana.com/amp/videonews/645215>
+
+---
+## 🇨🇳 国内新闻
+
+- **China to Invest in DeepSeek at $50 Billion Valuation - WSJ (relevance: 35%)**
+  <https://www.wsj.com/tech/ai/china-to-invest-in-deepseek-at-50-billion-valuation-045041d0>
+
+- **Analysis: Could China push Iran into a peace deal? Only if it gets something in return - CNN (relevance: 17%)**
+  <https://www.cnn.com/2026/05/06/china/china-iran-talks-us-war-hnk-intl>
+
+- **BMW's quarterly profit down 25% as China, tariffs weigh - Reuters (relevance: 16%)**
+  <https://www.reuters.com/video/watch/idRW820306052026RP1/?chan=business>
+
+- **China calls for Strait of Hormuz to reopen in meeting with Iran - New York Post (relevance: 12%)**
+  <https://nypost.com/2026/05/06/world-news/china-calls-for-strait-of-hormuz-to-reopen-in-meeting-with-iran/>
+
+- **Chinese Mainland-Listed Firms Earn Record 17% of Revenue From Overseas in 2025 - Yicai Global (relevance: 12%)**
+  <https://www.yicaiglobal.com/news/the-proportion-of-overseas-revenue-for-chinese-a-share-listed-companies-was-nearly-17-last-year>
+
+- **The U.S.-China AI gap has closed—and Silicon Valley is starting to notice - Los Angeles Times (relevance: 11%)**
+  <https://www.latimes.com/business/story/2026-05-06/u-s-china-ai-gap-has-closed-and-silicon-valley-is-starting-to-notice>
+
+- **DeepSeek could hit $45B valuation from its first investment round - TechCrunch (relevance: 9%)**
+  <https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/>
+
+- **Trump Pauses ‘Project Freedom’—Iran And China Hold High-Level Talks In Beijing - Forbes (relevance: 8%)**
+  <https://www.forbes.com/sites/siladityaray/2026/05/06/iran-and-chinas-foreign-ministers-meet-in-beijing-as-trump-pauses-project-freedom/>
+
+---
+## 💼 财经科技
+
+- **Q2 2026 PitchBook Analyst Note: LP Co-Investments in US VC: Chasing AI at a Price - PitchBook (relevance: 53%)**
+  <https://pitchbook.com/news/reports/q2-2026-pitchbook-analyst-note-lp-co-investments-in-us-vc-chasing-ai-at-a-price>
+
+- **DeepSeek could hit $45B valuation from its first investment round - TechCrunch (relevance: 49%)**
+  <https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/>
+
+- **Corgi hits unicorn status, Kanvas Biosciences gets $43M, Med Tech Solutions buys Avarion - Axios (relevance: 38%)**
+  <https://www.axios.com/pro/all-deals/2026/05/06/pro-rata-premium-first-look-corgi-kanvas-avarion>
+
+- **How Restive Ventures Filled an LP Funding Gap to Close Its Third Fund - WSJ (relevance: 38%)**
+  <https://www.wsj.com/pro/venture-capital/how-restive-ventures-filled-an-lp-funding-gap-to-close-its-third-fund-d06438ec>
+
+- **Yinka Ilori, The Architect Of Joy, On How Color Can Change The World - Forbes (relevance: 38%)**
+  <https://www.forbes.com/sites/kissacastaneda/2026/05/05/yinka-ilori-the-architect-of-joy-on-how-color-can-change-the-world/>
+
+- **Samsung Issues ‘Critical’ Update As Free Galaxy Upgrade Goes Live - Forbes (relevance: 36%)**
+  <https://www.forbes.com/sites/zakdoffman/2026/05/06/samsung-issues-critical-update-as-free-galaxy-upgrade-goes-live/>
+
+- **General Catalyst’s $6.3B AMEX deal puts its AI roll-up strategy on display - PitchBook (relevance: 36%)**
+  <https://pitchbook.com/news/articles/general-catalysts-6-3b-amex-deal-puts-its-ai-roll-up-strategy-on-display>
+
+- **Microsoft’s ‘Important’ Warning—Windows Changes In 6 Weeks - Forbes (relevance: 36%)**
+  <https://www.forbes.com/sites/zakdoffman/2026/05/06/microsofts-important-warning-windows-changes-in-6-weeks/>
+
+---
+
+## 📊 今日数据
+
+**精选文章：24 篇**
+
+- 🌍 国际: 8 篇
+- 🇨🇳 国内: 8 篇
+- 💼 科技: 8 篇
+
+---
+
+*Generated by OpenClaw News Aggregator - 2026/5/7 08:06:03*
+
+---
+
+## ⚠️ 数据来源
+
+所有新闻数据均来自 Tavily API 实时搜索结果。
