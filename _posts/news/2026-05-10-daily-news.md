@@ -19,27 +19,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### WHO chief says Hantavirus outbreak ‘is not COVID’
+### El Clasico: Kylian Mbappe not in Real Madrid squad to face Barcelona
 
-WHO chief says Hantavirus outbreak ‘is not COVID’
+French forward to miss the crucial fixture despite training with teammates on Friday following his recovery from injury.
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/9/who-chief-says-hantavirus-outbreak-is-not?traffic_source=rss)
-
----
-
-### Brazil judge bars law that could reduce Bolsonaro’s 27-year prison sentence
-
-Supreme Court Justice Alexandre de Moraes suspends use of law to reduce prison sentences, pending further review.
-
-📎 [阅读原文](https://www.aljazeera.com/news/2026/5/9/brazil-judge-bars-law-that-could-reduce-bolsonaros-27-year-prison-sentence?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/5/10/el-clasico-kylian-mbappe-not-in-real-madrid-squad-to-face-barcelona?traffic_source=rss)
 
 ---
 
-### One killed in Gaza as Turkish FM talks peace efforts with Hamas official
+### Why is Iran taking time to respond to the US proposal to end the war?
 
-Israel continues to violate a 'ceasefire' agreed to in October with hundreds more killed across the Strip.
+Iran continues to review the proposal as Tehran's nuclear programme and Strait of Hormuz remain main sticking points.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/5/10/why-is-iran-taking-time-to-respond-to-the-us-proposal-to-end-the-war?traffic_source=rss)
+
+---
+
+### Iran military warns of ‘surprising’ methods of warfare if attacked again
+
+Iran’s army spokesman says if the ‘enemy’ were to attack again, they would face new methods of warfare.
+
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-military-warns-of-surprising-methods-of-warfare-if-attacked-again?traffic_source=rss)
 
 ---
 
@@ -111,6 +111,22 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
+### Ozon大中华区总裁Simon Huang：中国卖家，正在涌向俄罗斯｜专访
+
+编者按：上个月月底，36氪在厦门参加了一场Ozon全球招商启动大会，我们发现现场人山人海。火热的出海和国内经济形成鲜明对比，特别是一组数据吸引了我们注意：尽管俄罗斯电商渗透率在2025年才23%，但是Ozon在2017年至2025年间，实现了91%的年均复合增长率。 这些高增长数据背后，似乎隐藏着比较大的商业机会，但机会究竟是什么？中国卖家如何在AI时代抓住？那边电商处于什么阶段？带着这些疑问，36氪和Ozon大中华区总裁Simon Huang（黄效）进行了一次交流。结论就是：俄语区还有比较长的红利期，中国电商迁移过去有足够的品牌优势、供应链优势，以及运营优势。以下为正文： 过去几年，中国跨境...
+
+📎 [阅读原文](https://36kr.com/p/3802822550839047?f=rss)
+
+---
+
+### 融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发
+
+作者｜黄楠 编辑｜袁斯来 硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东XGROUP持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。 长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦无边界割草机器人的研发、设计与制造。公司依托自主技术研发与场景化创新能力，围绕草坪养护场景，构建庭院智能全生态系统。 根据Euromonitor等报告显示，2024年，全球割草机器人销售额占割草机总额的9.1%，处于较...
+
+📎 [阅读原文](https://36kr.com/p/3801745491943169?f=rss)
+
+---
+
 ### AI开始接管年轻人的「精神自留地」
 
 撰文｜锅包柚 封面来源｜Unsplash（AI辅助扩图） 五一假期已经结束，但打工人的“节后综合症”并未消退。 面对永远99+的工作群消息，和改不完的PPT，打工人蝈蝈在摸鱼时打开灵光APP里的一个小游戏——“老板被我fire了”。 屏幕里跳出老板最爱的PUA话术：“你们要相信我的眼光”“现在的付出都是值得的”。她疯狂点击，伴随着金币掉落的音效，在赛博世界里体验了一把将老板痛扁、原地暴富的爽感。 “老板被我fire了” 这个让蝈蝈短暂“活过来”的应用，不是什么专业团队做的。而是一个同样被工作折磨的网友@二旬老人，在灵光APP免费花30秒随手“搓”出来的。 这届年轻人，连发泄情绪都要精打细算。因...
@@ -119,19 +135,11 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ---
 
-### 36氪首发 | 航空航天电气系统互联组件方案商获数千万融资，细分赛道市占率第一
+### Voice AI in India is hard. Wispr Flow is betting on it anyway.
 
-作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，青岛北辰航天航天科技有限公司（下称“北辰航天”）近日完成数千万元天使轮融资，由云启资本独家投资，翊荣资本担任长期独家财务顾问。 北辰航天旗下全资子公司青岛北辰数智科技有限公司成立于2014年，长期深耕航空航天电气系统互联组件研制领域，提供从设计到组装的系统工程解决方案。 电气系统互联是航天器的五大核心组成之一，类似于人体的“神经与血管”，承担电源分配、信号传输、测量控制等关键功能，具有高复杂度与高可靠性要求。随着商业航天、深空探测及低空飞行器的发展，仪器布局与电气系统互联（电缆网）敷设设计及配套电气系统互联组件产品正迎来新的需求增长。 据了解，北辰...
+Wispr Flow says growth accelerated in India after its Hinglish rollout, even as voice AI products continue to face challenges.
 
-📎 [阅读原文](https://36kr.com/p/3801398177324550?f=rss)
-
----
-
-### 获高秉强、蓝驰领投数千万融资，浙大00后创业者从远景观测切入AI智能影像｜硬氪首发
-
-作者｜黄楠 编辑｜袁斯来 硬氪获悉，星识（宁波）科技有限公司（以下简称“星识科技”）近日连续完成天使+轮和天使++轮融资，累计金额达数千万元。两轮融资分别由高秉强教授旗下高锋耐心资本和蓝驰创投领投、松禾资本跟投，老股东清水湾二期基金及奇绩创坛持续加注。本轮资金将主要用于智能影像核心技术研发、新品矩阵打造和产品体验的迭代优化，以及生产体系与供应链能力建设。此前，公司已获得李泽湘教授旗下宁波智能技术研究院、清水湾二期基金及奇绩创坛的种子轮及天使轮投资。 星识科技是一家专注智能影像技术研发与硬件制造的企业，以远景观测场景为切点，曾推出融合AI功能的Vizta智能望远镜，已在Kickstarter和I...
-
-📎 [阅读原文](https://36kr.com/p/3797202414820359?f=rss)
+📎 [阅读原文](https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/)
 
 ---
 
@@ -151,35 +159,43 @@ Parker, a well-funded startup offering corporate credit cards and banking servic
 
 ---
 
-### GM agrees to pay $12.75M in California driver privacy settlement
+### Space Cadet Pinball on Linux
 
-General Motors has reached a privacy-related settlement with a group of law enforcement agencies led by California Attorney General Rob Bonta.
+Article URL: https://brennan.io/2026/05/09/pinball-and-escrow/ Comments URL: https://news.ycombinator.com/item?id=48082968 Points: 26 # Comments: 1
 
-📎 [阅读原文](https://techcrunch.com/2026/05/09/gm-agrees-to-pay-12-75m-in-california-driver-privacy-settlement/)
-
----
-
-### User just tricked Grok and Bankrbot to send tokens with Morse code
-
-Article URL: https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/ Comments URL: https://news.ycombinator.com/item?id=48079114 Points: 4 # Comments: 0
-
-📎 [阅读原文](https://www.cryptopolitan.com/user-tricked-grok-bankrbot-to-send-tokens/)
+📎 [阅读原文](https://brennan.io/2026/05/09/pinball-and-escrow/)
 
 ---
 
-### France Moves to Break Encrypted Messaging
+### Replacing a 3 GB SQLite db with a 10 MB FST (finite state transducer) binary
 
-Article URL: https://reclaimthenet.org/france-moves-to-break-encrypted-messaging Comments URL: https://news.ycombinator.com/item?id=48078811 Points: 24 # Comments: 6
+Article URL: https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/ Comments URL: https://news.ycombinator.com/item?id=48082676 Points: 21 # Comments: 0
 
-📎 [阅读原文](https://reclaimthenet.org/france-moves-to-break-encrypted-messaging)
+📎 [阅读原文](https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/)
 
 ---
 
-### Rust but Lisp
+### FreeBSD – A Lesson in Poor Defaults
 
-Article URL: https://github.com/ThatXliner/rust-but-lisp Comments URL: https://news.ycombinator.com/item?id=48078575 Points: 33 # Comments: 13
+Article URL: https://vez.mrsk.me/freebsd-defaults Comments URL: https://news.ycombinator.com/item?id=48082342 Points: 7 # Comments: 3
 
-📎 [阅读原文](https://github.com/ThatXliner/rust-but-lisp)
+📎 [阅读原文](https://vez.mrsk.me/freebsd-defaults)
+
+---
+
+### Do you take after your dad’s RNA?
+
+Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.
+
+📎 [阅读原文](https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/)
+
+---
+
+### Huge landslide created a 500-meter-high tsunami in a major tourist area
+
+Fortunately, it happened early in the morning, so nobody was around.
+
+📎 [阅读原文](https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/)
 
 ---
 
@@ -188,22 +204,6 @@ Article URL: https://github.com/ThatXliner/rust-but-lisp Comments URL: https://n
 These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.
 
 📎 [阅读原文](https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/)
-
----
-
-### Manufacturing qubits that can move
-
-It's hard to mix electronic manufacturing and flexible geometry.
-
-📎 [阅读原文](https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/)
-
----
-
-### Trump reportedly plans to fire FDA Commissioner Marty Makary
-
-The plan isn't final and could change, but his ouster would be no surprise.
-
-📎 [阅读原文](https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/)
 
 ---
 
@@ -216,4 +216,4 @@ The plan isn't final and could change, but his ouster would be no surprise.
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:02 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:04 GMT+8*
