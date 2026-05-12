@@ -1,37 +1,37 @@
 ---
 layout: default
-title: "新闻速递 — 2026-05-11"
-date: 2026-05-11
+title: "新闻速递 — 2026-05-12"
+date: 2026-05-12
 section: news
 ---
 
-# 📰 新闻速递 — 2026-05-11
+# 📰 新闻速递 — 2026-05-12
 
 ---
 
 ## 🌍 国际新闻
 
-### British Steel nationalisation plans announced by Starmer
+### Last passengers leave virus-hit cruise ship as three more test positive
 
-The steelworks has been under government control for almost a year, but leglistation to nationalise it will be put forward this week.
+An American and a French national who have returned home have tested positive for hantavirus.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c8xwg0gdrpzo?at_medium=RSS&at_campaign=rss)
-
----
-
-### Tourist hotspot at 'end of the world' denies causing hantavirus outbreak
-
-The BBC reports from the city of Ushuaia, where experts have been sent to investigate the origins of the outbreak.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cx21ej471g2o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### British passengers from hantavirus-hit cruise ship isolating in hospital
+### Watch: Macron interrupts speaker to tell audience to be quiet
 
-The passengers landed in the UK on Sunday and none have reported symptoms, but they will will be monitored in hospital for 72 hours.
+The French president stood up during a conference in Kenya to tell the audience to quieten down, saying it was “impossible” for speakers to be heard.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c4g83vddnz0o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Trump says Iran ceasefire is on 'massive life support'
+
+The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is "unbelievably weak".
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### UK PM Keir Starmer vows stronger performance as calls for resignation grow
+### Hundreds displaced, medical services suspended amid gang violence in Haiti
 
-UK PM Keir Starmer vows stronger performance as calls for resignation grow
+Aid group Doctors Without Borders suspends hospital operations because of safety concerns following gunfire.
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/11/uk-pm-keir-starmer-vows-stronger-performance-as-calls-for-resignation-grow?traffic_source=rss)
-
----
-
-### Who is Gerhard Schroeder, Putin’s pick for Ukraine peace talks mediation?
-
-And will he be acceptable to Ukraine and the West?
-
-📎 [阅读原文](https://www.aljazeera.com/news/2026/5/11/who-is-gerhard-schroeder-putins-pick-for-ukraine-peace-talks-mediation?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/5/11/hundreds-displaced-medical-services-suspended-amid-gang-violence-in-haiti?traffic_source=rss)
 
 ---
 
-### Former Qatar PM: Netanyahu using Iran war to reshape Middle East
+### Trump says he will suspend petrol tax amid soaring US fuel prices
 
-Sheikh Hamad bin Jassim warns Strait of Hormuz crisis is most dangerous fallout of war on Iran, calls for 'Gulf NATO'.
+Suspending a federal tax requires an act of Congress, and there may be procedural delays before it can be achieved.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/5/11/former-qatar-pm-netanyahu-using-iran-war-to-reshape-middle-east?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/economy/2026/5/11/trump-says-he-will-suspend-petrol-tax-amid-soaring-us-fuel-prices?traffic_source=rss)
+
+---
+
+### EU, UK sanction Russians over deportations of Ukrainian children
+
+Russian institutions and officials accused of systemic deportation and indoctrination of children during war on Ukraine.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss)
 
 ---
 
@@ -135,6 +135,14 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
+### 量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例
+
+文｜胡香赟 编辑｜海若镜 在科幻电影《流浪地球2》中，拥有指数级运算能力的智能量子计算机“MOSS”，不仅能统筹起全世界的计算资源，支撑1万台“行星发动机”同步运转，还承载足“数字生命计划”那海量的、近乎无底洞般的计算需求，引发大众对量子计算机的无限遐想。这种曾经令人惊叹的科幻设定，如今已慢慢从实验室走向商业化落地。 按照“十五五规划纲要”，量子科技已被列入六大未来产业之一；市场层面的热度同样高涨：据IT桔子数据，到今年4月，国内量子计算赛道中的企业已超过90家，TOP 10企业的总估值逼近500亿元。其中，那些拥有海外顶尖学术背景和成熟产业经历的市场化团队，在这一轮资本竞逐中更受青睐，估值水...
+
+📎 [阅读原文](https://36kr.com/p/3804356346879495?f=rss)
+
+---
+
 ### 氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会
 
 大公司： 百济神州：第一季度净利润为16.08亿元，同比扭亏为盈 36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动了经营效率的提升。 营收确认规则是否存在调整可能？贵州茅台回应 5月11日，贵州茅台召开2025年度及2026年第一季度业绩说明会。会上，针对公司营业收入确认规则以及后续是否存在调整的可能的提问，贵州茅台财务总监、代董事会秘书余思明回应表示，公司严格按照财政部《企业会计准则第14号——收入》要...
@@ -151,83 +159,75 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ---
 
-### 硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步
+### GM just laid off hundreds of IT workers to hire those with stronger AI skills
 
-作者 | 邱晓芬 编辑 | 袁斯来 余轶南似乎是那种总能提前踩中风口的冒险家。 他总在追逐更新、更刺激，早期甚至带着些浪漫想象。博士毕业后，他没有如很多同侪一般，进入学术圈，过上平稳安定的一生，而是冲入互联网浪潮，2015年，他又因为余凯一句“我们一起去做 AI 芯片吧？” ，便追随余凯加入地平线创始团队，成为001号员工。此后几年，地平线逐渐成长为国际上自动驾驶领域最受关注的科技公司之一，并于2024年在港交所上市，成为当年港股最大的IPO。 2024年底，他离开地平线，创立「维他动力」，希望把过去十年在自动驾驶领域积累的能力，迁移到消费级机器人上。 （图源/企业） 余轶南有种知识分子身上并...
+Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.
 
-📎 [阅读原文](https://36kr.com/p/3804282431659779?f=rss)
-
----
-
-### Venmo’s biggest makeover in years comes at a very interesting time
-
-The timing is notable. PayPal, which owns Venmo, is restructuring to spin Venmo off as a standalone business unit — a move widely seen as laying the groundwork for a potential sale. Stripe has reportedly expressed interest in buying PayPal outright.
-
-📎 [阅读原文](https://techcrunch.com/2026/05/11/venmos-biggest-makeover-in-years-comes-at-a-very-interesting-time/)
+📎 [阅读原文](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/)
 
 ---
 
-### Korea’s biggest manufacturers back Config, the TSMC of robot data
+### Finally, texts between Android and iPhone users can be end-to-end encrypted
 
-Samsung, Hyundai and LG just bet on the startup that wants to be robotics' data backbone.
+Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.
 
-📎 [阅读原文](https://techcrunch.com/2026/05/11/koreas-biggest-manufacturers-back-config-the-tsmc-of-robot-data/)
-
----
-
-### Get ready for the whisper-filled office of the future
-
-How will work setups change if we spend more and more time talking to our computers?
-
-📎 [阅读原文](https://techcrunch.com/2026/05/10/get-ready-for-the-whisper-filled-office-of-the-future/)
+📎 [阅读原文](https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/)
 
 ---
 
-### I Work in Hollywood. Everyone Who Used to Make TV Is Now Training AI
+### Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation
 
-Article URL: https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/ Comments URL: https://news.ycombinator.com/item?id=48093446 Points: 14 # Comments: 8
+Five-year old European military drone startup Helsing is close to raising another monster round.
 
-📎 [阅读原文](https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/)
-
----
-
-### Ratty – A terminal emulator with inline 3D graphics
-
-Article URL: https://ratty-term.org/ Comments URL: https://news.ycombinator.com/item?id=48093100 Points: 71 # Comments: 25
-
-📎 [阅读原文](https://ratty-term.org/)
+📎 [阅读原文](https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/)
 
 ---
 
-### All Those A.I. Note Takers? They're Making Lawyers Nervous
+### GM just laid off IT workers to hire those with stronger AI skills
 
-Article URL: https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html Comments URL: https://news.ycombinator.com/item?id=48093043 Points: 18 # Comments: 10
+Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 7 # Comments: 0
 
-📎 [阅读原文](https://www.nytimes.com/2026/05/09/business/dealbook/ai-notetakers-legal-risk.html)
-
----
-
-### Do you take after your dad’s RNA?
-
-Evidence is growing that sperm carries marks of a father’s life experiences, influencing traits in offspring.
-
-📎 [阅读原文](https://arstechnica.com/science/2026/05/do-you-take-after-your-dads-rna/)
+📎 [阅读原文](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/)
 
 ---
 
-### Huge landslide created a 500-meter-high tsunami in a major tourist area
+### Griffin PowerMate driver for modern macOS
 
-Fortunately, it happened early in the morning, so nobody was around.
+Article URL: https://github.com/jameslockman/Griffin-PowerMate-Driver Comments URL: https://news.ycombinator.com/item?id=48100970 Points: 15 # Comments: 5
 
-📎 [阅读原文](https://arstechnica.com/science/2026/05/how-a-melting-glacier-led-to-a-500-meter-high-tsunami/)
+📎 [阅读原文](https://github.com/jameslockman/Griffin-PowerMate-Driver)
 
 ---
 
-### The new Wild West of AI kids’ toys
+### TanStack NPM Packages Compromised
 
-These connected companions could disrupt everything from make-believe to bedtime stories. No wonder some lawmakers want them banned.
+Article URL: https://github.com/TanStack/router/issues/7383 Comments URL: https://news.ycombinator.com/item?id=48100706 Points: 394 # Comments: 121
 
-📎 [阅读原文](https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/)
+📎 [阅读原文](https://github.com/TanStack/router/issues/7383)
+
+---
+
+### Linux bitten by second severe vulnerability in as many weeks
+
+Production-version patches are coming online and should be installed pronto.
+
+📎 [阅读原文](https://arstechnica.com/security/2026/05/linux-bitten-by-second-severe-vulnerability-in-as-many-weeks/)
+
+---
+
+### Audi has a new Q9 flagship coming soon: Here's its interior
+
+Audi made sure to consult American tastes for its first full-size SUV.
+
+📎 [阅读原文](https://arstechnica.com/cars/2026/05/take-a-look-inside-audis-new-big-three-row-q9-suv/)
+
+---
+
+### After banning foreign routers, FCC says existing ones can get updates until 2029
+
+FCC extends waiver allowing routers and drones to get patches for two more years.
+
+📎 [阅读原文](https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/)
 
 ---
 
@@ -240,4 +240,4 @@ These connected companions could disrupt everything from make-believe to bedtime
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 20:02 GMT+8*
+*Generated by OpenClaw News Aggregator at 08:02 GMT+8*
