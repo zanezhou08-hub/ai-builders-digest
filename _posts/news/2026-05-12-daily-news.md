@@ -11,27 +11,27 @@ section: news
 
 ## 🌍 国际新闻
 
-### Last passengers leave virus-hit cruise ship as three more test positive
+### Henry Zeffman: PM puts himself back in the game for now
 
-An American and a French national who have returned home have tested positive for hantavirus.
+The prime minister has told the Cabinet a leadership contest had not been triggered, and that he wouldn't be resigning.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss)
-
----
-
-### Watch: Macron interrupts speaker to tell audience to be quiet
-
-The French president stood up during a conference in Kenya to tell the audience to quieten down, saying it was “impossible” for speakers to be heard.
-
-📎 [阅读原文](https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/clypl327620o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Trump says Iran ceasefire is on 'massive life support'
+### BBC unmasks key people smuggler in network behind most small boat crossings
 
-The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is "unbelievably weak".
+The 28-year-old Iraqi Kurd has evaded arrest by operating under the alias “Kardo Ranya”.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cp3pl5093wpo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### No sign of larger hantavirus outbreak, says UN health agency
+
+The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Hundreds displaced, medical services suspended amid gang violence in Haiti
+### The crisis is Sudan is much worse than what is acknowledged
 
-Aid group Doctors Without Borders suspends hospital operations because of safety concerns following gunfire.
+Even in Khartoum, where there is no longer fighting, the humanitarian situation is dire.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/5/11/hundreds-displaced-medical-services-suspended-amid-gang-violence-in-haiti?traffic_source=rss)
-
----
-
-### Trump says he will suspend petrol tax amid soaring US fuel prices
-
-Suspending a federal tax requires an act of Congress, and there may be procedural delays before it can be achieved.
-
-📎 [阅读原文](https://www.aljazeera.com/economy/2026/5/11/trump-says-he-will-suspend-petrol-tax-amid-soaring-us-fuel-prices?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/opinions/2026/5/12/the-crisis-is-sudan-is-much-worse-than-what-is-acknowledged?traffic_source=rss)
 
 ---
 
-### EU, UK sanction Russians over deportations of Ukrainian children
+### Over 370 Afghans killed in Pakistan conflict in first 3 months of 2026: UN
 
-Russian institutions and officials accused of systemic deportation and indoctrination of children during war on Ukraine.
+Fighting between the Taliban and Pakistani forces intensified in February, with many civilians killed in air raids.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/5/11/eu-and-uk-sanction-russians-over-deportations-of-ukrainian-children?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/5/12/over-370-afghans-killed-in-pakistan-conflict-in-first-3-months-of-2026-un?traffic_source=rss)
+
+---
+
+### USA’s Johnny Cardoso expected to miss World Cup through ankle injury
+
+Atletico Madrid midfielder Cardoso is the latest name in the growing list of injured players for tournament cohosts USA.
+
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/5/12/usas-johnny-cardoso-expected-to-miss-world-cup-through-ankle-injury?traffic_source=rss)
 
 ---
 
@@ -135,75 +135,83 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 量子计算走出“科幻片”，「波色量子」在肿瘤、脑机等领域交出百余个落地案例
+### 氪星晚报 ｜宇树科技发布载人机甲，投资人回应；京东：第一季度营收3157亿元，日本恩格尔系数创1980年以来最高水平同比增长4.9%
 
-文｜胡香赟 编辑｜海若镜 在科幻电影《流浪地球2》中，拥有指数级运算能力的智能量子计算机“MOSS”，不仅能统筹起全世界的计算资源，支撑1万台“行星发动机”同步运转，还承载足“数字生命计划”那海量的、近乎无底洞般的计算需求，引发大众对量子计算机的无限遐想。这种曾经令人惊叹的科幻设定，如今已慢慢从实验室走向商业化落地。 按照“十五五规划纲要”，量子科技已被列入六大未来产业之一；市场层面的热度同样高涨：据IT桔子数据，到今年4月，国内量子计算赛道中的企业已超过90家，TOP 10企业的总估值逼近500亿元。其中，那些拥有海外顶尖学术背景和成熟产业经历的市场化团队，在这一轮资本竞逐中更受青睐，估值水...
+大公司： 京东：第一季度营收3157亿元，同比增长4.9% 36氪获悉，京东发布2026年第一季度财报，第一季度营收3157亿元，同比增长4.9%；非美国通用会计准则下（Non-GAAP）归母净利润74亿元；京东零售经营利润率提升至5.6%，经营利润创历史新高。截至一季度，京东年度活跃用户数超7.4亿，季度活跃用户数实现连续10个季度的同比双位数增长。京东体系研发投入在一季度同比增长59%。 华硕第一季度营收2083.7亿元台币 华硕第一季度营收2083.7亿元台币，预估2001.3亿元台币；营业利润119.0亿元台币。（财联社） 宇树科技发布载人机甲，投资人回应 5月12日，宇树发布GD01...
 
-📎 [阅读原文](https://36kr.com/p/3804356346879495?f=rss)
-
----
-
-### 氪星晚报 ｜千问与淘宝打通，正式上线AI购物；泡泡玛特将在5月13日举行2026年一季度业务更新电话会
-
-大公司： 百济神州：第一季度净利润为16.08亿元，同比扭亏为盈 36氪获悉，百济神州发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入105.44亿元，同比增长31.0%；归属于上市公司股东的净利润为16.08亿元，上年同期亏损，同比扭亏为盈。业绩变动主要系产品收入增长和费用管理推动了经营效率的提升。 营收确认规则是否存在调整可能？贵州茅台回应 5月11日，贵州茅台召开2025年度及2026年第一季度业绩说明会。会上，针对公司营业收入确认规则以及后续是否存在调整的可能的提问，贵州茅台财务总监、代董事会秘书余思明回应表示，公司严格按照财政部《企业会计准则第14号——收入》要...
-
-📎 [阅读原文](https://36kr.com/p/3804795647729411?f=rss)
+📎 [阅读原文](https://36kr.com/p/3806196073242112?f=rss)
 
 ---
 
-### 理想整车研发负责人刘立国：说理想不重视技术，是大大的误解
+### 不用再找了，AI落地最全的实战打法，都在亦庄这场大会里
 
-理想汽车整车电动研发高级副总裁 刘立国 文｜肖漫 编辑｜李勤 走过10年造车历程后，新势力阵营已经普遍从“轻盈”走向“厚重”。尤其是理想汽车，这家公司高呼成为“ 具身智能企业”，但也同时在垒高每一块整车技术能力。 尤其是过去4年，理想汽车几乎重构了底盘系统，联合供应商深度共创了底盘三大项：EMB刹车+800V主动悬架+线控转向。 理想在电池上也在进行自制布局，同时，在自身起家的增程技术上，理想也走到了自研自制阶段——其最新一代增程器，也即发动机，已经是理想汽车“自己生产”。 上述技术能力成果几乎都将集中体现在最新的旗舰车理想L9 Livis上。这意味着，新一代理想L9，也将是理想新一代技术能力...
+5月19日至20日，带上你的需求， 带上你的方案，我们在亦庄，不见不散。 如果说过去两年，我们还在争论AI的能力边界，那么2026年的资本市场与产业端已经给出了最直接的回答：AI正经历着一场严苛的“前线压力测试”。 从资本市场用真金白银为应用层投票，到全球科技界重新校准AI的价值尺度，聚光灯正从晦涩的参数竞赛，转向了真实的生产生活。当行业洗牌加速，所有人都在寻找那个能将技术兑换为价值的确定性坐标。 在这样的关键时刻，北京经开区充分发挥产业高地与政策策源地的引领作用，为AI落地提供了前瞻性的亦庄路径：以全域开放的产业图景为底座，用丰富的落地场景牵引技术创新，推动“人工智能+”在垂直行业深度延伸，...
 
-📎 [阅读原文](https://36kr.com/p/3804380633554696?f=rss)
-
----
-
-### GM just laid off hundreds of IT workers to hire those with stronger AI skills
-
-Some of the positions focus on AI-native development, data engineering and analytics, cloud-based engineering, and agent and model development as well as prompt engineering and new AI workflows.
-
-📎 [阅读原文](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/)
+📎 [阅读原文](https://36kr.com/p/3806179759496711?f=rss)
 
 ---
 
-### Finally, texts between Android and iPhone users can be end-to-end encrypted
+### Walulu：用六个月撕开一条新赛道
 
-Google had urged Apple for years to support RCS texting to make communication between each company's devices more seamless.
+文丨果脯 近日，成都雨之灵动科技有限公司（后称雨之灵动）宣布完成总额数千万人民币的天使轮及Pre-A轮融资。 目前其投资方阵容已颇为亮眼，包含KK集团、4399、科大讯飞和一家知名财务投资机构，涵盖了财务资本、渠道资源、游戏行业及AI技术四大维度。做到这种程度，基本已经覆盖了一家AI消费品公司的所需的核心拼图。 雨之灵动能同时吸引到这四类资方，一定程度上说明他们的项目不仅打动了财务投资人的直觉，也获得了产品方对其产品的市场期望。 雨之灵动的核心产品是AI仿生毛绒宠物Walulu。在公司创始人兼CEO顾小毛的愿景中，他们希望将Walulu打造成“AI时代的宝可梦”。 这并非雨之灵动最早的想法。2...
 
-📎 [阅读原文](https://techcrunch.com/2026/05/11/finally-texts-between-android-and-iphone-users-can-be-end-to-end-encrypted/)
-
----
-
-### Daniel Ek-backed defense tech Helsing to raise $1.2B at $18B valuation
-
-Five-year old European military drone startup Helsing is close to raising another monster round.
-
-📎 [阅读原文](https://techcrunch.com/2026/05/11/daniel-ek-backed-defense-tech-helsing-to-raise-1-2b-at-18b-valuation/)
+📎 [阅读原文](https://36kr.com/p/3805761383751427?f=rss)
 
 ---
 
-### GM just laid off IT workers to hire those with stronger AI skills
+### AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals
 
-Article URL: https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/ Comments URL: https://news.ycombinator.com/item?id=48102198 Points: 7 # Comments: 0
+Vapi says its enterprise business has grown 10-fold since early 2025 as companies shift customer support and sales calls to AI agents.
 
-📎 [阅读原文](https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/)
-
----
-
-### Griffin PowerMate driver for modern macOS
-
-Article URL: https://github.com/jameslockman/Griffin-PowerMate-Driver Comments URL: https://news.ycombinator.com/item?id=48100970 Points: 15 # Comments: 5
-
-📎 [阅读原文](https://github.com/jameslockman/Griffin-PowerMate-Driver)
+📎 [阅读原文](https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/)
 
 ---
 
-### TanStack NPM Packages Compromised
+### Amazon launches 30-minute delivery across the U.S.
 
-Article URL: https://github.com/TanStack/router/issues/7383 Comments URL: https://news.ycombinator.com/item?id=48100706 Points: 394 # Comments: 121
+Amazon says its new ultra-fast delivery option brings groceries, household essentials, and other items to customers’ doors in 30 minutes.
 
-📎 [阅读原文](https://github.com/TanStack/router/issues/7383)
+📎 [阅读原文](https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/)
+
+---
+
+### Thinking Machines wants to build an AI that actually listens while it talks
+
+Right now, every AI model you've ever used works the same way. You talk, it listens. It responds, you listen. Thinking Machines is trying to change that by building a model that processes your input and generates a response at the same time, so it's more like a phone call than a text chain.
+
+📎 [阅读原文](https://techcrunch.com/2026/05/11/thinking-machines-wants-to-build-an-ai-that-actually-listens-while-it-talks/)
+
+---
+
+### EU to crack down on TikTok, Instagram's 'addictive design' targeting kids
+
+Article URL: https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html Comments URL: https://news.ycombinator.com/item?id=48106534 Points: 38 # Comments: 4
+
+📎 [阅读原文](https://www.cnbc.com/2026/05/12/tiktok-instagram-social-media-addictive-eu-crack-down.html)
+
+---
+
+### Coursera and Udemy are now one company
+
+Article URL: https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/ Comments URL: https://news.ycombinator.com/item?id=48106367 Points: 37 # Comments: 9
+
+📎 [阅读原文](https://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/)
+
+---
+
+### Yabasic (Yet Another Basic)
+
+Article URL: https://en.wikipedia.org/wiki/Yabasic Comments URL: https://news.ycombinator.com/item?id=48106345 Points: 11 # Comments: 0
+
+📎 [阅读原文](https://en.wikipedia.org/wiki/Yabasic)
+
+---
+
+### Once again, SpaceX has set a new record for the tallest rocket ever built
+
+SpaceX cleared an important milestone Monday on the road to launching a new version of Starship.
+
+📎 [阅读原文](https://arstechnica.com/space/2026/05/spacex-completes-fueling-test-setting-stage-for-first-launch-of-starship-v3/)
 
 ---
 
@@ -223,14 +231,6 @@ Audi made sure to consult American tastes for its first full-size SUV.
 
 ---
 
-### After banning foreign routers, FCC says existing ones can get updates until 2029
-
-FCC extends waiver allowing routers and drones to get patches for two more years.
-
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/05/fcc-slightly-relaxes-foreign-router-ban-allows-software-updates-until-2029/)
-
----
-
 
 ---
 
@@ -240,4 +240,4 @@ FCC extends waiver allowing routers and drones to get patches for two more years
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:02 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
