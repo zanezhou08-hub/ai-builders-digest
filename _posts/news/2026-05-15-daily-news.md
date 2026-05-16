@@ -11,27 +11,27 @@ section: news
 
 ## 🌍 国际新闻
 
-### Burnham to make bid to return as MP as pressure mounts on Starmer
+### Analysis: Andy Burnham's route back to Commons is clearer - but can he win in Makerfield?
 
-Wes Streeting also resigns as health secretary, saying he has lost confidence in Sir Keir Starmer's leadership.
+The Greater Manchester mayor faces a messy and bitter by-election battle with Reform UK.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c1l2e325zvgo?at_medium=RSS&at_campaign=rss)
-
----
-
-### Watch: The day Labour's potential leadership race began to heat up
-
-Political turmoil continued in Westminster on Thursday after Health Secretary Wes Streeting resigned Starmer's government saying he had "lost confidence" in his leadership.
-
-📎 [阅读原文](https://www.bbc.com/news/videos/c3w2ngny1v6o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cx21x2rpm12o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Key excerpts from Streeting's resignation letter as he quits as health secretary
+### Brutal raid on woman's birthday party highlights rise of Russian vigilante group
 
-He quits as health secretary after days of speculation that he is preparing to launch a leadership challenge against Sir Keir Starmer.
+The Russkaya Obshina group stages raids to look for activities contravening "traditional Russian values".
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c626wvqy1yzo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cq5p306l7weo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Trump and Xi conclude 'very successful' talks but no deals announced
+
+There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Explosions heard as mining groups stage anti-government protest in Bolivia
+### Finland ends drone alert amid regional fears of Ukraine war spillover
 
-Protesters have demanded the resignation of President Rodrigo Paz, who was elected on a platform of economic reform.
+Finnish defence authorities scramble fighter jets; defence chief warns of more alarms as Russian war persists.
 
-📎 [阅读原文](https://www.aljazeera.com/economy/2026/5/14/explosions-heard-as-mining-groups-stage-anti-government-protest-in-bolivia?traffic_source=rss)
-
----
-
-### UN aid convoy hit by drone strikes in Ukraine’s Kherson
-
-A UN humanitarian convoy delivering aid to the city of Kherson was hit twice by drones.
-
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/5/15/finland-ends-drone-alert-amid-regional-fears-of-ukraine-war-overspill?traffic_source=rss)
 
 ---
 
-### Cuba’s Diaz-Canel open to US aid amid worsening fuel crisis, blackouts
+### This is the Palestinian Nakba, measured in land taken
 
-The comments came as a US delegation led by CIA Director John Ratcliffe met Cuban officials in Havana on Thursday.
+On May 15, Palestinians mark 78 years since the Nakba. The count of land Israel has taken keeps growing today.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/5/14/cubas-diaz-canel-open-to-us-aid-amid-worsening-fuel-crisis-blackouts?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/video/by-the-numbers-3/2026/5/15/this-is-the-palestinian-nakba-measured-in-land-taken?traffic_source=rss)
+
+---
+
+### India hikes fuel prices as Iran crisis bites
+
+The world's third-largest oil importer announced increased fuel prices and austerity measures due to the energy crisis.
+
+📎 [阅读原文](https://www.aljazeera.com/economy/2026/5/15/india-hikes-fuel-prices-as-iran-crisis-bites?traffic_source=rss)
 
 ---
 
@@ -135,27 +135,27 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 8点1氪丨周大福回应金饰又涨价；韩国一季度未成年人股票账户暴涨近十倍；张雪机车820RR暂停生产交付
+### 36氪联合PureblueAI清蓝发布「2026消费品牌AI推荐力名册」丨AI时代，品牌如何抢占「推荐力」新战场？
 
-今日热点导览 李强会见美国工商界代表 微信成立800人团队适配鸿蒙，约占开发人员一半 周大福回应金饰又涨价 韩国要求三星与工会5月16日恢复谈判 美参议院批准凯文·沃什出任美联储主席 TOP 3 大新闻 韩国一季度未成年人股票账户暴涨近十倍 近日，三星电子市值突破1万亿美元大关，成为亚洲市值第二高企业。推动这股强劲势头的，正是韩国那支多达1400万人交易大军的回归，他们已向本土股市投入了约37.7万亿韩元（约合人民币1722亿元）。 在韩国股市中，种种狂热迹象正随处显现。他们正通过创纪录的巨额借款，加大对股市的押注。一种“错失恐惧症”（FOMO）正弥漫在韩国各地的办公室、餐厅乃至家庭聚会之中，...
+当你打算入手一部新手机、一台冰箱，或是一瓶面霜时，你的第一个动作是什么？是打开电商平台浏览，还是搜索测评文章？当前，越来越多人的选择是：直接问AI。 “20-30万预算，有什么新能源轿车推荐？”“哪款手机拍照更好？”“敏感肌适用什么洁面？”……这些曾经需要查阅大量攻略、对比无数参数的消费决策，如今正被一个个简洁的AI问答窗口所承接。DeepSeek、豆包、通义千问、腾讯元宝等主流AI助手，正以前所未有的深度渗透进我们的消费生活，成为事实上的“第一入口”和“前置决策参谋”。 对各大品牌而言，一个全新的战场已经悄然形成。当消费者不再直接搜索品牌名称，而是向AI提出一个开放式需求时，你的品牌能否被提...
 
-📎 [阅读原文](https://36kr.com/p/3809785128869641?f=rss)
-
----
-
-### 氪星晚报｜千里智驾CEO辟谣离职传闻；三星在计划罢工前夕启动减产
-
-大公司： 苏州高新：董事长王平因个人原因辞职 36氪获悉，苏州高新公告，公司董事会近日收到董事长王平的书面辞职报告。王平因个人原因，申请辞去公司董事长、董事等职务，辞职后不在公司担任任何职务。根据《公司法》《公司章程》及相关规定，董事长王平的离任未导致公司董事会人数低于法定最低人数，不影响公司董事会正常运行，不会对公司经营产生影响。公司将按照法定程序，尽快完成新任董事长的选举、法定代表人变更工作。为保障公司经营工作正常开展，由副董事长、总经理沈明先生代行董事长、法定代表人职责。 千里智驾CEO辟谣离职传闻 5月14日下午，针对离职传闻，千里智驾联席CEO陈奇辟谣称：“人在公司，还在为千里智驾打...
-
-📎 [阅读原文](https://36kr.com/p/3809007831375621?f=rss)
+📎 [阅读原文](https://36kr.com/p/3810308239465986?f=rss)
 
 ---
 
-### 腾讯要懂得花钱
+### 长安计划入股千里科技，千里智驾与奥迪推进合作｜36氪独家
 
-作者 | 黄绎达 编辑 | 张帆 5月13日，腾讯公布了2026年一季度财报。 财报显示，腾讯在2026Q1实现收入1964.58亿元，同比增长9%；同期实现经营利润673.75亿元，同比增长17%；Non-IFRS经营利润录得756.3亿元，同比增长9%。若剔除新AI产品（Hy、元宝、CodeBuddy、WorkBuddy及QClaw）对收入、成本、开支等科目的影响，同期再调整后的Non-IFRS经营利润为844亿元，同比增长17%。 图：腾讯2026Q1财报摘要；资料来源：公司公告，36氪 腾讯2026Q1的业绩延续了长期以来的稳健增长态势，同时也整体符合市场预期。纵观近年来腾讯的业绩表现...
+36氪从多位产业人士处了解到，千里科技正积极与长安、奥迪、奇瑞等车企，洽谈智能化合作。 其中，长安不仅有意向搭载千里科技辅助驾驶方案，还计划入股千里科技，双方原定于今年年初完成股权变更。但目前，据知情人士透露，该计划暂无实质性进展。 36氪了解到，北汽是千里科技眼下最具确定性的外部客户，双方计划于今年内成立合资公司。 千里科技与北汽计划合作5款车型，其中包含一款轿车，一款越野车型，还有一款轿跑猎装版。其中部分车型计划于今年发布。 除长安、北汽之外，传统高端品牌奥迪、安徽地方国企奇瑞等车企，也在与千里科技商谈辅助驾驶领域的合作。 千里科技与奥迪的合作较为深入。今年北京车展上，千里科技发布了与北汽...
 
-📎 [阅读原文](https://36kr.com/p/3808999399497221?f=rss)
+📎 [阅读原文](https://36kr.com/p/3810091479293449?f=rss)
+
+---
+
+### Indian Uber rival Rapido raises $240M at $3B valuation
+
+Rapido has driven its growth by enabling ride-hailing for lower-cost and more flexible modes of transport such as motorbikes and autorickshaws.
+
+📎 [阅读原文](https://techcrunch.com/2026/05/15/indian-uber-rival-rapido-raises-240m-at-3b-valuation/)
 
 ---
 
@@ -175,35 +175,43 @@ More than 50 employees have reportedly left Elon Musk’s newly merged SpaceXAI 
 
 ---
 
-### OpenAI says Codex is coming to your phone
+### Welcome to the Strip Mining Era of OSS Security
 
-The update gives users enhanced flexibility over how they can manage their workflows.
+Article URL: https://www.metabase.com/blog/strip-mining-era-of-open-source-security Comments URL: https://news.ycombinator.com/item?id=48147339 Points: 5 # Comments: 0
 
-📎 [阅读原文](https://techcrunch.com/2026/05/14/openai-says-codex-is-coming-to-your-phone/)
-
----
-
-### ICLR 2026 – Institutional Affiliations Dataset and Analysis
-
-Article URL: https://github.com/DmytroLopushanskyy/iclr2026-affiliations Comments URL: https://news.ycombinator.com/item?id=48142312 Points: 4 # Comments: 0
-
-📎 [阅读原文](https://github.com/DmytroLopushanskyy/iclr2026-affiliations)
+📎 [阅读原文](https://www.metabase.com/blog/strip-mining-era-of-open-source-security)
 
 ---
 
-### 'Millions' of pounds saved by replacing Palantir tech in refugee system
+### O(x)Caml in Space
 
-Article URL: https://www.bbc.com/news/articles/c2l2j1lxdk5o Comments URL: https://news.ycombinator.com/item?id=48142251 Points: 56 # Comments: 15
+Article URL: https://gazagnaire.org/blog/2026-05-14-borealis.html Comments URL: https://news.ycombinator.com/item?id=48147058 Points: 42 # Comments: 3
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c2l2j1lxdk5o)
+📎 [阅读原文](https://gazagnaire.org/blog/2026-05-14-borealis.html)
 
 ---
 
-### More than half of U.S. faces worst drought in decades
+### Steve Jobs Next Computer: His Forgotten Exile Years
 
-Article URL: https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html Comments URL: https://news.ycombinator.com/item?id=48142193 Points: 32 # Comments: 4
+Article URL: https://spectrum.ieee.org/steve-jobs-next-computer Comments URL: https://news.ycombinator.com/item?id=48146908 Points: 25 # Comments: 9
 
-📎 [阅读原文](https://news.vt.edu/articles/2026/05/drought-united-states-la-nina-expert.html)
+📎 [阅读原文](https://spectrum.ieee.org/steve-jobs-next-computer)
+
+---
+
+### The perfect commuter bike? Velotric's Discover 3 makes its case.
+
+A customized mid-motor and Shimano's new Cues components are a winning combination.
+
+📎 [阅读原文](https://arstechnica.com/cars/2026/05/the-perfect-commuter-bike-velotrics-discover-3-makes-its-case/)
+
+---
+
+### Claude Code's product lead talks usage limits, transparency, and the "lean harness"
+
+"We have no grand plan," says Anthropic's Cat Wu—but that's by design.
+
+📎 [阅读原文](https://arstechnica.com/ai/2026/05/claude-codes-product-lead-talks-usage-limits-transparency-and-the-lean-harness/)
 
 ---
 
@@ -215,29 +223,13 @@ Study suggests "the bias is real but socially constructed, rather than grounded 
 
 ---
 
-### Fired hacker twins forget to end Teams recording, capture own crimes
-
-One little mystery—solved.
-
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/05/fired-hacker-twins-forget-to-end-teams-recording-capture-own-crimes/)
 
 ---
 
-### Cell phone users can't stop incriminating themselves
-
-People confide almost everything to their phones.
-
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/05/cell-phones-users-cant-stop-incriminating-themselves/)
-
----
-
-
----
-
-📊 **今日摘要**: 27 篇精选文章
+📊 **今日摘要**: 26 篇精选文章
 
 - 🌍 国际: 7 篇
 - 🇨🇳 国内: 8 篇
-- 💼 科技: 12 篇
+- 💼 科技: 11 篇
 
-*Generated by OpenClaw News Aggregator at 08:02 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
