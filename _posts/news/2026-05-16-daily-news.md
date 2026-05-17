@@ -11,19 +11,19 @@ section: news
 
 ## 🌍 国际新闻
 
-### Burnham cleared to run for selection in pivotal by-election
+### Tens of thousands descend on London for rival protests
 
-If the Greater Manchester mayor goes on to win the by-election, he would be able to launch a leadership challenge against the PM.
+A heavy police operation is in place for the Unite the Kingdom march, organised by Tommy Robinson, and a separate pro-Palestinian protest.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/ckgp2e0rrj4o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/c3d2ryyz0jzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### How Rayner, Streeting and Burnham weakened PM in 12 hours of political drama
+### The race to replace Starmer is on - but he still faces a momentous choice
 
-Three interventions by three senior Labour politicians made for an unforgettable day in British politics.
+Labour is consumed by drama, but the PM still faces big decisions - and what could be his final choice.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cvgzjj474ywo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cx213m1d82lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Activists hang Palestinian flag on the Eiffel Tower for Nakba Day
+### Israel’s Image Crisis: Becoming Too Big to Spin?
 
-Members of Extinction Rebellion scaled the Eiffel Tower to hang a Palestinian flag for Nakba day.
+Israel has never spent more on its national propaganda campaigns.
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/15/activists-hang-palestinian-flag-on-the-eiffel-tower-for-nakba-day?traffic_source=rss)
-
----
-
-### Mahmoud Khalil calls for deportation to be halted in light of new evidence
-
-Lawyers say new evidence suggests Trump admin 'engineered' outcome of case against pro-Palestine Columbia student.
-
-📎 [阅读原文](https://www.aljazeera.com/news/2026/5/15/mahmoud-khalil-calls-for-deportation-to-be-halted-in-light-of-new-evidence?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/video/the-listening-post/2026/5/16/israels-image-crisis-becoming-too-big-to-spin?traffic_source=rss)
 
 ---
 
-### What are World Cup 2026 national team base camps and their locations?
+### LIVE: Chelsea vs Manchester City – FA Cup final
 
-Training and accommodation locations for Argentina, Portugal, Spain, Brazil, England, Iran and other World Cup teams.
+Follow our live build-up, with full team news coverage, ahead of our text commentary stream.
 
-📎 [阅读原文](https://www.aljazeera.com/sports/2026/5/15/world-cup-2026-base-camps-argentina-portugal-brazil-england-spain-where-will-they-stay?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/sports/liveblog/2026/5/16/live-chelsea-vs-manchester-city-fa-cup-final?traffic_source=rss)
+
+---
+
+### At least eight killed, 25 injured as train hits bus in Bangkok
+
+A train crashed into a public bus near an airport rail link station in Bangkok's city centre, Thai media report.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/5/16/at-least-eight-killed-25-injured-as-train-hits-bus-in-bangkok?traffic_source=rss)
 
 ---
 
@@ -135,19 +135,27 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
+### 36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断
+
+作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。 据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。 在音频产品市场中，由于对无线和开耳式聆听技术的需求不断增加，骨传导耳机市场出现了显著增长。 调研机构Market Growth统计的数据显示，2024年骨传导耳机市场规模为12.8亿美元，预计到2025年将增长到16.11亿美元，到2033年将超过81.5亿美元，复合年增长率为22.8%。 不过，该市场集中度较高，少数头部品牌...
+
+📎 [阅读原文](https://36kr.com/p/3810520138243593?f=rss)
+
+---
+
+### 9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元
+
+今日热点导览 OpenAI正考虑采取法律手段起诉苹果公司 三星电子开发下一代HBM封装技术，或用于智能手机等移动设备 海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群 世界银行首席经济学家英德米特・吉尔将于8月卸任退休 “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示 TOP 3大新闻 央视确认获得2026年世界杯版权，费用为6000万美元 5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作达成共识。合作赛事包括2026年世界杯、2030年世界杯、2027年女足世界杯、2031年女足世界杯。 根据双方合作意向，中央广播电视总台确认获得...
+
+📎 [阅读原文](https://36kr.com/p/3811265856626440?f=rss)
+
+---
+
 ### 理想出牌：全新L9上市，45.98万元起｜最前线
 
 理想汽车CEO 李想 能让李想豁出去跳舞挣眼球的发布会，仅在全新一代理想L9上市。 5月15日，理想发布会了全新一代理想L9，推出两个版本——理想L9 livis，售价 50.98万元；理想L9 Ultra版，售价45.98万元。且理想给出了现金2万元的首销权益，截止于6月30日。 36氪汽车曾报道指出，理想今年第一目标就是加固增程和高端市场的基本盘。今年产品重心将回归增程市场，用换代产品拿回增程领先的位置。 全新一代理想L9就是第一枪。 上市前夕，我们体验了全新理想L9 livis，一个比较直观的感觉是，无论是外观和内饰的质感，车辆的性能相较于上一代产品都有了质的提升。 外观方面，理想L9 ...
 
 📎 [阅读原文](https://36kr.com/p/3810562142445058?f=rss)
-
----
-
-### 2026 Shokz Day圆满收官：韶音以「随我动听」开启全场景声态新时代
-
-2026年5月15日，全球开放式耳机领导品牌Shokz韶音在深圳湾文化广场举办2026「随我动听」Shokz Day。活动期间，韶音围绕OpenDots 2、OpenSwim Pro 2与OpenDots Air三款新品展开集中分享，系统阐释了「随我动听」的品牌主张。韶音全球品牌大使张婧仪登台分享，由韶音与国际设计大师Matteo Menotto合作的「缮己新声」艺术礼盒也在现场展出，带来一场关于听觉自由与生活质感的全新生活方式表达。 官方图片 锚定开放内核，解码「随我动听」 Shokz韶音中国区CEO杨云在现场分享了品牌对开放聆听的最新思考：“真实的世界从不静止。声音在流动，环境在变化，人的...
-
-📎 [阅读原文](https://36kr.com/p/3810607581634056?f=rss)
 
 ---
 
@@ -175,27 +183,27 @@ The tech company that maintains the hotel check-in system set its cloud storage 
 
 ---
 
-### How to Write to SSDs [pdf]
+### Europe built sovereign clouds to escape US control. Forgot about the processors
 
-Article URL: https://www.vldb.org/pvldb/vol19/p1469-lee.pdf Comments URL: https://news.ycombinator.com/item?id=48154711 Points: 18 # Comments: 2
+Article URL: https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735 Comments URL: https://news.ycombinator.com/item?id=48159282 Points: 5 # Comments: 0
 
-📎 [阅读原文](https://www.vldb.org/pvldb/vol19/p1469-lee.pdf)
-
----
-
-### London Police Deploy Facial Recognition at Protest for First Time
-
-Article URL: https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time Comments URL: https://news.ycombinator.com/item?id=48153400 Points: 82 # Comments: 55
-
-📎 [阅读原文](https://reclaimthenet.org/london-police-deploy-facial-recognition-at-protest-for-first-time)
+📎 [阅读原文](https://www.theregister.com/systems/2026/05/16/europe-built-sovereign-clouds-to-escape-us-control-then-forgot-about-the-processors/5237735)
 
 ---
 
-### I believe there are entire companies right now under AI psychosis
+### Futhark by Example
 
-https://xcancel.com/mitchellh/status/2055380239711457578https://hachyderm.io/@mitchellh/116580433508108130 Comments URL: https://news.ycombinator.com/item?id=48153379 Points: 584 # Comments: 264
+Article URL: https://futhark-lang.org/examples.html Comments URL: https://news.ycombinator.com/item?id=48158606 Points: 34 # Comments: 4
 
-📎 [阅读原文](https://twitter.com/mitchellh/status/2055380239711457578)
+📎 [阅读原文](https://futhark-lang.org/examples.html)
+
+---
+
+### Δ-Mem: Efficient Online Memory for Large Language Models
+
+Article URL: https://arxiv.org/abs/2605.12357 Comments URL: https://news.ycombinator.com/item?id=48158506 Points: 55 # Comments: 12
+
+📎 [阅读原文](https://arxiv.org/abs/2605.12357)
 
 ---
 
@@ -226,10 +234,10 @@ WHO announced today that the operation to safely transfer passengers is complete
 
 ---
 
-📊 **今日摘要**: 26 篇精选文章
+📊 **今日摘要**: 27 篇精选文章
 
 - 🌍 国际: 7 篇
 - 🇨🇳 国内: 8 篇
-- 💼 科技: 11 篇
+- 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:03 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:02 GMT+8*
