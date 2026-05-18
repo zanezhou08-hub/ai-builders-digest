@@ -11,7 +11,15 @@ section: news
 
 ## 🌍 国际新闻
 
-### Is it harder than ever to be prime minister?
+### Personal decision for Starmer on whether to fight leadership contest, minister says
+
+Culture Secretary Lisa Nandy tells the BBC that the prime minister has "shown before that he's up for a fight" and she "wouldn't write [him] off".
+
+📎 [阅读原文](https://www.bbc.com/news/articles/clypg60k25ro?at_medium=RSS&at_campaign=rss)
+
+---
+
+### The UK is churning through leaders. Is the country becoming harder to govern?
 
 Discontent with the political class is greater than ever - has the UK become ungovernable?
 
@@ -19,19 +27,11 @@ Discontent with the political class is greater than ever - has the UK become ung
 
 ---
 
-### Streeting says he would join leadership race as Burnham vows to 'save' Labour
+### Forty-three arrests after £4.5m police operation to keep rival London protests apart
 
-The former health secretary says there must be a "proper contest" while Burnham says Labour needs to be "saved from where it's been".
+Serious clashes between Unite the Kingdom and pro-Palestinian protesters were avoided on Saturday.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c17297n77z1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### The race to replace Starmer is on - but he still faces a momentous choice
-
-Labour is consumed by drama, but the PM still faces big decisions - and what could be his final choice.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cx213m1d82lo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/ckgpznn202po?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Bolivia launches early-morning crackdown on roadblocks outside La Paz
+### WHO declares Ebola outbreak in DRC, Uganda a global emergency: What to know
 
-The government of Rodrigo Paz has sent about 3,500 soldiers and police to clear protesters demanding his resignation.
+DRC outbreak causes more than 80 deaths and spreads to neighbouring Uganda.
 
-📎 [阅读原文](https://www.aljazeera.com/gallery/2026/5/16/bolivia-launches-early-morning-crackdown-on-roadblocks-outside-la-paz?traffic_source=rss)
-
----
-
-### German police assault protesters at Nakba anniversary rally
-
-German police hit and pepper-spray protesters as thousands gathered in Berlin to mark the 78th anniversary of the Nakba.
-
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/16/german-police-assault-protesters-at-nakba-anniversary-rally?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-drc-uganda-a-global-emergency-what-to-know?traffic_source=rss)
 
 ---
 
-### Two presidential campaign staffers killed in Colombia as elections near
+### Republican Senator Cassidy loses Louisiana primary after opposing Trump
 
-Rights office says the violence could hinder 'exercise of political rights' ahead of May vote to replace Gustavo Petro.
+Bill Cassidy is among seven Republican senators who voted to convict Trump after the January 6, 2021, Capitol attack.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/5/16/two-presidential-campaign-staffers-killed-in-colombia-as-elections-near?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/5/17/republican-senator-cassidy-loses-louisiana-primary-after-opposing-trump?traffic_source=rss)
+
+---
+
+### Javier Bardem says condemning the Gaza genocide has led to more work
+
+Javier Bardem says condemning the Gaza genocide has led to more work
+
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/17/javier-bardem-says-condemning-the-gaza-genocide-has-led-to-more-work?traffic_source=rss)
 
 ---
 
@@ -135,27 +135,27 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断
+### 科氪 | 对话韶音高层：开放式耳机，凭什么成为下一场颠覆TWS的“品类革命”？
 
-作者 | 张子怡 编辑 | 袁斯来 硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。 据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。 在音频产品市场中，由于对无线和开耳式聆听技术的需求不断增加，骨传导耳机市场出现了显著增长。 调研机构Market Growth统计的数据显示，2024年骨传导耳机市场规模为12.8亿美元，预计到2025年将增长到16.11亿美元，到2033年将超过81.5亿美元，复合年增长率为22.8%。 不过，该市场集中度较高，少数头部品牌...
+从运动孤岛到品类革命：解构韶音的“开放式”野心与底层技术硬实力 在消费电子行业普遍面临增长红利见顶的今天，音频赛道却正在上演一场深刻的结构性变革。2026年5月15日下午，大雨初晴的深圳湾广场，Shokz韶音举办了备受瞩目的媒体专访会。韶音中国区CEO杨云与产品线总裁张浩锋悉数到场，向外界系统阐述了这家以“骨传导”和“运动”起家的品牌，如何在稳坐全球开放式耳机出货量第一王座的同时，向更广阔的泛场景音频帝国发起攻坚。 过去两年，开放式耳机在中国蓝牙耳机市场的整体销售额份额已率先突破30%。这不仅是一次产品形态的更迭，更是一场由韶音引领、正在席卷全球的“品类级替代”风暴。 一、 宏观战略与行业洞察...
 
-📎 [阅读原文](https://36kr.com/p/3810520138243593?f=rss)
-
----
-
-### 9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元
-
-今日热点导览 OpenAI正考虑采取法律手段起诉苹果公司 三星电子开发下一代HBM封装技术，或用于智能手机等移动设备 海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群 世界银行首席经济学家英德米特・吉尔将于8月卸任退休 “海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示 TOP 3大新闻 央视确认获得2026年世界杯版权，费用为6000万美元 5月15日下午，中央广播电视总台与国际足球联合会共同宣布，就国际足联世界杯新周期版权合作达成共识。合作赛事包括2026年世界杯、2030年世界杯、2027年女足世界杯、2031年女足世界杯。 根据双方合作意向，中央广播电视总台确认获得...
-
-📎 [阅读原文](https://36kr.com/p/3811265856626440?f=rss)
+📎 [阅读原文](https://36kr.com/p/3813305543794440?f=rss)
 
 ---
 
-### 理想出牌：全新L9上市，45.98万元起｜最前线
+### 又诞生一位千亿女富豪
 
-理想汽车CEO 李想 能让李想豁出去跳舞挣眼球的发布会，仅在全新一代理想L9上市。 5月15日，理想发布会了全新一代理想L9，推出两个版本——理想L9 livis，售价 50.98万元；理想L9 Ultra版，售价45.98万元。且理想给出了现金2万元的首销权益，截止于6月30日。 36氪汽车曾报道指出，理想今年第一目标就是加固增程和高端市场的基本盘。今年产品重心将回归增程市场，用换代产品拿回增程领先的位置。 全新一代理想L9就是第一枪。 上市前夕，我们体验了全新理想L9 livis，一个比较直观的感觉是，无论是外观和内饰的质感，车辆的性能相较于上一代产品都有了质的提升。 外观方面，理想L9 ...
+示意图 自4月初以来，立讯精密股价上涨超过55%。 5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突破了千亿人民币，成为国内白手起家的又一位千亿女富豪。 如果说4月以来的涨幅，是因为立讯精密“站在光里”，短期股价大涨或许与一则收购公告有关。 5月10日，公告显示立讯精密拟通过收购京西智行集团全部股权，间接拿下京西国际约59.50%股份，有望成为其最终控股股东。这是立讯精密继两年前收购德国莱尼后，在汽车领域的又一关键资本动作。 郭台铭门 徒 立讯精密的故事通常被描述为“打工妹”逆袭成为女富豪的爽文剧本。实际上，只单纯地给创始人王来春贴上...
 
-📎 [阅读原文](https://36kr.com/p/3810562142445058?f=rss)
+📎 [阅读原文](https://36kr.com/p/3813040859258373?f=rss)
+
+---
+
+### 3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出
+
+Peter Steinberger 编辑：所罗门 【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。 别人晒工资条，他晒账单——一个月130万美元！ 也就是将近900万人民币/每月。直接把网友们看傻了。 OpenClaw之父Peter Steinberger在X上轻描淡写地甩出一张截图。 Peter Steinberger 但截图上的数字，属实不淡定： 30天花费：$1,305,088.81。吞掉6030亿个token。发起760万次请求。 你没看错，是130万美元。也不是哪家大厂的季度AI预算—...
+
+📎 [阅读原文](https://36kr.com/p/3812925591887368?f=rss)
 
 ---
 
@@ -183,27 +183,35 @@ ArXiv is doing more to crack down on the careless use of large language models i
 
 ---
 
-### A Nicer Voltmeter Clock
+### Klaxon a livr earthquake map with no back end
 
-Article URL: https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock Comments URL: https://news.ycombinator.com/item?id=48164432 Points: 5 # Comments: 0
+Article URL: https://klaxon.live/ Comments URL: https://news.ycombinator.com/item?id=48167823 Points: 4 # Comments: 0
 
-📎 [阅读原文](https://lcamtuf.substack.com/p/a-nicer-voltmeter-clock)
-
----
-
-### MCP Hello Page
-
-Article URL: https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page Comments URL: https://news.ycombinator.com/item?id=48164294 Points: 35 # Comments: 10
-
-📎 [阅读原文](https://www.hybridlogic.co.uk/blog/2026/05/mcp-hello-page)
+📎 [阅读原文](https://klaxon.live/)
 
 ---
 
-### Zerostack – A Unix-inspired coding agent written in pure Rust
+### Playing Atari ST Music on the Amiga with Zero CPU
 
-Article URL: https://crates.io/crates/zerostack/1.0.0 Comments URL: https://news.ycombinator.com/item?id=48164287 Points: 65 # Comments: 18
+Article URL: https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/ Comments URL: https://news.ycombinator.com/item?id=48166920 Points: 54 # Comments: 17
 
-📎 [阅读原文](https://crates.io/crates/zerostack/1.0.0)
+📎 [阅读原文](https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/)
+
+---
+
+### Mozilla to UK regulators: VPNs are essential privacy and security tools
+
+Article URL: https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/ Comments URL: https://news.ycombinator.com/item?id=48166459 Points: 297 # Comments: 102
+
+📎 [阅读原文](https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/)
+
+---
+
+### A revolutionary cancer treatment could transform autoimmune disease
+
+Researchers are testing CAR T cell therapy as a way to reset the immune system.
+
+📎 [阅读原文](https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/)
 
 ---
 
@@ -223,14 +231,6 @@ Universities promise no frontline duty and perks if students enlist in military.
 
 ---
 
-### Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval
-
-Lawyers accused of rushing historic settlement to seize $320 million in fees.
-
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/)
-
----
-
 
 ---
 
@@ -240,4 +240,4 @@ Lawyers accused of rushing historic settlement to seize $320 million in fees.
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:01 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
