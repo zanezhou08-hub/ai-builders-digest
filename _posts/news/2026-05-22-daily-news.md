@@ -11,27 +11,27 @@ section: news
 
 ## 🌍 国际新闻
 
-### Toilets and changing rooms must be used on basis of biological sex, guidance confirms
+### Parents of Southport survivors say anonymity has erased their girls from the story
 
-The guidance was published on Thursday following the landmark Supreme Court ruling last year.
+The BBC has spoken to parents of some of the children who survived the knife attack, who believe they have been given insufficient support because of the anonymity order.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c0e2rj3zj02o?at_medium=RSS&at_campaign=rss)
-
----
-
-### Police to score train firms on tackling sexual harassment
-
-The government will not be financial or legal penalties for train operators who fail to meet the targets.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cg4pew075xpo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/c0j2q988x17o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Prepare for half term queues at Dover due to EU border process, port says
+### Andrew investigation could look into sexual misconduct allegations
 
-It is the first holiday period since the EU's new border system was fully implemented.
+The former prince was arrested in February on suspicion of misconduct in public office.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cpqpygjwywjo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/c707l2jx0z4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Stop blaming young people for being unemployed, says Amazon's UK boss
+
+John Boumphrey says the education system "isn't necessarily producing young people who are ready for work".
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c0l2x5351n4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### US says it has not changed its stance on sanctioning Francesca Albanese
+### Man Utd appoint Michael Carrick as permanent manager
 
-The Trump administration had sanctioned the UN expert for her criticism of Israel's policies towards Palestinians.
+Carrick steps up from role as interim coach to replace Ruben Amorim on a permanent basis as Manchester United manager.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/5/21/us-says-it-has-not-changed-its-stance-on-sanctioning-francesca-albanese?traffic_source=rss)
-
----
-
-### Over 2,000 gather in San Diego to mourn three men killed in mosque attack
-
-The three men killed in the shooting at the Islamic Center of San Diego were remembered as heroes at the memorial.
-
-📎 [阅读原文](https://www.aljazeera.com/news/2026/5/21/over-2000-gather-in-san-diego-to-mourn-three-men-killed-in-mosque-attack?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/5/22/man-utd-appoint-michael-carrick-as-permanent-manager?traffic_source=rss)
 
 ---
 
-### At least 16 people killed in two attacks in northern Honduras
+### Hundreds protest Ireland’s ‘George Floyd moment’
 
-One attack involved a police raid, while the other took place on a palm farm, killing rural labourers.
+ndreds protest Ireland’s ‘George Floyd moment’
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/5/21/at-least-16-people-killed-in-two-attacks-in-northern-honduras?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/22/hundreds-protest-irelands-george-floyd?traffic_source=rss)
+
+---
+
+### Can Venezuelan oil save India amid the Hormuz energy crisis?
+
+Venezuelan Acting President Delcy Rodriguez is expected to travel to India next week to discuss oil sales.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/5/22/can-venezuelan-oil-save-india-amid-the-hormuz-energy-crisis?traffic_source=rss)
 
 ---
 
@@ -135,85 +135,109 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 氪星晚报｜马斯克旗下SpaceX启动史上最大规模IPO计划；全国首张综合性司机服务地图上线；海关总署在粤发布《海关支持粤港澳大湾区建设若干措施》
+### AI时代核心终端生态定位与用户需求洞察| 2026AI Partner·北京亦庄AI+产业大会
 
-大公司： SpaceX据悉计划五年内实现每年1万次发射 据美国联邦航空管理局（FAA）局长周三透露，SpaceX正抛出一个宏大的计划，即在五年内实现每年10000次发射。但该机构对此表示，在批准此类扩张计划之前，政府官员需要看到其可靠性有所提升。今年1月，SpaceX公司还曾表示，其计划发射并组建一个由100万个卫星组成的星座，这些卫星将环绕地球运行，并利用太阳为人工智能数据中心供电。（财联社） 阿里股东信释放信号，即时零售已成为淘宝天猫核心战略支柱 5月20日，阿里巴巴集团主席蔡崇信与首席执行官吴泳铭联合发布致股东信。信中称，即时零售已成为淘宝和天猫平台升级的核心战略支柱。“我们看到即时零售...
+AI不是某一个超级单品的故事，而是一个多端协同的生态故事，消费者的期待与顾虑，正在定义这个生态的进化方向。 AI与硬件的融合分为四个阶段，当前正处于从深度融合走向生态化的关键节点。AI渗透率在手机端已从15%涨到40%，但仍是“加分项”而非“决策项”。未来，AI硬件生态的四个步骤——感知、记忆、决策、行动，或将分别由眼镜、手机、PC协同完成。 以下为演讲内容，经36氪整理编辑： 赵晓鹏丨NIQ GfK创新事业部总经理 大家好，很荣幸有这个机会，跟大家分享NIQ GfK对消费端的观点。我们公司专注研究消费者和终端产品，和大家的日常生活联系非常紧密。 我今天的主题是AI时代核心终端生态定位与用户需...
 
-📎 [阅读原文](https://36kr.com/p/3816942732133510?f=rss)
-
----
-
-### 新石器NewClaw：AI一体化解决方案，零门槛当无人车指挥官| 2026AI Partner·北京亦庄AI+产业大会
-
-管理一千台无人车需要多少人？答案是：一个人，一部手机，一句话。当自动驾驶逐渐“平权”，真正的瓶颈从技术转向了规模化运营。 新石器用七年时间走完从合规落地、规模量产到万台运营的三级跳，如今推出AI Agent“Neo Claw”——让用户像聊天一样指挥车队，把单人管理效率从10台拉升到100台以上。颉晶华强调，AI的价值不在于写多少代码，而在于解放双手——让无人车管理从“专业操作”变成“说话就行”。 以下为演讲内容，经36氪整理编辑： 颉晶华丨新石器无人车联合创始人兼CPO 各位好，我是新石器的颉晶华，很荣幸跟大家介绍新石器和我们在AI方面的应用与思考。 八年前新石器公司创立，到如今已经成长为全...
-
-📎 [阅读原文](https://36kr.com/p/3818927367046018?f=rss)
+📎 [阅读原文](https://36kr.com/p/3820318177841541?f=rss)
 
 ---
 
-### 业绩快报 | 唯品会一季度净营收266亿元，SVIP用户贡献超50%线上销售额
+### 江行智能：从感知环境到改变世界：物理AI的机遇、路径与实践| 2026AI Partner·北京亦庄AI+产业大会
 
-5月21日美股盘前，唯品会发布2025年第一季度财报。一季度内，唯品会实现净营收266亿元（人民币，下同），Non-GAAP净利润23亿元。 观察核心运营数据，一季度其实现商品交易总额（GMV）569亿元，同比增长8.6%，订单量1.73亿单，同比增长3.2%。同时，平台于该季度活跃用户数为4170万，同比实现正增长。 在春节期间穿戴和年货需求集中释放、透支后续消费力的季节性特点下，相较于行业整体节奏，唯品会在交易规模与订单量增速上保持韧性，体现出其在货品供给、用户运营上的核心竞争力。 在货品供给端，一季度唯品会持续挖掘重点客群消费特点并扩充优质供给。“限时狂秒”栏目引入雅诗兰黛、珀莱雅等品牌...
+中国工业物理AI的真正优势不在模型参数，而在全球12倍的工业机器人部署密度、两倍的发电量和密集的5G边缘节点——场景密度、基建底座和开源模型的合力，正在推动物理AI从实验室走向规模化落地。 江行智能提出工业物理AI的三层模型，这套系统已在新能源场站和电网巡检场景落地——覆盖贵州、内蒙古等多地，核心算法准确率达99%。陈龙特别指出，工业场景下一个看似简单的巡检任务通常需要拆成100到200个子任务，这对AI的稳定性和可靠性提出了远超消费级应用的要求。 以下为演讲内容，经36氪整理编辑： 陈龙丨江行智能基模CTO 各位嘉宾、行业伙伴下午好，我是来自江行智能的具身基模CTO陈龙，我的分享题目是从感知...
 
-📎 [阅读原文](https://36kr.com/p/3818915823764610?f=rss)
-
----
-
-### Who will benefit most from SpaceX IPO? Mostly Elon — and a few from his inner circle
-
-Elon Musk has the largest stake in SpaceX by billions of shares. The other biggest shareholders also have longstanding and deep ties to Musk.
-
-📎 [阅读原文](https://techcrunch.com/2026/05/21/who-will-benefit-most-from-spacex-ipo-mostly-elon-and-a-few-from-his-inner-circle/)
+📎 [阅读原文](https://36kr.com/p/3820298219425924?f=rss)
 
 ---
 
-### Waymo halts freeway rides after robotaxis struggle in construction zones
+### 小米YU7家族再推新车，雷军：标准版打特斯拉，GT版狙BBA
 
-The service suspension comes as Waymo has also paused operations in Atlanta and San Antonio after its robotaxis drove into flooded streets.
+5月21日晚，小米正式发布YU7系列两款全新车型：标准版起售价23.35万元，GT版起售价38.99万元。至此，YU7车系已扩展至5款车型，价格区间覆盖23.35万元至38.99万元。 YU7是小米于2025年6月推出的首款SUV，上市当晚3分钟内大定订单突破20万辆。发布会上，雷军展示了YU7与特斯拉Model Y的销量对比：2025年7月至2026年4月，YU7累计交付23.2万辆，Model Y则为35.8万辆。 从月度交付表现看，今年1月YU7交付37869辆，成为中国汽车市场全品类销量冠军。然而，随着市场竞争加剧，YU7近几个月的交付量有所回落。 在小米的调研中，特斯拉Model Y...
 
-📎 [阅读原文](https://techcrunch.com/2026/05/21/waymo-halts-freeway-rides-after-robotaxis-struggle-in-construction-zones/)
-
----
-
-### NYC Mayor Zohran Mamdani takes to Twitch to chat with New Yorkers
-
-New York City Mayor Zohran Mamdani is launching a Twitch series today at 4 p.m. ET.
-
-📎 [阅读原文](https://techcrunch.com/2026/05/21/nycmayor-zohran-mamdani-takes-to-twitch-to-chat-with-new-yorkers/)
+📎 [阅读原文](https://36kr.com/p/3817022407181188?f=rss)
 
 ---
 
-### IoT gadget maker AcuRite shares reasoning for killing customers’ favorite app
+### Finnish phone-maker HMD bundles Indian AI chatbot onto new smartphone in push to reach local market
 
-"The move to AcuRite NOW has not been as smooth as some customers expected ..."
+HMD is pre-loading Sarvam's Indus chatbot app, which supports 22 Indic languages
 
-📎 [阅读原文](https://arstechnica.com/gadgets/2026/05/iot-gadget-maker-acurite-shares-reasoning-for-killing-customers-favorite-app/)
-
----
-
-### As Grok flounders, SpaceX bets future on beating Big Tech at AI
-
-SpaceX IPO filing pitches orbital data centers as Grok lags rival AI services.
-
-📎 [阅读原文](https://arstechnica.com/ai/2026/05/as-grok-flounders-spacex-bets-future-on-beating-big-tech-at-ai/)
+📎 [阅读原文](https://techcrunch.com/2026/05/21/finnish-phone-maker-hmd-bundles-indian-ai-chatbot-onto-new-smartphone-in-push-to-reach-local-market/)
 
 ---
 
-### AT&T sues California in attempt to shut off old phone network
+### Waymo expands pause to four cities as robotaxis keep driving into floods
 
-AT&T asks a court and the FCC to block California phone requirements.
+Waymo's robotaxi service is now suspended in both Atlanta and San Antonio, as the company works to stop its vehicles from driving into flooded roads.
 
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/05/att-sues-california-in-attempt-to-shut-off-old-phone-network/)
+📎 [阅读原文](https://techcrunch.com/2026/05/21/waymo-pauses-service-in-four-cities-as-robotaxis-keep-driving-into-floods/)
+
+---
+
+### SpaceX scrubs first Starship V3 launch just before liftoff
+
+SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.
+
+📎 [阅读原文](https://techcrunch.com/2026/05/21/spacex-scrubs-first-starship-v3-launch-just-before-liftoff/)
+
+---
+
+### The case against boolean logic
+
+Article URL: https://abuseofnotation.github.io/boolean-thinking/ Comments URL: https://news.ycombinator.com/item?id=48234128 Points: 26 # Comments: 12
+
+📎 [阅读原文](https://abuseofnotation.github.io/boolean-thinking/)
+
+---
+
+### Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark
+
+Article URL: https://modelrift.com/blog/openscad-llm-benchmark/ Comments URL: https://news.ycombinator.com/item?id=48234090 Points: 52 # Comments: 18
+
+📎 [阅读原文](https://modelrift.com/blog/openscad-llm-benchmark/)
+
+---
+
+### FSFE intervenes against Apple before EUCJ for the second time
+
+Article URL: https://fsfe.org/news/2026/news-20260519-01.en.html Comments URL: https://news.ycombinator.com/item?id=48233939 Points: 26 # Comments: 1
+
+📎 [阅读原文](https://fsfe.org/news/2026/news-20260519-01.en.html)
+
+---
+
+### Rocket Report: Starship launch delayed, German launch company may aid Canada
+
+All eyes on South Texas for the latest Starship test flight.
+
+📎 [阅读原文](https://arstechnica.com/space/2026/05/rocket-report-starship-launch-delayed-german-launch-company-may-aid-canada/)
+
+---
+
+### The $58,000 TV bill: When DirecTV sued O.J. Simpson for piracy
+
+In 2001, the FBI raided O.J.'s house and found smartcards, bootloaders.
+
+📎 [阅读原文](https://arstechnica.com/tech-policy/2026/05/the-58000-tv-bill-when-directv-sued-o-j-simpson-for-piracy/)
+
+---
+
+### A hacker group is poisoning open source code at an unprecedented scale
+
+GitHub is just the latest victim of TeamPCP, a gang that has carried out a spree of software supply chain attacks.
+
+📎 [阅读原文](https://arstechnica.com/information-technology/2026/05/a-hacker-group-is-poisoning-open-source-code-at-an-unprecedented-scale/)
 
 ---
 
 
 ---
 
-📊 **今日摘要**: 24 篇精选文章
+📊 **今日摘要**: 27 篇精选文章
 
 - 🌍 国际: 7 篇
 - 🇨🇳 国内: 8 篇
-- 💼 科技: 9 篇
+- 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:02 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
