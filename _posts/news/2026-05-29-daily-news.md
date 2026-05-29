@@ -1,37 +1,37 @@
 ---
 layout: default
-title: "新闻速递 — 2026-05-28"
-date: 2026-05-28
+title: "新闻速递 — 2026-05-29"
+date: 2026-05-29
 section: news
 ---
 
-# 📰 新闻速递 — 2026-05-28
+# 📰 新闻速递 — 2026-05-29
 
 ---
 
 ## 🌍 国际新闻
 
-### An unhealthy focus on sex - Married at First Sight UK insiders on show's 'toxic' culture
+### Sturgeon says estranged husband betrayed and deceived her about embezzling SNP money
 
-Fresh revelations come after two women told the BBC they had been raped on the Channel 4 reality show.
+The former first minister said she was "coming to terms with being married to someone she did not know" after Peter Murrell's guilty plea.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cn7p1dg6j41o?at_medium=RSS&at_campaign=rss)
-
----
-
-### Teenager is 10th person to die in water during heatwave
-
-A body of a male teenager is recovered from water in Kent following a major search in Swanscombe.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cn0p7j3lwepo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cpdp3d8792no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### The £5 coffee that tells a story of global economic turmoil
+### US and Iran 'very close' to deal but 'not there yet', Vance says
 
-Coffees at some city centre outlets now cost £5. It's a story of tariffs, the climate, Gen Z cultural tastes, and savvy coffee farmers playing the market, writes Faisal Islam
+US officials earlier told the BBC that, pending the approval of Trump and Iran's leadership, the framework of a ceasefire extension deal had been agreed.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cr5pp1m6z06o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Opportunities shrinking for too many young people, says major report on 'lost generation'
+
+A report warns the number of 16 to 24-year-olds out of work, education or training is set to rise to 1.25 million by 2031.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Iran says US must issue multiple-entry visas for its World Cup squad
+### Iran ambassador hits out at ‘country to the north’ in US World Cup visa row
 
-Iran's delegation will be based in Tijuana, Mexico, and will travel to the US for all three group stage matches.
+Iran's football team still lacks US visas and is not competing on 'equal terms', Tehran's envoy to Mexico says.
 
-📎 [阅读原文](https://www.aljazeera.com/sports/2026/5/28/iran-says-us-must-issue-multiple-entry-visas-for-its-world-cup-squad?traffic_source=rss)
-
----
-
-### For Gaza, Eid joy is now a form of resistance
-
-Six were killed in Remal on Eid night. Minutes later, the stalls reopened.
-
-📎 [阅读原文](https://www.aljazeera.com/opinions/2026/5/28/for-gaza-eid-joy-is-now-a-form-of-resistance?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss)
 
 ---
 
-### Al Jazeera journalist’s emotional speech after winning Emmy
+### Tense protests erupt outside Delaney Hall immigrant detention centre in US
 
-Al Jazeera journalist’s emotional speech after winning Emmy
+A hunger strike at the New Jersey facility has raised questions about conditions in US immigration detention centres.
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/28/al-jazeera-journalists-emotional-speech-after-winning-emmy-2?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/gallery/2026/5/28/tense-protests-erupt-outside-delaney-hall-immigrant-detention-centre-in-us?traffic_source=rss)
+
+---
+
+### PSG vs Arsenal: UEFA Champions League final – 10 things to know
+
+Al Jazeera runs you through this season's UEFA Champions League final between Paris Saint-Germain and Arsenal.
+
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/5/28/psg-vs-arsenal-champions-league-final-teams-start-time-lineups?traffic_source=rss)
 
 ---
 
@@ -135,6 +135,14 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
+### 快手基本面韧性凸显，可灵AI成第二增长曲线
+
+封面来源 | 官方供图 5月27日，快手（证券代码：1024.HK）公布了2026年一季度财报。 财报显示，快手在2026年一季度实现营业收入337亿元，同比增长3.4%，符合市场预期；利润方面，同期实现经营利润36亿元，同比减少15.6%；同期经调整净利润录得34亿元，对应的经调整净利率为10%。 运营层面，2026年一季度，快手的用户增长表现不俗，尤其是平均月活跃用户数增长势头强劲。数据显示，季度内快手平均日活跃用户高达4.13亿，同比增长1.2%；同期平均月活跃用户7.72亿，同比增长8%，刷新历史新高。 那么，快手本季财报的成色究竟如何？在AI浪潮下该如何给快手估值呢？ 图：快手202...
+
+📎 [阅读原文](https://36kr.com/p/3828915666441090?f=rss)
+
+---
+
 ### 科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵
 
 5月28日，雷神在北京举办以《聚势共生 智算同行》为主题的AI工作站新品发布会，正式推出覆盖塔式、迷你PC和移动三大类别的AI工作站全场景产品矩阵。这是业内首批完成三大形态全覆盖的AI工作站产品发布，以行业领先的品类矩阵和旗舰级算力水准，重新定义了AI工作站的性能基准。 官方图片 AI 正式迈入智能体时代，行业从文本预测转向自主逻辑思考，未来 AI 算力需求将迎来百倍增长，普及速度持续加快。 发布会上，AMD大中华区销售副总裁晁亚新首先分享了AMD公司整体的AI策略，面对飞速增长的AI需求构建AI无处不在的算力基础，AMD正打造覆盖云端、终端与边缘端的全栈式端到端算力体系，以开放的生态姿态与伙...
@@ -151,83 +159,75 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ---
 
-### 科氪 | 一天连签10所高校！京东养车构建产教融合型技师培育体系破解人才缺口难
+### How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline
 
-5月28日，2026京东养车合作伙伴大会在北京举行，全国各地超2000名加盟商合作伙伴及产业链合作伙伴齐聚一堂，围绕提升用户体验、增强用户信任、以创新驱动门店更高盈利空间等核心议题深入交流。京东养车宣布2025年年底其门店数量已突破4000家，且门店盈利能力保持稳健增长。京东养车也公布了最新招商政策，推出“3年加盟费低至0元、管理费至高减免12月”等扶持举措。活动现场，京东养车还与10所高校进行签约，旨在通过规模化校企合作，建立系统性人才招用育留体系，为行业持续发展注入动力。 官方图片 当前，新能源车渗透率已超50%，行业保持高速增长，为汽车后市场带来广阔发展机遇。与此同时，行业短板也逐步显现...
+Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!
 
-📎 [阅读原文](https://36kr.com/p/3828856781099910?f=rss)
-
----
-
-### Oura unveils its Ring 5 with a thinner, lighter design starting at $399
-
-The ring is 40% smaller than its predecessor, and comes with more accurate sensing, enhanced battery life, and more.
-
-📎 [阅读原文](https://techcrunch.com/2026/05/28/oura-unveils-its-ring-5-with-a-thinner-lighter-design-starting-at-399/)
+📎 [阅读原文](https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/)
 
 ---
 
-### Vertu wants CEOs to run companies from an AI foldable starting at $6,880
+### The internet is being rebuilt for machines
 
-Built on top of the open-source Hermes project, Vertu's new foldable combines AI-agent workflows, enterprise integrations, and ultra-premium luxury finishes.
+As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.
 
-📎 [阅读原文](https://techcrunch.com/2026/05/28/vertu-wants-ceos-to-run-companies-from-an-ai-foldable-starting-at-6880/)
-
----
-
-### Google engineer charged with insider trading after making $1.2M on Polymarket
-
-According to the complaint, a Google engineer risked over $2.7 million on wagers related to Google's 2025 Year in Search campaign.
-
-📎 [阅读原文](https://techcrunch.com/2026/05/27/google-engineer-charged-with-insider-trading-after-making-1-2m-on-polymarket/)
+📎 [阅读原文](https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/)
 
 ---
 
-### Commission fines Temu €200M for breaching the Digital Services Act
+### Slate Auto will announce pricing and take preorders for its EV on June 24
 
-Article URL: https://ec.europa.eu/commission/presscorner/home/en Comments URL: https://news.ycombinator.com/item?id=48307237 Points: 15 # Comments: 3
+The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.
 
-📎 [阅读原文](https://ec.europa.eu/commission/presscorner/home/en)
-
----
-
-### AMD pulls a bait-and-switch on Linux users with Vivado licensing changes
-
-Article URL: https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/ Comments URL: https://news.ycombinator.com/item?id=48307231 Points: 59 # Comments: 17
-
-📎 [阅读原文](https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/)
+📎 [阅读原文](https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/)
 
 ---
 
-### AI sticker shock hits corporate America
+### Garnix (A Nix CI) is shutting down
 
-Article URL: https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs Comments URL: https://news.ycombinator.com/item?id=48307098 Points: 40 # Comments: 6
+Article URL: https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895 Comments URL: https://news.ycombinator.com/item?id=48317043 Points: 5 # Comments: 0
 
-📎 [阅读原文](https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs)
-
----
-
-### Forecasters predict below-average hurricane season, advise against complacency
-
-Forecasters say expected El Niño should temper hurricanes in Atlantic, urge preparedness.
-
-📎 [阅读原文](https://arstechnica.com/science/2026/05/forecasters-predict-below-average-hurricane-season-advise-against-complacency/)
+📎 [阅读原文](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
 
 ---
 
-### California defeats Tesla's attempt to throw out racial discrimination lawsuit
+### GitHub bans security researcher who posted zero-day Windows exploits
 
-California civil rights agency hails win over Tesla, anticipates trial in July.
+Article URL: https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation Comments URL: https://news.ycombinator.com/item...
 
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/05/california-defeats-teslas-attempt-to-throw-out-racial-discrimination-lawsuit/)
+📎 [阅读原文](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)
 
 ---
 
-### Websites have a new way to spy on visitors: analyzing their SSD activity
+### Protestware for Coding Agents
 
-Telltale SSD activity can be measured in the browser using simple JavaScript.
+Article URL: https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html Comments URL: https://news.ycombinator.com/item?id=48315440 Points: 17 # Comments: 8
 
-📎 [阅读原文](https://arstechnica.com/security/2026/05/websites-have-a-new-way-to-spy-on-visitors-analyzing-their-ssd-activity/)
+📎 [阅读原文](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
+
+---
+
+### 2027 Audi RS5 first drive: A performance PHEV with split personalities
+
+Audi has developed an entirely new electric torque-vectoring rear differential.
+
+📎 [阅读原文](https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/)
+
+---
+
+### LLMs believe false statements even after explicit warnings that they're false
+
+Fine-tuning tests show "bias ... toward confidently representing the claims as true."
+
+📎 [阅读原文](https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/)
+
+---
+
+### Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code
+
+Undisclosed addition in jqwik instructed AI coding agents to delete app output.
+
+📎 [阅读原文](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/)
 
 ---
 
@@ -240,4 +240,4 @@ Telltale SSD activity can be measured in the browser using simple JavaScript.
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 20:03 GMT+8*
+*Generated by OpenClaw News Aggregator at 08:02 GMT+8*
