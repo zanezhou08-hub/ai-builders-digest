@@ -11,27 +11,27 @@ section: news
 
 ## 🌍 国际新闻
 
-### Sturgeon says estranged husband betrayed and deceived her about embezzling SNP money
-
-The former first minister said she was "coming to terms with being married to someone she did not know" after Peter Murrell's guilty plea.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cpdp3d8792no?at_medium=RSS&at_campaign=rss)
-
----
-
 ### US and Iran 'very close' to deal but 'not there yet', Vance says
 
-US officials earlier told the BBC that, pending the approval of Trump and Iran's leadership, the framework of a ceasefire extension deal had been agreed.
+US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Opportunities shrinking for too many young people, says major report on 'lost generation'
+### Exploding rocket casts doubts over Nasa's Moon plans
 
-A report warns the number of 16 to 24-year-olds out of work, education or training is set to rise to 1.25 million by 2031.
+Explosion of Blue Origin rocket is a setback for the company and for Nasa's Moon plans.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cy026x9jpd0o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cwy2q0g07kgo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Top UK chefs call for 10% VAT cut for pubs and restaurants
+
+Tom Kerridge, Yotam Ottolenghi, Ravneet Gill and Simon Rogan told BBC Newsnight VAT should be slashed to 10% to ease mounting pressure on the hospitality industry.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c78kg45yx0vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Iran ambassador hits out at ‘country to the north’ in US World Cup visa row
+### Australian court sets August date for ‘mushroom murderer’ appeal hearing
 
-Iran's football team still lacks US visas and is not competing on 'equal terms', Tehran's envoy to Mexico says.
+Erin Patterson was found guilty of killing three family members as she served them a lunch laced with poisonous fungi.
 
-📎 [阅读原文](https://www.aljazeera.com/sports/2026/5/28/iran-ambassador-hits-out-at-country-to-the-north-in-us-world-cup-visa-row?traffic_source=rss)
-
----
-
-### Tense protests erupt outside Delaney Hall immigrant detention centre in US
-
-A hunger strike at the New Jersey facility has raised questions about conditions in US immigration detention centres.
-
-📎 [阅读原文](https://www.aljazeera.com/gallery/2026/5/28/tense-protests-erupt-outside-delaney-hall-immigrant-detention-centre-in-us?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/5/29/australian-court-sets-august-date-for-mushroom-murderer-appeal-hearing?traffic_source=rss)
 
 ---
 
-### PSG vs Arsenal: UEFA Champions League final – 10 things to know
+### ‘Dangerous colonial occupation’: Israel’s digital West Bank land register
 
-Al Jazeera runs you through this season's UEFA Champions League final between Paris Saint-Germain and Arsenal.
+A digital register of land ownership in the West Bank is seen as an escalation of Israel's occupation.
 
-📎 [阅读原文](https://www.aljazeera.com/sports/2026/5/28/psg-vs-arsenal-champions-league-final-teams-start-time-lineups?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/5/29/dangerous-colonial-occupation-israels-digital-west-bank-land-register?traffic_source=rss)
+
+---
+
+### WHO chief visits DRC amidst Ebola crisis
+
+WHO chief visits DRC amidst Ebola crisis and urges international community to increase support.
+
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/29/who-chief-visits-drc-amidst-ebola-crisis?traffic_source=rss)
 
 ---
 
@@ -135,75 +135,83 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 快手基本面韧性凸显，可灵AI成第二增长曲线
+### 36氪首发｜「穿越者」载人航天公司完成新一轮亿元融资，某头部互联网战投领投，探路者等跟投
 
-封面来源 | 官方供图 5月27日，快手（证券代码：1024.HK）公布了2026年一季度财报。 财报显示，快手在2026年一季度实现营业收入337亿元，同比增长3.4%，符合市场预期；利润方面，同期实现经营利润36亿元，同比减少15.6%；同期经调整净利润录得34亿元，对应的经调整净利率为10%。 运营层面，2026年一季度，快手的用户增长表现不俗，尤其是平均月活跃用户数增长势头强劲。数据显示，季度内快手平均日活跃用户高达4.13亿，同比增长1.2%；同期平均月活跃用户7.72亿，同比增长8%，刷新历史新高。 那么，快手本季财报的成色究竟如何？在AI浪潮下该如何给快手估值呢？ 图：快手202...
+36氪获悉，北京穿越者载人航天科技有限公司（以下简称“穿越者”）近日完成Pre-A轮亿元融资，由某头部互联网战投领投，探路者集团等跟投，老股东中天汇富、彬复资本持续加注。光源资本担任本轮独家财务顾问。本轮融资资金将重点用于“穿越者壹号（CYZ1）”载人飞船核心系统研发、地面试验验证及关键技术攻关。 公司方面表示，引入互联网、人工智能、智能制造、户外装备及文旅场景等领域的产业资本，源于商业载人航天在科技、人文、消费与场景协同上的多重需求。这不仅有助于完善产业生态，也将推动太空旅游从“少数人的高端体验”逐步走向“大众化、普惠化”的新阶段。 「穿越者」是36氪长期关注的企业。公司成立于2023年1月...
 
-📎 [阅读原文](https://36kr.com/p/3828915666441090?f=rss)
-
----
-
-### 科氪 | 雷神联合AMD发布覆盖三大形态AI工作站产品矩阵
-
-5月28日，雷神在北京举办以《聚势共生 智算同行》为主题的AI工作站新品发布会，正式推出覆盖塔式、迷你PC和移动三大类别的AI工作站全场景产品矩阵。这是业内首批完成三大形态全覆盖的AI工作站产品发布，以行业领先的品类矩阵和旗舰级算力水准，重新定义了AI工作站的性能基准。 官方图片 AI 正式迈入智能体时代，行业从文本预测转向自主逻辑思考，未来 AI 算力需求将迎来百倍增长，普及速度持续加快。 发布会上，AMD大中华区销售副总裁晁亚新首先分享了AMD公司整体的AI策略，面对飞速增长的AI需求构建AI无处不在的算力基础，AMD正打造覆盖云端、终端与边缘端的全栈式端到端算力体系，以开放的生态姿态与伙...
-
-📎 [阅读原文](https://36kr.com/p/3828898785858185?f=rss)
+📎 [阅读原文](https://36kr.com/p/3830254963517318?f=rss)
 
 ---
 
-### 氪星晚报 ｜微博：第一季度总营收4.213亿美元，同比增长6%；科大讯飞发布讯飞AI眼镜；日本太空企业AstroX计划从气球上发射火箭
+### 氪星晚报 ｜联想创投等入股诺仕机器人；苹果据悉将在WWDC重点展示端侧AI能力；国家外汇管理局：4月中国外汇市场总计成交25.3万亿元
 
-大公司： 格林生物创业板IPO过会 36氪获悉，深交所上市审核委员会召开2026年第27次上市审核委员会审议会议，审议结果显示，格林生物科技股份有限公司首发符合发行条件、上市条件和信息披露要求。 晨光股份：拟以5亿元至10亿元回购股份用于股权激励或员工持股计划 36氪获悉，晨光股份公告，公司拟以自有资金通过集中竞价方式回购股份，回购资金总额不低于5亿元（含），不超过10亿元（含），回购价格不超过35元/股。回购股份将用于股权激励或员工持股计划，回购期限自董事会审议通过之日起12个月内。 中国交建：附属公司拟参与设立10亿元交通信息科技基金 36氪获悉，中国交建公告，公司附属公司中交资本及中交鼎...
+大公司： 上汽通用五菱全球车EKSION在印尼雅加达向首批用户交付 36氪获悉，5月28日，上汽集团迎来全球第一亿辆整车交付，成为我国首家累计产销量突破一亿辆的汽车集团。其中，上汽通用五菱累计贡献超3200万辆。当日，上汽通用五菱全球车EKSION在印尼雅加达向首批用户交付。 特斯拉Optimus专属机器人工厂动工，规划年产能最高可达1000万台 据报道，特斯拉位于得克萨斯州的超级工厂内，专属Optimus人形机器人工厂正式动工建设，规划年产能最高可达1000万台。该工厂将搭建第二代生产线，计划2027年夏季实现大规模量产，全面投产后日均产量约2.7万台。（界面） 智元机器人在惠州成立新公司 ...
 
-📎 [阅读原文](https://36kr.com/p/3828874222555782?f=rss)
-
----
-
-### How to apply to Startup Battlefield 2026, what you need ahead of the June 8 deadline
-
-Startup Battlefield applications are due tomorrow, so now's the time to put the finishing touches on your submission!
-
-📎 [阅读原文](https://techcrunch.com/2026/05/28/how-to-apply-to-startup-battlefield-2026-what-you-need-ahead-of-the-june-8-deadline/)
+📎 [阅读原文](https://36kr.com/p/3830194503526277?f=rss)
 
 ---
 
-### The internet is being rebuilt for machines
+### 科氪 | OPPO Reno16系列发布，“3D悬浮星球+实况随心贴”引领潮流手机新风向
 
-As AI agents move from experiments to production, AWS, Cloudflare, and others are redesigning cloud infrastructure for a future dominated by machine-generated internet traffic instead of human users.
+2026 年 5 月 25 日，OPPO 举办 “Reno Land 奇幻夜”新品发布会，重磅发布多款新品，全新一代 OPPO Reno16 系列潮流手机、OPPO Pad 6 全能平板、 OPPO Pad Air5 学习平板、OPPO Enco Air5s 真无线降噪耳机、OPPO Bubble潮玩自拍屏同步登场。本次发布会围绕年轻用户学习、创作、社交、直播、游戏全场景需求，以潮流美学、实况影像创新、AI 智慧体验、跨设备生态协同为核心，实现手机、平板、耳机无缝联动；同时推出学生专属购机补贴，为学生群体打造一站式入学数码解决方案，重新定义年轻人的潮流移动智能生态。 官方图片 梦核星球美学全新...
 
-📎 [阅读原文](https://techcrunch.com/2026/05/28/the-internet-is-being-rebuilt-for-machines/)
-
----
-
-### Slate Auto will announce pricing and take preorders for its EV on June 24
-
-The Bezos-backed EV startup has yet to announce final pricing for its vehicle, which is supposed to start shipping by the end of this year.
-
-📎 [阅读原文](https://techcrunch.com/2026/05/28/slate-auto-will-announce-pricing-and-take-preorders-for-its-ev-on-june-24/)
+📎 [阅读原文](https://36kr.com/p/3830038913558147?f=rss)
 
 ---
 
-### Garnix (A Nix CI) is shutting down
+### This chip startup just raised $135M on a bet that AI’s biggest bottleneck isn’t compute — it’s memory
 
-Article URL: https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895 Comments URL: https://news.ycombinator.com/item?id=48317043 Points: 5 # Comments: 0
+South Korean chip startup Xcena is betting that AI's real bottleneck is not compute, but memory.
 
-📎 [阅读原文](https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895)
-
----
-
-### GitHub bans security researcher who posted zero-day Windows exploits
-
-Article URL: https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation Comments URL: https://news.ycombinator.com/item...
-
-📎 [阅读原文](https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation)
+📎 [阅读原文](https://techcrunch.com/2026/05/29/xcena-secures-135m-at-570m-valuation-betting-on-memory-as-ais-real-bottleneck/)
 
 ---
 
-### Protestware for Coding Agents
+### Blue Origin’s New Glenn rocket explodes during testing in Florida
 
-Article URL: https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html Comments URL: https://news.ycombinator.com/item?id=48315440 Points: 17 # Comments: 8
+The explosion is likely a major setback for Jeff Bezos' spaceflight company, and its attempt to compete with SpaceX.
 
-📎 [阅读原文](https://nesbitt.io/2026/05/28/protestware-for-coding-agents.html)
+📎 [阅读原文](https://techcrunch.com/2026/05/28/blue-origins-new-glenn-rocket-explodes-during-testing-in-florida/)
+
+---
+
+### Glean’s top line crosses $300M as AI budget-cutting becomes its major selling point
+
+The enterprise AI search startup tripled its annual revenue even as tech giants entered the category.
+
+📎 [阅读原文](https://techcrunch.com/2026/05/28/gleans-top-line-crosses-300m-as-ai-budget-cutting-becomes-its-major-selling-point/)
+
+---
+
+### Is AI causing a repeat of Front end's Lost Decade?
+
+Article URL: https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/ Comments URL: https://news.ycombinator.com/item?id=48321631 Points: 6 # Comments: 1
+
+📎 [阅读原文](https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/)
+
+---
+
+### Is This Sustainable?
+
+Article URL: https://jamiehurst.co.uk/2026-05-24_ai-sustainable Comments URL: https://news.ycombinator.com/item?id=48321264 Points: 20 # Comments: 20
+
+📎 [阅读原文](https://jamiehurst.co.uk/2026-05-24_ai-sustainable)
+
+---
+
+### Real-time LLM Inference on Standard GPUs: 3k tokens/s per request
+
+Article URL: https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/ Comments URL: https://news.ycombinator.com/item?id=48321076 Points: 41 # Comments: 30
+
+📎 [阅读原文](https://blog.kog.ai/real-time-llm-inference-on-standard-gpus-3-000-tokens-s-per-request/)
+
+---
+
+### The most spectacular rocket explosion since N1 just happened in Florida
+
+New Glenn was due to play a starring role in NASA's Artemis Program.
+
+📎 [阅读原文](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/)
 
 ---
 
@@ -223,14 +231,6 @@ Fine-tuning tests show "bias ... toward confidently representing the claims as t
 
 ---
 
-### Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code
-
-Undisclosed addition in jqwik instructed AI coding agents to delete app output.
-
-📎 [阅读原文](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/)
-
----
-
 
 ---
 
@@ -240,4 +240,4 @@ Undisclosed addition in jqwik instructed AI coding agents to delete app output.
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:02 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:02 GMT+8*
