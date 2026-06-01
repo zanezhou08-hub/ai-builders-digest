@@ -11,27 +11,27 @@ section: news
 
 ## 🌍 国际新闻
 
-### 'He wanted to take it' - Gabriel's first Arsenal penalty ends with heartbreak
+### Sturgeon tells BBC: I'm serving a sentence for crime I didn't commit
 
-Gabriel's first penalty for Arsenal ends in heartache as his shootout miss hands Paris St-Germain a second successive Champions League title.
+Scotland's former first minister is challenged by Laura Kuenssberg over the SNP embezzlement scandal, and at times struggles to hold back tears.
 
-📎 [阅读原文](https://www.bbc.com/sport/football/articles/clypr1lzxvno?at_medium=RSS&at_campaign=rss)
-
----
-
-### How Putin became master of the image
-
-From enigmatic KGB agent to wartime ruler, this is how Putin has repeatedly reinvented his image, and himself.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cddpl33v247o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/c2027k1ev3zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 'No-one feels safe now': Residents of Romanian city hit by drone share fears
+### Watch: Key moments from Nicola Sturgeon's interview with Laura Kuenssberg
 
-People have just begun returning to check on their homes in the block that was hit early on Friday morning.
+Former First Minister of Scotland Nicola Sturgeon speaks to the BBC in her first interview since her estranged husband Peter Murrell pled guilty to embezzling £400,000 from the SNP
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cvgzyp93jq1o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/videos/c70vl59vd9vo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Hundreds arrested and dozens of police injured after Champions League riots in France
+
+Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### US Congress advances American-Israeli military integration plan
+### Dublin protesters demand justice over death of Congolese man
 
-A provision in the 2027 draft US defence bill could bind the two countries' weapons industries closer than ever.
+Dublin protesters demand justice over death of Congolese man
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan?traffic_source=rss)
-
----
-
-### Al Jazeera exclusive interview with rebel FARC faction in Colombia
-
-In Colombia, FARC dissidents say they returned to war after a historic peace deal failed to deliver security
-
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/31/dublin-protesters-demand-justice-over-death-of-congolese-man?traffic_source=rss)
 
 ---
 
-### Lebanese army ‘overly stretched’ to fight off latest Israeli invasion
+### Rio’s Forever War
 
-Geopolitical analyst Joe Macaron says the Lebanese army is ‘overly stretched’ as Israeli troops expand their occupation.
+In 2025, Brazil’s deadliest police raid killed 120 people and exposed a pattern of mishandled evidence and impunity.
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/30/lebanese-army-overly-stretched-to-fight-off-latest-israeli-invasion?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/video/fault-lines/2026/5/31/rios-forever-war?traffic_source=rss)
+
+---
+
+### Israeli forces cross Lebanon’s Litani River and seize 12th century castle
+
+Invading Israeli forces have crossed north of Lebanon's Litani River and seized the medieval Beaufort Castle.
+
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/5/31/israeli-forces-cross-lebanons-litani-river-and-seize-12th-century-castle?traffic_source=rss)
 
 ---
 
@@ -183,27 +183,43 @@ A group of 20 Snap alumni has come together to launch a fund called Ghost Angels
 
 ---
 
-### Microsoft degrades functionality of perpetually-licensed offline products
+### London's Free Roof Terraces
 
-Article URL: https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026) Comments URL: https://news.ycombinator.com/item?id=48341578 Points: 14 # Comments: 1
+Article URL: https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html Comments URL: https://news.ycombinator.com/item?id=48343714 Points: 108 # Comments: 30
 
-📎 [阅读原文](https://consumerrights.wiki/w/Microsoft_Office_2019_and_2021_for_Mac_view-only_conversion_(2026))
-
----
-
-### Custom Errors Are Non-Negotiable in My Rust Applications
-
-Article URL: https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications Comments URL: https://news.ycombinator.com/item?id=48341505 Points: 3 # Comments: 0
-
-📎 [阅读原文](https://tristonarmstrong.com/blog/custom-errors-are-non-negotiable-in-my-rust-applications)
+📎 [阅读原文](https://diamondgeezer.blogspot.com/2026/05/londons-free-roof-terraces.html)
 
 ---
 
-### Cheese Paper: a text editor specifically designed for writing
+### The Website Specification
 
-Article URL: https://brie.gay/cheese-paper/ Comments URL: https://news.ycombinator.com/item?id=48341407 Points: 12 # Comments: 2
+Article URL: https://specification.website/ Comments URL: https://news.ycombinator.com/item?id=48343683 Points: 217 # Comments: 86
 
-📎 [阅读原文](https://brie.gay/cheese-paper/)
+📎 [阅读原文](https://specification.website/)
+
+---
+
+### Telli (YC F24) is hiring in engineering, design, and GTM [Berlin, on-site]
+
+Article URL: https://hi.telli.com/join-us Comments URL: https://news.ycombinator.com/item?id=48343635 Points: 0 # Comments: 0
+
+📎 [阅读原文](https://hi.telli.com/join-us)
+
+---
+
+### On its 40th anniversary, we reassess 1986's SpaceCamp
+
+Is it a hidden gem, a cult classic, or hopelessly dumb? We vote "all of the above."
+
+📎 [阅读原文](https://arstechnica.com/culture/2026/05/on-its-40th-anniversary-we-reassess-1986s-spacecamp/)
+
+---
+
+### They call it stupid hot for a reason: Heat muddles animal brains
+
+As temperatures rise, some creatures pick fights while others struggle to learn.
+
+📎 [阅读原文](https://arstechnica.com/science/2026/05/they-call-it-stupid-hot-for-a-reason-heat-muddles-animal-brains/)
 
 ---
 
@@ -212,22 +228,6 @@ Article URL: https://brie.gay/cheese-paper/ Comments URL: https://news.ycombinat
 A new book looks into the long history of people who have opposed vaccines.
 
 📎 [阅读原文](https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/)
-
----
-
-### Environmentalists turn out in force to oppose Trump coal ash rollbacks
-
-Trump admin wants to rely on states for coal ash monitoring, enforcement, allow them to bypass national standards.
-
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/)
-
----
-
-### Proposed new US funding rules: We can cancel any grant at any time
-
-Peer review now optional, political staff would screen grants for forbidden topics.
-
-📎 [阅读原文](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/)
 
 ---
 
@@ -240,4 +240,4 @@ Peer review now optional, political staff would screen grants for forbidden topi
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:01 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
