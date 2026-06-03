@@ -11,27 +11,27 @@ section: news
 
 ## 🌍 国际新闻
 
-### 'Beleaguered and bereft' - Mandelson messages reveal criticism of No 10
+### Murdered student Henry Nowak told police 'I can't breathe' while handcuffed
 
-Newly published documents show Lord Mandelson and ministers' concerns about the prime minister and Labour MPs.
+An independent investigation into why Henry Nowak was handcuffed by police as he was dying is ongoing.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cwy2431r8xdo?at_medium=RSS&at_campaign=rss)
-
----
-
-### Chris Mason: Decision to appoint Mandelson continues to inflict damage
-
-When Sir Keir Starmer looks back on his time at No10, his decision to send Lord Mandelson to Washington will be a central part of the critique of his tenure.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cvgzr6pn0nko?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/crlpyw05l75o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Weapons‑obsessed killer jailed as body cam footage shows victim being handcuffed
+### UK Athletics fined £350,000 over death of Paralympian
 
-University student Henry Nowak was killed as he walked back from a night out in Southampton.
+A judge at the Old Bailey has fined UK Athletics £350,000 with £44,000 in costs after hearing how a paralympic athlete died when equipment fell on him at a training ground in east London.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c1d2w411rgro?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/sport/athletics/articles/c1e2x1qze8vo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### How pupils with special educational needs are more likely to see their schools close
+
+In schools that closed between 2020 and 2025, nearly 30% of children had special educational needs
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c0q25zzdwdpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Ultra-Orthodox protesters clash with Israeli police over army draft
+### Underground drug smuggling tunnel discovered from Tijuana to San Diego
 
-Police seen dragging ultra-Orthodox protesters from under a bus after they blocked roads in Jerusalem over conscription.
+A tunnel was discovered running underneath the US-Mexico border, allegedly used to smuggle drugs and weapons.
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/6/1/ultra-orthodox-protesters-clash-with-israeli-police-over-army-draft?traffic_source=rss)
-
----
-
-### Violent protests erupt in Chile over government cuts of social programmes
-
-Labour unions and student groups protested in Chile as President Kast delivered his first State of the Nation.
-
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/6/1/aje-onl-nf_clip_violent-protests-erupt-in-chile-010626?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/6/2/underground-drug-smuggling-tunnel-discovered-from-tijuana-to-san-diego?traffic_source=rss)
 
 ---
 
-### US court upholds injunction against Trump policy banning transgender troops
+### Every world leader who has visited China in 2026 in one chart
 
-The decision was split, allowing the Trump administration to continue barring transgender people from enlisting.
+China has hosted 26 leaders from 23 countries this year, underscoring its growing diplomatic and economic influence.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/6/1/us-court-upholds-injunction-against-trump-policy-banning-transgender-troops?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/6/2/every-world-leader-who-has-visited-china-in-2026-in-one-chart?traffic_source=rss)
+
+---
+
+### Israel kills five in attacks on Lebanon after Trump announces de-escalation
+
+The deadly attacks raise concerns about the reported agreement on the cessation of hostilities.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/6/2/israel-kills-five-in-attacks-on-lebanon-after-trump-announces-de-escalation?traffic_source=rss)
 
 ---
 
@@ -135,27 +135,43 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 首轮融资数千万美元、估值2.5亿美元，「Aippy」正在打造下一代AI游戏社区 | 36氪首发
+### 氪星晚报｜私募股权公司Ardian将与Verne合作，斥资50亿欧元在法国建数字基础设施园区；快手：平台累计催生189个新职业，其中由AI发展带来的新职业达15个；中央财政下达育儿补贴补助资金999亿元支持实施育儿补贴制度
 
-36氪获悉，NADA AI团队开发的AI游戏社区「Aippy」，已于近日完成数千万美元首轮融资，本轮由歌未资本（Glowill Capital）投资，投后估值2.5亿美元。本轮资金将主要用于顶尖人才引进和欧美核心市场用户规模化增长。 Aippy成立于2025年，由港股上市公司赤子城科技孵化，其创始人、CEO Evan (叶椿建）是赤子城联合创始人，并长期担任赤子城CTO，在海外社交、游戏领域有十余年深耕经验。目前团队规模接近30人，核心成员来自清华大学、美国西北大学、慕尼黑工业大学等国内外顶尖高校，覆盖算法、产品、运营等关键岗位。 Aippy产品界面图 作为AI驱动的游戏创作与互动社区，Aip...
+大公司： 高德与新加坡旅游局启动战略合作，将落地首个与海外国家旅游局共建扫街榜 36氪获悉，6月2日，高德地图与新加坡旅游局（Singapore Tourism Board）在北京签署战略合作备忘录，双方将联合打造首个海外国家旅游局共建文旅榜单——新加坡扫街榜，并将高德飞行街景技术首次落地海外。除了榜单共建，高德还将会把国内已成熟的飞行街景技术应用于新加坡，基于自研空间智能技术，以360°全景视角呈现景点、酒店、街区和餐厅实景，让游客出发前即可直观判断目的地是否符合预期。 江西国家稀土技术创新中心成立，注册资本12.5亿 36氪获悉，天眼查App显示，近日，江西国家稀土技术创新中心有限公司成立...
 
-📎 [阅读原文](https://36kr.com/p/3834400181741440?f=rss)
-
----
-
-### 豆包6月下旬正式付费，并加速打通抖音电商丨独家
-
-5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。 随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露，豆包预计将在6月下旬正式上线付费内容，并于同期举行的Force大会上更新相关功能。之所以选择这一...
-
-📎 [阅读原文](https://36kr.com/p/3834544830721671?f=rss)
+📎 [阅读原文](https://36kr.com/p/3834354708031111?f=rss)
 
 ---
 
-### 量坤科技获数亿元天使轮融资，AI4S急需量子级精度数据 | 36氪独家
+### 美团在竞争中看清自己
 
-「暗涌Waves」独家获悉，量子计算公司「量坤科技」近日完成数亿元人民币天使轮、天使+轮融资。本轮系列融资由英诺天使基金领投，国汽投资、北工投资、BV百度风投、水木清华校友基金、明势创投等多家机构参与投资。光源资本担任独家财务顾问。 这笔融资背后，是一个逐渐清晰的判断：AI for Science需要量子计算。 AI可以学习规律，但模型能力上限，受制于它所见过世界的“分辨率”。在化学、材料与医药等研发场景中，如果底层数据的精度不够，模型预测结果也会显著受限。 量子计算，天然适合模拟分子结构、化学键等体系。作为一种高精度求解器，它有可能输出更接近物理世界规律的计算结果；计算产出的量子级高精度数据...
+作者｜任彩茹 编辑｜乔芊 参与外卖大战的三家公司中，美团最晚发出一季度财报，但给出了最超预期的“减亏”成果。 2026年一季度，美团实现收入910亿元，同比增长5.6%，基本符合预期。亮点在于经营亏损的大幅收窄，由上季度的161亿元减至65亿元，其中最受关注的核心本地商业，经营亏损从上季度的100亿元减少到20亿元，明显好于投行预测的40-45亿元。 业绩提振下，6月2日港股开盘后，美团盘中最高涨幅超9%，截至发稿，报85.25港元/股。 值得关注的是，本季财报中美团还更新了两个关键的收入口径： 一方面，将“商品销售收入”单列，主要来自食杂零售业务（以小象超市、快驴为主）以及药品、酒类等其他自...
 
-📎 [阅读原文](https://36kr.com/p/3826034537223043?f=rss)
+📎 [阅读原文](https://36kr.com/p/3835814792492416?f=rss)
+
+---
+
+### 豆包6月下旬正式付费，并加速打通抖音电商丨36氪独家
+
+文｜肖思佳 编辑｜乔芊 杨轩 5月初旬，豆包将推出付费订阅服务的消息，引发市场广泛讨论。其在苹果App Store中更新的付费订阅方案显示，豆包将推出四档收费标准：基础版、标准版、加强版、专业版。对应的月收费价格为：免费、68元、200元、500元；年收费价格为：免费、688元、2048元、5088元。 随后官方回应：“豆包始终提供免费服务。在免费服务的基础上，我们也在探索推出更多增值内容，以满足不同用户的差异化需求。” 据36氪独家了解，以上只是豆包商业化的预热动作。在接下来的季度中，豆包将持续推进商业化的落地。知情人士透露，豆包预计将在6月下旬正式上线付费内容，并于同期举行的Force大会...
+
+📎 [阅读原文](https://36kr.com/p/3835814391100550?f=rss)
+
+---
+
+### Rocket engine startup Impulse raises $500 million to hire people, not AI
+
+Engineering physical systems still depends on human talent, according to Impulse Space president Eric Romo.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/)
+
+---
+
+### Pacific Fusion’s latest prototype packs 440 gigawatts into an 80-nanosecond burst
+
+Pacific Fusion's sub-scale prototype delivered enormous amounts of power in a flash, setting the company up for its demonstration power plant.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/02/pacific-fusions-latest-prototype-packs-440-gigawatts-into-an-80-nanosecond-burst/)
 
 ---
 
@@ -167,43 +183,27 @@ Every founder who applies to Startup Battlefield wants the same thing: the Disru
 
 ---
 
-### Alphabet plans to raise $80B to pay for AI buildout
+### CSS-Native Parallax Effect
 
-"The company is experiencing strong demand for its AI solutions and services from enterprises and consumers, at levels that are exceeding the company’s available supply," Alphabet said in its statement.
+Article URL: https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/ Comments URL: https://news.ycombinator.com/item?id=48368291 Points: 33 # Comments: 16
 
-📎 [阅读原文](https://techcrunch.com/2026/06/01/alphabet-plans-to-raise-80-billion-to-pay-for-ai-buildout/)
-
----
-
-### Defense tech darling Mach Industries hits $1.8B valuation, a 4x jump in a year
-
-In a wild ride for 22-year-old founder and CEO Ethan Thornton, Mach Industries has raised another $300 million. It already has five autonomous vehicles in development and completed a major acquisition.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/01/defense-tech-darling-mach-industries-hits-1-8b-valuation-a-4x-jump-in-a-year/)
+📎 [阅读原文](https://dan-webnotes.com/posts/2026-06-02-css-native-parallax-effect/)
 
 ---
 
-### OpenAI frontier models and Codex are now available on AWS
+### Michael Burry says neither SpaceX nor Anthropic is worth $1T
 
-Article URL: https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/ Comments URL: https://news.ycombinator.com/item?id=48363132 Points: 40 # Comments: 9
+Article URL: https://www.businessinsider.com/big-short-michael-burry-spacex-anthropic-ipo-ai-bubble-claude-2026-6 Comments URL: https://news.ycombinator.com/item?id=48368187 Points: 55 # Comments: 59
 
-📎 [阅读原文](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/)
-
----
-
-### Debug Project
-
-Article URL: https://debug.com/ Comments URL: https://news.ycombinator.com/item?id=48362347 Points: 122 # Comments: 50
-
-📎 [阅读原文](https://debug.com/)
+📎 [阅读原文](https://www.businessinsider.com/big-short-michael-burry-spacex-anthropic-ipo-ai-bubble-claude-2026-6)
 
 ---
 
-### GitHub and the crime against software
+### Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai
 
-Article URL: https://eblog.fly.dev/githubbad.html Comments URL: https://news.ycombinator.com/item?id=48361064 Points: 185 # Comments: 81
+Article URL: https://blog.adafruit.com/ Comments URL: https://news.ycombinator.com/item?id=48368121 Points: 115 # Comments: 42
 
-📎 [阅读原文](https://eblog.fly.dev/githubbad.html)
+📎 [阅读原文](https://blog.adafruit.com/)
 
 ---
 
@@ -240,4 +240,4 @@ Amid a raging Ebola outbreak, officials "urgently accelerate development" of vac
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:02 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
