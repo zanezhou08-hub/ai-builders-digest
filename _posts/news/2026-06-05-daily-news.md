@@ -11,14 +11,6 @@ section: news
 
 ## 🌍 国际新闻
 
-### Burnham says he would seek to enter any Labour leadership contest
-
-The Greater Manchester Mayor would need to win the by-election in Makerfield to be a possible candidate.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cp9p9z31rr1o?at_medium=RSS&at_campaign=rss)
-
----
-
 ### Andrew was sub-letting Royal Lodge cottages, watchdog reveals
 
 A public spending watchdog examines the property arrangements of royals including Andrew Mountbatten-Windsor.
@@ -27,11 +19,19 @@ A public spending watchdog examines the property arrangements of royals includin
 
 ---
 
-### 'World-first' vaccine designed by Artificial Intelligence
+### World-first vaccine designed by AI could protect against whole families of viruses
 
 Cambridge scientists say they have, for the first time, tested a vaccine designed by AI.
 
 📎 [阅读原文](https://www.bbc.com/news/articles/crrpggegwe0o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Teen rapists spared jail partly because of intellectual limitations, sentencing remarks reveal
+
+The boys' sentencing last month caused an outcry when they were given youth rehabilitation orders (YROs).
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c3d2d55kvy1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Democrat fails to block US measure to deepen Israel military cooperation
+### US-Iran war pushing millions into food crisis, warns UN
 
-Congressman Ro Khanna says the integration push only boosts Netanyahu, but his push to revoke the measure fell short.
+WFP warns that the war is causing substantial increases in food prices in a number of countries.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/6/4/democrat-fails-to-block-us-measure-to-deepen-israel-military-cooperation?traffic_source=rss)
-
----
-
-### Ivory Coast beats France in World Cup warning to one of the favourites
-
-Ivory Coast defeats France 2-1 in friendly ahead of the 2026 World Cup, as Manchester United's Amad Diallo seals win.
-
-📎 [阅读原文](https://www.aljazeera.com/sports/2026/6/4/ivory-coast-beat-france-in-world-cup-warning-to-one-of-the-favourites?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/6/5/us-iran-war-pushing-millions-into-food-crisis-warns-un?traffic_source=rss)
 
 ---
 
-### Democrats force vote on Trump’s $1.8bn settlement fund in ‘vote-a-rama’
+### Ranking the World Cup 2026 groups: Which teams are favourites to progress?
 
-Republicans seek to pass $70bn immigration-enforcement funding, but must endure series of votes on controversial issues.
+The first stage of the 2026 World Cup 2026 features 12 groups. We've ranked them and picked the favourites to advance.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/6/4/democrats-force-vote-on-trumps-1-8bn-settlement-fund-in-vote-a-rama?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/6/5/ranking-the-2026-world-cup-groups-which-teams-are-favourites-to-progress?traffic_source=rss)
+
+---
+
+### IAEA brokers Ukraine ceasefire to allow nuclear plant repairs
+
+Concerns over the safety of the Zaporizhzhia plant, Europe's largest, have been rife throughout Russia's war on Ukraine.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/6/5/iaea-brokers-ukraine-ceasefire-to-allow-nuclear-plant-repairs?traffic_source=rss)
 
 ---
 
@@ -135,27 +135,43 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 8点1氪丨分析师曝苹果Vision Pro产品线被移除；黄仁勋将首次亮相综艺节目；粉笔CEO就骂人大学生“活该找不到工作”道歉
+### Token大战中，华为云选择了第三条路｜最前线
 
-今日热点导览 微信正与手机厂商合作推出Agent-to-Agent助手能力 擅用“LABUBU”相近标识商业推广，泡泡玛特告奈雪的茶获赔32万 腾讯客服回应与华为、小米等合作 神农旅游集团就国道收费进行道歉 苹果智能眼镜推迟至2029年，无显示屏AI眼镜仍将于2027年推出 TOP 3 大新闻 分析师曝苹果Vision Pro产品线被移除，2027年推AI眼镜 知名苹果分析师郭明錤发布最新供应链调查称，苹果已正式从其XR头显与智能眼镜路线图中移除Vision Pro系列后续产品，资源全面转向更具大众市场潜力的AI眼镜品类。据悉，这一重大战略调整已获苹果下一任CEO约翰·特努斯批准。 郭明錤表示...
+作者 | 邓咏仪 编辑 | 张雨忻 “在国产化算力供应受限的情况下，华为云现在不太在乎Token总量是多少，也不太在乎收入的总量是多少，在乎的是国产化的算力系统所生产出来的Tokens的健康度，并且要代表着生产力提升，而不仅仅是情绪价值。” 6月5日，2026华为云 INSPIRE 创想者大会在上海开幕，华为云CEO周跃峰表示。 他举了个例子：一个人闲来无事在手机上问 AI 一个问题，也会产生 Token，但这种 Token 的价值有多大很难说明。在他看来，衡量一朵云做得好不好，不该强调它跑出了多少万亿 Token，而该看这些 Token 替企业提了多少效率。 华为云CEO周跃峰 过去两年，中...
 
-📎 [阅读原文](https://36kr.com/p/3839505332161026?f=rss)
-
----
-
-### 00后创业者站上C位，「go big or go home」｜36氪离线聚会第二期
-
-“妨碍真理发现过程的，不是谎言，而是极其精辟的错误见解。”德国物理学家兼讽刺作家利希滕贝格在面对启蒙运动中的种种愚昧时，戏谑式地写下了这一句名言。 许多误判之所以危险，恰恰因为它们看上去过于正确。它们能在一个短周期里解释世界，也容易在世界已经变化之后，继续以“共识”的面貌停留在原地。 AI也曾经历类似的混沌阶段。过去两年，人们习惯用一些简单指标理解这场变化：谁拥有更多GPU，谁训练了更大参数的模型，谁的团队烧掉了更多Token。以至于硅谷一度流行“Token消耗量”的隐形竞赛，以证明到底谁是最AI Native的公司。 但现实是，Token消耗量可以衡量投入的程度，却无法衡量投入的方向——方向...
-
-📎 [阅读原文](https://36kr.com/p/3838702884604421?f=rss)
+📎 [阅读原文](https://36kr.com/p/3840016255126016?f=rss)
 
 ---
 
-### 实现芯片设计验证自动化，提升开发效率10倍以上，「智维创芯」完成数千万元天使轮融资｜36氪首发
+### 中国入境游距离「世界第一」还有多远？
 
-从芯片行业在资本市场的狂飙，到华为发布“韬（τ）定律”，AI浪潮带动下，烈火烹油的半导体行业进入超级周期，推动芯片设计等上游产业链迎来需求爆发。 但随着需求暴增，设计复杂度不断提高，芯片验证周期过长，拖累开发节奏的瓶颈也越来越明显。2024年西门子和威尔逊研究集团的研究报告中指出高工艺复杂芯片的流片风险非常大，首次流片成功率只有14%。“一款芯片从架构到流片一般需要两年时间，其中验证环节消耗的人力与时间往往超过60%。”王翕对36氪表示。 数字芯片开发流程 王翕是「智维创芯」的创始人兼董事长，目前也是东南大学的副教授、博士生导师。2025年，王翕团队依托此前在国家集成电路设计自动化技术创新中心...
+“曾有外国友人让我推荐中国的最佳旅行目的地，我的回答是：你应该看看中国的山。” 最近的一场入境游研讨会，携程集团联合创始人兼董事局主席梁建章这样回答。在他的表述中，中国有世界最高的山——喜马拉雅；全世界最美的山，则在中国南方最独特的喀斯特地貌——桂林。 与此同时，他正将这份“私藏推荐”转化为全球旅行者的实际行动。 近期，携程集团宣布了一项新的战略计划：未来五年，公司将引入2亿人次的入境游客。 在同期进行的桂林之夜入境游推广活动上，国际影星成龙也以“携程入境游大使”的身份亮相活动现场。当成龙遇上桂林山水，携程决心赋能入境游整体链条的变革正拉开序幕。 国际影星成龙成为“携程入境游大使” 01. “...
 
-📎 [阅读原文](https://36kr.com/p/3838488706370054?f=rss)
+📎 [阅读原文](https://36kr.com/p/3840001908361472?f=rss)
+
+---
+
+### 探店13家，理想/蔚来/问界如何征服50万客群？
+
+一周之内，三款“9系”旗舰SUV密集上市，高端新能源市场竞争战况升级。 5月15日，理想发布新一代L9，其中Livis版本搭载800V主动悬架、线控制动、线控转向的全线控底盘，售价50.98万元起。 5月27日，蔚来ES9与问界新M9同天发布。姚明也称“空间大”的蔚来ES9，起售价49.8万元；在高端市场已经破局的问界M9，起售价49.98万元。 冲击50万元级的高端市场，似乎已成为头部新能源车品牌的共识。这背后是战略需要，也是直接的财务驱动。 2026年一季度，理想汽车销量同比增长，但由于70%订单为L6、i6等入门车型。销量结构的下沉，让理想这家最早盈利的新造车公司再度陷入季度亏损。 蔚来...
+
+📎 [阅读原文](https://36kr.com/p/3839803361741313?f=rss)
+
+---
+
+### Mira Murati steps back into the spotlight, carefully
+
+In the current environment, remaining heads down has diminishing returns; at some point, you have to make some noise just to remind the market you exist.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/)
+
+---
+
+### Founders Fund launches game show starring Sam Altman, Palmer Luckey, and other tech elites
+
+The debut episode, moderated by Founders Fund chief marketing officer Mike Solana, included a star-studded cast of current tech luminaries.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/04/founders-fund-launches-game-show-starring-sam-altman-palmer-luckey-and-other-tech-elites/)
 
 ---
 
@@ -167,43 +183,27 @@ Anthropic has been growing at a breakneck pace. The company announced that annua
 
 ---
 
-### Airbnb’s Brian Chesky plans to launch a new AI lab
+### Communication on European Tech Sovereignty, and an EU Open-Source Strategy
 
-The Airbnb CEO said last year it hasn't struck an LLM partnership because existing products weren't quite ready.
+Article URL: https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy Comments URL: https://news.ycombinator.com/item?id=48410602 Points: 17 # Comments: 7
 
-📎 [阅读原文](https://techcrunch.com/2026/06/04/airbnbs-brian-chesky-plans-to-launch-a-new-ai-lab/)
-
----
-
-### Filtr is a new privacy tool that blocks ads in almost every iPhone and Mac app
-
-This popular ad blocker app for iPhones, iPads, and Macs can now block ads from loading inside apps, including web browsers, thanks to a new feature in the latest Apple software.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/04/filtr-is-a-new-privacy-tool-that-blocks-ads-in-almost-every-iphone-and-mac-app/)
+📎 [阅读原文](https://digital-strategy.ec.europa.eu/en/library/communication-european-tech-sovereignty-accompanied-eu-open-source-strategy)
 
 ---
 
-### Do transformers need three projections? Systematic study of QKV variants
+### Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?
 
-Article URL: https://arxiv.org/abs/2606.04032 Comments URL: https://news.ycombinator.com/item?id=48405931 Points: 37 # Comments: 5
+I got really tired, as a human, of parsing the standard marketing heavy web we have today. I've always loved the simplicity of gopher and gemini web.Recently I found myself manually adding `/llm.txt` to most websites I visit because I find the content for LLMs strait to the point and clear. The only...
 
-📎 [阅读原文](https://arxiv.org/abs/2606.04032)
-
----
-
-### Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate
-
-Article URL: https://arxiv.org/abs/2604.24881 Comments URL: https://news.ycombinator.com/item?id=48405841 Points: 5 # Comments: 0
-
-📎 [阅读原文](https://arxiv.org/abs/2604.24881)
+📎 [阅读原文](https://news.ycombinator.com/item?id=48410589)
 
 ---
 
-### Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed
+### Entanglement Builds Space-Time. Now "Magic" Gives It Gravity
 
-To my knowledge, this is the first formally verified implementation of an intersection algorithm for polygons.The experience of working with AI agents on this project changed a lot with recent model releases, as I describe in the readme. Opus 4.8 is able to provide algorithm implementation with form...
+Article URL: https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/ Comments URL: https://news.ycombinator.com/item?id=48409675 Points: 39 # Comments: 30
 
-📎 [阅读原文](https://github.com/schildep/verified-polygon-intersection)
+📎 [阅读原文](https://www.quantamagazine.org/entanglement-builds-space-time-now-magic-gives-it-gravity-20260603/)
 
 ---
 
@@ -240,4 +240,4 @@ Estonian government benchmark shows how dozens of models combat Russia's "strate
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:04 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
