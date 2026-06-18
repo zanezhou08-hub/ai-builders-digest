@@ -11,27 +11,27 @@ section: news
 
 ## 🌍 国际新闻
 
-### 'It was surreal': British couple describe having warning shots fired near them by Russian warship
+### PM warns Burnham against immediate leadership challenge if he wins by-election
 
-The retired couple tell BBC Newsnight they tried to show the warship they had changed course before the shots were fired.
+Keir Starmer says Labour should focus on a subsequent Manchester mayoral race if Andy Burnham wins in Makerfield.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/c20yzm84r7lo?at_medium=RSS&at_campaign=rss)
-
----
-
-### Tehran selling deal with US as victory – but for Iranians it was necessity
-
-For many Iranians, the question is not whether the deal means victory, but whether it lowers prices and reduces fear of another war.
-
-📎 [阅读原文](https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cn4dj7n83yqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Three reasons ships are not going through the Strait of Hormuz yet
+### High-street designs and skateboard tracksuits - what England's off-pitch looks say about the team
 
-Experts say that there are significant obstacles preventing traffic from returning to the levels seen before the conflict began – security, mines and tolls.
+What experts make of the men's team's official off-duty fashion as they prepare for their first World Cup match.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/cn4rw784nj2o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/c9v2e8llnkwo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Israel launches fresh strikes on Lebanon despite Trump criticism
+
+Speaking on Tuesday, Trump said Israel's PM Benjamin Netanyahu needed "to be more responsible with respect to Lebanon".
+
+📎 [阅读原文](https://www.bbc.com/news/articles/c7vyn17g832o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Brazilian court convicts Eduardo Bolsonaro of courting US interference
+### Zidane Iqbal: The footballer who gave Pakistan its first World Cup moment
 
-US placed tariffs on Brazilian goods and sanctioned judicial officials involved in trial of the father for coup plot.
+Manchester-born midfielder Zidane Iqbal becomes the first player of Pakistani heritage to feature at a World Cup.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/6/16/brazilian-court-convicts-eduardo-bolsonaro-of-courting-us-interference?traffic_source=rss)
-
----
-
-### US sprinter Noah Lyles sets world best 150m time at Golden Spike meet
-
-Lyles clocks 14.67 seconds, edges Dambile of South Africa for gold while Australian teenager Gout Gout finishes third.
-
-📎 [阅读原文](https://www.aljazeera.com/sports/2026/6/16/us-sprinter-noah-lyles-sets-world-best-150m-time-at-golden-spike-meet?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/6/17/zidane-iqbal-the-footballer-who-gave-pakistan-its-first-world-cup-moment?traffic_source=rss)
 
 ---
 
-### Somaliland president visits Israeli Knesset on tour
+### Floyd Mayweather faces theft charges for using bad cheque to buy a watch
 
-Somaliland’s President is on a ‘historic’ tour of Israel, where he’s opened an embassy and visited the Knesset.
+Boxing legend allegedly wrote the cheque on New Year's Eve 2024 and could face up to 20 years in jail if found guilty.
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_somaliland-president-visits-israeli-knesset-on-tour-160626?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/6/17/floyd-mayweather-theft-charges-bad-cheque-luxury-watch-boxing?traffic_source=rss)
+
+---
+
+### Why UK’s Makerfield by-election matters far beyond one parliamentary seat
+
+Thursday's contest could pave the way for Manchester Mayor Andy Burnham to challenge Keir Starmer's premiership.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/6/17/why-uks-makerfield-by-election-matters-far-beyond-one-parliamentary-seat?traffic_source=rss)
 
 ---
 
@@ -135,27 +135,43 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 鸿蒙智行全面引入电池二供，国轩高科将上车问界｜36氪独家
+### 风拂阳澄，来半岛解锁夏日限定AI狂欢！
 
-今年以来，市场竞争进一步加剧，内存等供应链成本大幅攀升，寻求供应链降本、使产品定价更具竞争力，成了汽车行业更为迫切的课题。 在这样的背景下，36氪从多位产业人士处了解到，稳居中高端市场的鸿蒙智行也开始全面引入多家动力电池供应商。 “除了尊界短期内规模支撑不了第二家，其他界可能都会引入多元电池供应商。”有知情人士透露。 据36氪了解，其中，长期由宁德时代独供的问界品牌，将引入中创新航、国轩高科两家二线电池供应商，问界M6现已定点了国轩高科的81度电池包，有知情人士透露，去年国轩高科便已收到了鸿蒙智行的定点信，中创新航也将进入问界的供应体系。 而就在2022年8月，赛力斯曾与宁德时代签署了五年长期...
+风口已至，静候同行。 提起阳澄湖，你的脑海里浮现的画面是什么？ 是远近闻名的阳澄湖大闸蟹，是波光粼粼的度假区风光，还是惬意舒展的环湖骑行赛道？在大多数人的印象里，阳澄湖半岛风光旖旎，向来是周末卸下疲惫、放松身心的度假好去处。 然而在今年盛夏，这片湖畔热土将迎来全新的科技活力。 当你再次漫步于阳澄湖畔，迎面走来的可能是身着外骨骼机甲在执勤的景区安保人员；走进喜来登等高端酒店，你会看到灵活穿梭的L4级自动驾驶无人配送车，全程无接触为旅客运送行李。越来越多充满未来感的场景，即将落地阳澄湖半岛，解锁一场专属夏日的AI嘉年华。 首届阳澄湖半岛度假区AI嘉年华，将于7月3日至4日正式启幕。本次活动旨在推动...
 
-📎 [阅读原文](https://36kr.com/p/3855879311823873?f=rss)
-
----
-
-### 乘新浪潮之势，建智造创新之城，2026年番禺产业高质量发展招商大会圆满举行
-
-潮起湾区新机遇，科创赋能新番禺。6月16日上午，2026年番禺产业高质量发展招商大会在广州番禺良仓新造创意园举行，大会以“新浪潮·新番禺”为主题，旨在搭建高效政企对接、企企交流、资本赋能平台。 大会由广州市番禺信息技术投资发展有限公司（下称“番禺信投”）、广州市番禺交通建设投资集团有限公司（下称“番禺交投”）、广州市番禺区新造镇房地产开发公司主办（下称“新造房地产公司”），中国农业银行股份有限公司广州华南支行协办（下称“农行广州华南支行”），36氪承办，汇聚行业智库、龙头企业、优质项目、头部投资机构等多方代表逾百人，以科创为媒、以产业为桥、以资本为翼，共商发展大计，共绘产业新篇。 与此同时，为...
-
-📎 [阅读原文](https://36kr.com/p/3855628692001799?f=rss)
+📎 [阅读原文](https://36kr.com/p/3857051317359622?f=rss)
 
 ---
 
-### 融了数亿美金的「大晓机器人」，其创始人揭开了具身行业的割裂一面
+### 浙大系创业者冲港股IPO，仙工智能招股书五大看点
 
-文｜周鑫雨 编辑｜张雨忻 梳理近半年的成果，大晓机器人董事长、商汤科技联合创始人王晓刚，滔滔不绝聊了10多分钟。 成立于2025年7月，大晓机器人（ACE ROBOTICS）是具身领域姗姗来迟的入局者。但一年来，这位新玩家成了赛道的“卷王”： 在模型侧，大晓新发布的具身大脑——世界模型“开悟（Kairos）3.0”，在4项全球具身智能基准测试中取得SOTA；开源的Kairos 3.0-4B，则率先实现在端侧直接驱动具身智能本体的能力。 △Kairos3.0在4个世界模型生成预测具身智能榜单中取得SOTA。图源：大晓机器人 在数据侧，大晓提出的“以人为中心”环境式采集方案，通过大规模采集人类与真...
+6月15日，智能机器人公司仙工智能（06106.HK）开始招股，招股价101.60港元，每手50股，市值112.27亿港元。 仙工智能最早于2025年5月第一次向港交所递交招股书，6个月失效后，又于当年11月重新递交，直到今年6月才通过聆讯。仙工智能这次是以18C特专科技公司身份赴港上市，预计6月24日挂牌敲钟。中金独家保荐，招银国际为整体协调人。 有意思的是，这家公司的核心壁垒不在机器人本身，而在机器人的"大脑"——控制器。灼识咨询按销量计，仙工的机器人控制器全球第一、中国第一，市占率24.8%和45.2%。一个"卖大脑"的公司要上市了，但硬氪抽丝剥茧713页招股书后会发现，仙工智能有五大看...
 
-📎 [阅读原文](https://36kr.com/p/3855262364488969?f=rss)
+📎 [阅读原文](https://36kr.com/p/3857011810112521?f=rss)
+
+---
+
+### 把AI当「电子校医」的大学生，一个人看病不慌了
+
+01.深夜急诊室：校医下班后，“电子校医”上线了 深夜11点，宿舍快熄灯了，张雯的小腹突然一阵绞痛，疼得她揪紧被子，直冒冷汗。校医室这个点已经下班了，室友说陪她去校外医院。但张雯犹豫了，大半夜不想折腾，万一一会儿就缓过来了呢？ 她打开蚂蚁阿福，把自己的症状输进去，“凌晨腹部绞痛，一阵一阵的，没有拉肚子，没有发烧，也不是生理期。” 阿福很快给出分析，“大概率是腹部受凉引起的肠道痉挛，可能和夜间受凉、睡前吃了生冷辛辣的食物有关，这些都会引起小腹下坠的绞痛。”还列出了其他可能性，比如尿路小结石、排卵期疼痛等。张雯发现第一条最符合，当天确实吃了辣的东西。 阿福马上给出对策：先保暖，调整姿势，不要乱吃止...
+
+📎 [阅读原文](https://36kr.com/p/3856958075802633?f=rss)
+
+---
+
+### Uber will bring its premium robotaxi service to Houston in 2027
+
+This will be the second market to have an Uber robotaxi service outfitted with Lucid EVs equipped with a self-driving system from Nuro.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/17/uber-will-bring-its-premium-robotaxi-service-to-houston-in-2027/)
+
+---
+
+### Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’
+
+Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.
+
+📎 [阅读原文](https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/)
 
 ---
 
@@ -167,43 +183,27 @@ Anthropic's popularity with business users is growing so well that the latest be
 
 ---
 
-### Apple plans to change its Hide My Email privacy feature that could make it less effective
+### RFC 10008: The new HTTP Query Method
 
-In the coming weeks, Apple will move anonymously generated emails addresses to a different domain.
+Article URL: https://www.rfc-editor.org/info/rfc10008/ Comments URL: https://news.ycombinator.com/item?id=48568502 Points: 11 # Comments: 4
 
-📎 [阅读原文](https://techcrunch.com/2026/06/16/apple-plans-to-change-its-hide-my-email-privacy-feature-that-could-make-it-less-effective/)
-
----
-
-### SpaceX valuation balloons to $2.6T, briefly passes Amazon
-
-SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/)
+📎 [阅读原文](https://www.rfc-editor.org/info/rfc10008/)
 
 ---
 
-### Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More
+### U.S. Science Is in Chaos
 
-Article URL: https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/ Comments URL: https://news.ycombinator.com/item?id=48563609 Points: 4 # Comments: 1
+Article URL: https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/ Comments URL: https://news.ycombinator.com/item?id=48568058 Points: 101 # Comments: 66
 
-📎 [阅读原文](https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality/)
-
----
-
-### NLnet announces funding for 67 more open-source projects
-
-Article URL: https://nlnet.nl/news/2026/20260616-67-new-projects.html Comments URL: https://news.ycombinator.com/item?id=48563569 Points: 23 # Comments: 7
-
-📎 [阅读原文](https://nlnet.nl/news/2026/20260616-67-new-projects.html)
+📎 [阅读原文](https://www.scientificamerican.com/article/americas-compact-between-science-and-politics-is-broken/)
 
 ---
 
-### Humiliating IIS servers for fun and jail time
+### Show HN: High-Res Neural Cellular Automata
 
-Article URL: https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/ Comments URL: https://news.ycombinator.com/item?id=48563394 Points: 17 # Comments: 0
+Neural CAs model self-organizing pattern formation.Now they can generate patterns at HD resolution in real-time, enabled by turning each CA cell into a Neural Field.Try 3 demos: grow a pattern from a seed (and damage it, it heals), synthesize PBR textures that can regenerate, or create 3D textures l...
 
-📎 [阅读原文](https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/)
+📎 [阅读原文](https://cells2pixels.github.io/)
 
 ---
 
@@ -240,4 +240,4 @@ Transferring genes across species doesn't just happen in microbes.
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:02 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
