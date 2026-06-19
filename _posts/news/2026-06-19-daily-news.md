@@ -11,27 +11,27 @@ section: news
 
 ## 🌍 国际新闻
 
-### Man arrested on suspicion of attempted murder after boy injured in crocodile enclosure
+### What is Burnham's path to becoming Labour leader and PM?
 
-A three-year-old boy was taken to Addenbrooke's Hospital with critical injuries and is in a stable condition, Cambridgeshire Police said.
+How could MPs who want Sir Keir Starmer to be replaced force a leadership contest and who could stand?
 
-📎 [阅读原文](https://www.bbc.com/news/articles/czx50n2vj74o?at_medium=RSS&at_campaign=rss)
-
----
-
-### US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'
-
-Iran's supreme leader says he disagrees with the deal and Donald Trump signed it "out of desperation".
-
-📎 [阅读原文](https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/c3631k30xjlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Bowen: US-Iran deal raises inescapable question of what the war was for
+### Farage blames Makerfield defeat on anti-Starmer votes
 
-While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.
+The Reform UK leader says he is "disappointed" with his party's performance in the key by-election.
 
-📎 [阅读原文](https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.com/news/articles/cvgqvj8dkz7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Scottish Conservatives win first Westminster by-election in more than 50 years
+
+The Tories take Aberdeen South, while the SNP wins in Arbroath and Broughty Ferry.
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cpv3kk3nlj1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Vote counting begins in high-stakes UK by-election
+### Could the HPV vaccine eliminate cervical cancer deaths?
 
-Ballots are being counted in the UK’s closely watched Makerfield by-election.
+The HPV vaccine has reduced the risk of cervical cancer death before age 30 to effectively zero in the United Kingdom.
 
-📎 [阅读原文](https://www.aljazeera.com/video/newsfeed/2026/6/18/vote-counting-begins-in-high-stakes-uk-by-election?traffic_source=rss)
-
----
-
-### US judge orders release of Palestinian rights advocate detained by ICE
-
-Mosque leader says he was arrested and detained by immigration authorities for his Palestine advocacy.
-
-📎 [阅读原文](https://www.aljazeera.com/news/2026/6/18/us-judge-orders-release-of-palestinian-rights-advocate-detained-by-ice?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/6/19/could-the-hpv-vaccine-eliminate-cervical-cancer-deaths?traffic_source=rss)
 
 ---
 
-### Switzerland beat Bosnia and Herzegovina 4-1, top Group B in World Cup
+### Trump hints at new approach to North Korea’s nuclear programme
 
-All five goals were scored in the final 30 minutes as the match in Los Angeles erupted to life in the closing stages.
+South Korea's president said Trump had told him the 'time had come' to focus on North Korea 'issue' at the G7 summit.
 
-📎 [阅读原文](https://www.aljazeera.com/sports/2026/6/18/switzerland-beat-bosnia-and-herzegovina-4-1-top-group-b-in-world-cup?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/6/19/trump-hints-at-new-approach-to-north-koreas-nuclear-programme?traffic_source=rss)
+
+---
+
+### World Cup: Will Pulisic play against Australia and can USMNT qualify?
+
+Will Christian Pulisic be fit for United States as they seek to secure top spot in Group D with win over Australia?
+
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/6/19/world-cup-will-pulisic-play-against-australia-and-can-usmnt-qualify?traffic_source=rss)
 
 ---
 
@@ -135,6 +135,22 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
+### 硬氪首发|moody前高管搭档大疆骨干入局陪伴机器人，锦秋领投，融资数千万
+
+硬氪获悉，AI-Native科技潮玩品牌ZuzuZoos查无此园（杭州多蓝艾梦智能科技旗下）近日完成数千万元Pre-A轮融资，锦秋领投、上海复容跟投。此次融资将主要AI大模型迭代、硬件产品扩建、IP生态深化、全球市场拓展、核心团队扩容。 ZuzuZoos成立于2025年，聚焦“AI陪伴机器人+AI潮玩”。创始人董晓楠是前摩根士丹利投资银行分析师，曾任新消费独角兽企业moody事业部总经理，任职期间拉动GMV从2亿元增长至10亿元。硬件负责人是前大疆清扫机器人机械结构负责人，深耕机器人及智能硬件领域15余年，主导多款机器人研发与落地。IP设计团队来自泡泡玛特、迪士尼等IP大厂，AI团队来自智谱等...
+
+📎 [阅读原文](https://36kr.com/p/3859926114161665?f=rss)
+
+---
+
+### 安踏发布“折纸科技”，试图从结构设计寻找跑鞋缓震新方向
+
+36氪获悉，6月16日，安踏在上海创新创意设计研究院发布全新跑鞋技术平台“折纸科技（ANTA FOLD）”，并同步推出首款搭载该技术的跑鞋产品折纸H1。 过去十余年，运动鞋行业的创新主要围绕材料展开。从EVA、TPU到Pebax等高性能发泡材料，各大品牌持续通过中底材料升级提升缓震与回弹表现。近年来，随着材料性能逐渐接近瓶颈，越来越多品牌开始将研发重点延伸至结构设计领域，希望通过几何构型优化进一步释放性能空间。 安踏此次推出的“折纸科技”，正是这一趋势下的最新尝试。 根据安踏介绍，该项目由安踏创新实验室联合牛津大学、天津大学及浙江大学相关研究团队共同研发。与传统依赖材料软硬度实现缓震不同，折纸...
+
+📎 [阅读原文](https://36kr.com/p/3859469888508933?f=rss)
+
+---
+
 ### 科氪 | 两轮电动车没有天花板，爱玛黑翼要用AI与硬核科技赢得年轻男性的心
 
 国内两轮电动车市场正悄然迎来一场深层次的“基因突变”。长期以来，大众对两轮电动车的认知被牢牢框定在“代步工具”与“大众精品”的传统叙事里。然而，在四川省体育馆的一场发布会上，爱玛正式发布了旗下专为年轻男性打造的极速运动品类品牌——“爱玛黑翼”（AIMA BLACK WING）。首位中国F1车手周冠宇化身“全速领航员”在线助力，爱玛黑翼S360电竞版、爱玛黑翼S360赛道版以及爱玛黑翼S790赛博版三款硬核新品集结亮相。这场动作透露出的创投信号再明显不过：在女性和基础通勤赛道筑牢绝对壁垒后，传统头部巨头爱玛正以一种颠覆性的姿态，正式向年轻男性性能与运动电摩赛道发起总攻。36氪通过与爱玛科技集团三...
@@ -143,91 +159,75 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ---
 
-### 科氪 | 纯粹热爱的城市探索玩家而来 ，爱玛黑翼三大新车集结亮相
+### The US says ASML’s top chip tool may be in China. ASML says it isn’t
 
-6月17日，爱玛黑翼品牌战略发布会在四川省体育馆盛大开启。体育馆化身爱玛黑翼玩家街区，潮流青年齐聚现场。爱玛黑翼以“全速热爱”为品牌主张，携爱玛黑翼S360电竞版、爱玛黑翼S360赛道版、爱玛黑翼S790赛博版三款车型重磅亮相，首位中国F1车手周冠宇以爱玛黑翼“全速领航员”身份在线助力品牌发布。爱玛黑翼的登场，标志着爱玛电动车在男性出行科技领域树立起全新坐标，正式构建起“他硬核”增长格局，向“时尚科技年轻品牌”全速进阶。 官方图片 运动产品线全新品类品牌 爱玛黑翼正式亮相 爱玛黑翼是爱玛旗下专为年轻男性打造的极速运动产品线品类品牌，为“纯粹热爱的城市探索玩家”而来，倡导“全速热爱”，锚定潮流新...
+There's a commercial logic that cuts against the idea that ASML would risk its export license to arm a Chinese customer.
 
-📎 [阅读原文](https://36kr.com/p/3858676671599881?f=rss)
-
----
-
-### 氪星晚报｜BilibiliWorld 2026成国内首个海外售票的综合性ACG展会；让AI走进千家万户，17项举措推进“人工智能+消费”发展；快舟十一号遥十三运载火箭发射成功
-
-大公司： 滴滴自动驾驶参加伦敦MOVE 2026大会 6月17至18日，MOVE 2026大会在英国伦敦召开，滴滴自动驾驶在会上分享了来自中国的自动驾驶落地实践。在AI技术方面，滴滴自动驾驶已实现L4级全栈核心技术的自主可控；硬件方面，与广汽埃安联合打造的新一代Robotaxi车型R2已于今年1月交付，正持续在广州和北京等地开展道路测试；在场景应用上，自去年四季度在广州、北京部分示范应用区域开启全天候载客测试以来，滴滴自动驾驶始终保持安全稳定的运行表现。 菜鸟：未来4个月将在全球交付4座大型攀爬机器人仓库 36氪获悉，6月18日，菜鸟副总裁、物流科技事业部总经理毕江华表示，菜鸟自研生产的攀爬机...
-
-📎 [阅读原文](https://36kr.com/p/3858015526704129?f=rss)
+📎 [阅读原文](https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/)
 
 ---
 
-### AI inference startup Baseten reportedly raising $1.5B months after its last mega-round
+### Telegram ban in India sparks a rush to VPNs, rival apps
 
-Startup Baseten is reportedly close to finalizing a $1.5 billion round at a $13 billion as the “inference gold rush" marches on.
+Telegram argues India should block specific content, not an entire platform used by millions.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/)
-
----
-
-### Snap spins off AI video team into new company, Dotmo, due to costs
-
-The Snapchat maker is spinning off yet another internal unit. Dotmo will be composed of current Snap staff who are leaving the social media company to focus on AI video development.
-
-📎 [阅读原文](https://techcrunch.com/2026/06/18/snap-spins-off-ai-video-team-into-new-company-dotmo-due-to-costs/)
+📎 [阅读原文](https://techcrunch.com/2026/06/18/telegram-ban-in-india-sparks-a-rush-to-vpns-rival-apps/)
 
 ---
 
-### OpenAI is bringing on some big guns in the lead-up to its IPO
+### Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M
 
-OpenAI is bulking up before its IPO, landing Transformer co-inventor Noam Shazeer from Google DeepMind and former Trump AI policy official Dean Ball in the same week.
+DeductiveAI, a startup that uses AI to catch and resolve bugs in software, was founded just three years ago.
 
-📎 [阅读原文](https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo/)
-
----
-
-### The AirPods Effect
-
-Article URL: https://www.theescapenewsletter.com/p/the-airpods-effect Comments URL: https://news.ycombinator.com/item?id=48592832 Points: 21 # Comments: 14
-
-📎 [阅读原文](https://www.theescapenewsletter.com/p/the-airpods-effect)
+📎 [阅读原文](https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/)
 
 ---
 
-### Zero-Touch OAuth for MCP
+### Norway greenlights first full-scale ship tunnel
 
-Article URL: https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/ Comments URL: https://news.ycombinator.com/item?id=48592163 Points: 44 # Comments: 10
+Article URL: https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel Comments URL: https://news.ycombinator.com/item?id=48596910 Points: 23 # Comments: 5
 
-📎 [阅读原文](https://blog.modelcontextprotocol.io/posts/enterprise-managed-auth/)
-
----
-
-### Show HN: Are You in the Weights?
-
-With more traffic moving off-web and into LLMs, I got curious about what traces we leave "in the weights". My design partner and I built a site in the past few weeks that checks recognition across frontier and small models. It queries many of them in parallel, clusters the responses, and tells you h...
-
-📎 [阅读原文](https://www.intheweights.com/)
+📎 [阅读原文](https://eandt.theiet.org/2026/06/18/norway-greenlights-world-s-first-full-scale-ship-tunnel)
 
 ---
 
-### FDA advisors unanimously vote to approve Moderna's mRNA after agency drama
+### Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28
 
-In February, a Trump official refused to review the vaccine.
+Article URL: https://www.jvm-weekly.com/p/project-valhalla-explained-how-a Comments URL: https://news.ycombinator.com/item?id=48595511 Points: 190 # Comments: 83
 
-📎 [阅读原文](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/)
-
----
-
-### As China looms, Taiwan makes more drones for defense and the US military
-
-Taiwan's drone spending plans for defense could also boost business overseas.
-
-📎 [阅读原文](https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/)
+📎 [阅读原文](https://www.jvm-weekly.com/p/project-valhalla-explained-how-a)
 
 ---
 
-### NASA asks Northrop Grumman to stop working on lunar HALO module
+### So You Want to Define a Well-Known URI
 
-"We are reassigning most affected employees across existing opportunities and programs."
+Article URL: https://mnot.net/blog/2026/well_known_uris Comments URL: https://news.ycombinator.com/item?id=48595331 Points: 81 # Comments: 41
 
-📎 [阅读原文](https://arstechnica.com/space/2026/06/nasas-1-1-billion-gateway-habitation-module-is-unlikely-to-be-used-for-something-else/)
+📎 [阅读原文](https://mnot.net/blog/2026/well_known_uris)
+
+---
+
+### As global warming threatens corals, scientists search for reefs that can take the heat
+
+Researchers say these coral strongholds may help repopulate more degraded reefs.
+
+📎 [阅读原文](https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/)
+
+---
+
+### A bold satellite rescue mission came together in record time, but will it work?
+
+"I consider this a success already, just from the fact that we're even going to try this."
+
+📎 [阅读原文](https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/)
+
+---
+
+### Microsoft discovers new lightweight backdoor that steals cryptocurrency
+
+Crypto Clipper spreads over USB and communicates over Tor.
+
+📎 [阅读原文](https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/)
 
 ---
 
@@ -240,4 +240,4 @@ Taiwan's drone spending plans for defense could also boost business overseas.
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:02 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
