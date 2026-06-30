@@ -1,2 +1,0 @@
-No international news available.
-
