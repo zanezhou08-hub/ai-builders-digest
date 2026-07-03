@@ -77,75 +77,83 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 独家｜清华系初创完成数亿元种子轮融资：我们不想被贴上「世界模型」的标签
+### 36氪 AI 工具测评，正在找第一批「抢跑者」
 
-文｜周鑫雨 编辑｜张雨忻 《长安的荔枝》，是 97 年清华博导李一鸣很喜欢的故事。 故事里，为了将“一日色变”的鲜荔枝从岭南运到长安，小吏李善德必须解决保鲜、驿站、路线、补给等一系列环环相扣的难题——没有这套完整系统，鲜荔枝寸步难行。 这个设定在唐朝的故事，在李一鸣眼中，却与当下的“世界模型”赛道，形成了巧妙的互文： Physical AI（物理AI）的场景、解决的问题，是“鲜荔枝”；为了达到“运送”的目的，从业者们同样需要构建一整套涵盖数据采集、模型研发、硬件部署的系统方案。 “世界模型的第一性原理，不是走什么技术路线，而是最终解决什么问题。”他告诉《智能涌现》，所谓的世界模型，只是“一匹运...
+我们是一群每天深度使用 AI 工具的人 最近我们碰到一个普遍现象💡 ：很多人在用 AI 工具时，容易陷入自己的信息茧房。 不同的人拿到同一个 AI 工具，产出能差出好几个量级。 不是不愿意用，可能是你缺一种灵感。 自己埋头苦干一个月毫无头绪的事情，三个人凑在一块儿交流一番便有了答案。 所以，我们想搭一个高密度碰撞的平台：小白能学到东西，资深使用者能看到更多可能。一起抢跑，跑得更快。主打共赢、利他。 加入流程 📍 「36氪 AI 工具测评·抢跑营」 感兴趣的伙伴们建联后，我们会先送你一份资料包。 为了更好的匹配大家的需求，我们会做人群筛选，通过筛选的，将进入「36氪 AI 工具测评·抢跑营。 进...
 
-📎 [阅读原文](https://36kr.com/p/3877109751803904?f=rss)
-
----
-
-### 硬氪首发 | 北航机器人所团队创业，首创智能变刚度关节，完成近亿元天使轮融资
-
-硬氪获悉，近期，航墨科技完成由中投万方、三贤科技、北航天汇、诚美资本、三合投资、常州金控的近亿元天使轮投资，德太资本担任长期战略融资顾问，此次融资主要用来产品研发和市场推广。 航墨科技成立于2022年，是一家专注于智能变刚度关节技术及消费级智能外骨骼的研发落地的高科技公司，核心技术来源于北京航空航天大学机器人所重点研发计划项目。 公司创始人代万辉是北航机器人所硕士、清华大学MBA，曾任北航机器人所863项目负责人，曾负责家用康复器械新零售业务，打造的“械药联动”新模式用户数过千万。CTO栾胜是北航博士及博士后，意大利博洛尼亚大学访问学者，长期从事机器人模组、医疗健康领域机器人及AI技术的研究。...
-
-📎 [阅读原文](https://36kr.com/p/3877060559433984?f=rss)
+📎 [阅读原文](https://36kr.com/p/3878412963508486?f=rss)
 
 ---
 
-### 硬氪首发 | 清华系芯片企业再获数千万融资，要以新技术突破AI算力瓶颈
+### 享道被困16%“平台税”
 
-硬氪获悉，硅基光子企业「灵动芯光」正式宣布完成数千万元天使++轮融资，本轮融资由磐霖资本领投、同方投资与深天使合作的子基金汇泽天诚跟投。 此次募集的资金将全部聚焦于芯片间光互联核心技术研发与产品落地，重点推进 SmartComb多波长密波光源的产品化及SmartPHY光I/O小芯粒的研发工作。 灵动芯光成立于2022年，是一家致力于硅基光子集成芯片设计与应用的高技术公司，主要面向物联网领域，关注分布式光纤传感、FMCW激光雷达及光I/O方向。 其创始人陈教授是清华大学电子工程系教授，曾担任清华大学信息光电子研究所副所长。2009年，陈教授在在麻省理工访学期间开启了硅基光子技术的研发工作，灵动芯...
+作者 | 张帆 编辑 | 黄绎达 2026年5月，背靠上汽集团的享道出行再次向港交所递交招股书，开启了第二次IPO冲刺。与2025年10月的首次递表相比，本次更新的核心在于补充了完整的2025年全年财务与运营数据。 透过这份招股书，享道试图向市场释放一个关键信号：盈利能力正在好转。 01 增长悖论：司机流失与单量增长的“剪刀差” 近年来，享道出行的营业收入规模在稳步扩张的同时，业绩表现及盈利能力的改善相对更为亮眼。数据显示，2023年至2025年，公司营收从57.18亿元增长至67.74亿元；净亏损则从6.04亿元大幅收窄至2.46亿元；整体毛利率更是从6.6%跃升至11.0%。 公司业绩的持...
 
-📎 [阅读原文](https://36kr.com/p/3877057215393793?f=rss)
+📎 [阅读原文](https://36kr.com/p/3878254740549638?f=rss)
+
+---
+
+### 秋声 | 净利从8.4亿跌到1987万，深圳光伏老兵靠储能再冲港股
+
+本文约3300字，建议阅读7分钟 作者 | 彭孝秋 编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第六期，古瑞瓦特。 上个月，古瑞瓦特第三次向港交所递交招股书。古瑞瓦特的IPO之路命运多舛，曾于2022年6月第一次递交，聆讯通过后未启动招股；2023年3月第二次递交，再次推迟上市。直到最近第三次递交，保荐人也从瑞信、中金换为华泰。 事实上，早在2017年，古瑞瓦特前身公司就曾...
+
+📎 [阅读原文](https://36kr.com/p/3878131056701447?f=rss)
+
+---
+
+### Yep, we’re using OpenClaw to date now
+
+Ben Guez has "a bunch of potential international wives in [his] DMs," thanks to an automated script he set up using OpenClaw, Claude code, and Instagram trials.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/)
+
+---
+
+### Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office
+
+Neo is Bhavin Turakhia’s fifth venture and his latest involving enterprise software. This time he's taking on Microsoft Office, Google Apps with AI.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/)
 
 ---
 
 ### Apple is reportedly planning new iPad Pro and MacBook Pro releases early next year
 
-Apple is readying several new iPad Pro tablets, and a budget-friendly MacBook Pro, reports suggest.
+Apple is readying several new iPad Pro tablets and a budget-friendly MacBook Pro, reports suggest.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/01/apple-is-reportedly-planning-new-ipad-pro-and-macbook-pro-releases-early-next-year/)
 
 ---
 
-### Bending Spoons defies SaaS slump, surges 40% on first day of trading
+### Vite+ Beta
 
-The company has grown rapidly by acquiring and revamping last-generation tech brands like AOL, Eventbrite, Evernote, Meetup, and Vimeo.
+Article URL: https://voidzero.dev/posts/announcing-vite-plus-beta Comments URL: https://news.ycombinator.com/item?id=48759761 Points: 4 # Comments: 0
 
-📎 [阅读原文](https://techcrunch.com/2026/07/01/bending-spoons-defies-saas-slump-surges-40-on-first-day-of-trading/)
-
----
-
-### After $18B IPO, Bending Spoons founder says success comes from minimizing luck
-
-The co-founders of Bending Spoons, the Italian company quietly buying beloved, ailing Internet brands, learned big lessons from their own startup's failure.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/01/after-18b-ipo-bending-spoons-founder-says-success-comes-from-minimizing-luck/)
+📎 [阅读原文](https://voidzero.dev/posts/announcing-vite-plus-beta)
 
 ---
 
-### Healthy but Sedentary People Show Early Decline in Cellular Energy Production
+### OpenAI: In early talks to give 5% stake to US Government
 
-Article URL: https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production Comments URL: https://news.ycombinator.com/item?id=48754155 Points: 28 # Comments: 13
+Article URL: https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman Comments URL: https://news.ycombinator.com/item?id=48759623 Points: 12 # Comments: 8
 
-📎 [阅读原文](https://news.cuanschutz.edu/news-stories/healthy-but-sedentary-individuals-show-early-decline-in-cellular-energy-production)
-
----
-
-### The Underhanded C Contest
-
-Article URL: https://underhanded-c.org/ Comments URL: https://news.ycombinator.com/item?id=48754080 Points: 19 # Comments: 2
-
-📎 [阅读原文](https://underhanded-c.org/)
+📎 [阅读原文](https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman)
 
 ---
 
-### Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance
+### Google loses fight over record $4.7B EU antitrust fine
 
-Article URL: https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/ Comments URL: https://news.ycombinator.com/item?id=48753979 Points: 16 # Comments: 7
+Article URL: https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html Comments URL: https://news.ycombinator.com/item?id=48758309 Points: 127 # Comments: 118
 
-📎 [阅读原文](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/)
+📎 [阅读原文](https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html)
+
+---
+
+### Editorial: It's time to step up and have your say for science
+
+Your comments on a dangerous rule putting politicals in charge of science can matter.
+
+📎 [阅读原文](https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/)
 
 ---
 
@@ -165,14 +173,6 @@ T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.
 
 ---
 
-### US home battery installations hit record high on rising electricity costs
-
-Record home battery installations unlock options for grids—and AI data centers.
-
-📎 [阅读原文](https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/)
-
----
-
 
 ---
 
@@ -182,4 +182,4 @@ Record home battery installations unlock options for grids—and AI data centers
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:05 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:08 GMT+8*
