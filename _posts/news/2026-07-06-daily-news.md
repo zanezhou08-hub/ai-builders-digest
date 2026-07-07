@@ -77,27 +77,43 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价
+### 氪星晚报｜佑驾创新正式发布四轮足机器人；千问大模型升级实时语音识别大模型Fun-ASR-Realtime
 
-今日热点导览 苹果Siri AI秋季上线，仅限iPhone 15 Pro及以上机型 蒋方舟再回应被清华教授指控论文造假 张雪称负债接近1亿元，本月将还清全部债务 黑石集团放弃全球最大数据中心项目，意味着该建设计划已宣告破产 印度政府：正调查苹果手机信息泄露事件 TOP3大新闻 7-11起诉耐克，指控其新鞋配色抄袭7-11标志性颜色 据报道，跨国连锁零售公司7-Eleven（7-11）已在美国得克萨斯州联邦法院起诉运动品牌耐克，指控该公司计划于7月11日推出的运动鞋抄袭了7-11便利店标志性的橙、绿、红三色条纹设计。 7-11在2日向法院提交的诉状中称，耐克即将推出的Air Max 95运动鞋采...
+大公司： 郭明錤爆料最新苹果折叠手机：出货量明显不足，或重现“饥饿营销” 知名分析师郭明錤分析指出，苹果可折叠iPhone预计2026年下半年出货，但初期供应可能不足。他称自己的行业调查显示，2026年下半年可折叠iPhone的组装出货量约为700万至800万部，第三季度出货量约为50万至100万部，约占苹果总出货量的10%。该产品价格可能在2300至2500美元左右，而供应限制将导致转售价格溢价50%至100%。他认为判断可折叠iPhone销售前景的关键在于2026年末至2027年第一季度。（财联社） 千问大模型升级实时语音识别大模型Fun-ASR-Realtime 36氪获悉，千问大模型正...
 
-📎 [阅读原文](https://36kr.com/p/3883400536453381?f=rss)
-
----
-
-### 鄂尔多斯、和达金服共同领投，「贻如科技」完成超亿元A轮融资｜36氪首发
-
-36氪获悉，生物基皮革公司「贻如科技」完成超亿元A轮融资，本轮融资由鄂尔多斯集团与和达金服共同领投，巢生资本跟投，易凯资本担任独家财务顾问。本轮资金将主要用于推动公司商业化开拓与产能建设，并依托AI技术加速生物基皮革的技术革新与产品迭代。 贻如科技成立于2021年，以合成生物学为底层技术，创造以生物基皮革为代表的新一代创新生物基材料——通过微生物发酵直接生产生物基树脂原料，经加工后制成皮革成品，实现碳排放降低80%以上、部分产品生产成本甚至低于传统油性PU产品、物理性能（耐磨、透气、柔韧）对标真皮水准，由此让大众消费品所需的高性能材料从石油基走向生物基。 2024年，贻如科技曾完成由星空资本领...
-
-📎 [阅读原文](https://36kr.com/p/3880060701388809?f=rss)
+📎 [阅读原文](https://36kr.com/p/3884024701874183?f=rss)
 
 ---
 
-### 硬氪首发 | 港大教授成立的忆生科技获数亿天使轮融资，致力于为机器人造一套记忆系统
+### 获DCM Ventures投资数百万美元，APTSell希望成为AI版的首席销售官｜涌现新项目
 
-作者 | 邱晓芬 编辑 | 袁斯来 硬氪获悉，「忆生科技」（TranscEngram）完成数亿元天使轮融资，本轮投资方阵容横跨产业资本与国资平台，包括正大旗下中生制药、浦东创投、张江科投、张江高科、弘信电子、云晖资本、沃肯资本、金舵资本等。 「忆生科技」致力于从科学第一性原理出发，用"感知—预测—交互"闭环构建机器人"大脑+小脑"统一系统，探索下一代可解释自主智能（Autonomous Intelligence）。 本轮融资资金将主要用于可解释具身控制大模型与物理世界模型的研发、多模态全人形动作交互数据和算法训练管线的建设、顶尖人才团队的扩充，以及深圳前海和上海张江研发中心与产业化基地的建设，...
+文｜吴思瑾 编辑｜邓咏仪 01 一句话介绍 北京治真治合科技有限公司成立于2024年，旗下产品「APTSell」（AI Power To Sales）希望成为AI版的CSO （Chief Sales Officer，首席销售官）。 简单来说，APTSell是一个组合式Agent，通过整合与可视化销售全流程数据，生成管理决策和执行建议，以期正向促进销售效率和业绩提升，反向降低对传统销售管理经验和岗位的依赖。 近期，APTSell宣布已经完成由DCM Ventures独家投资的数百万美元种子轮融资，该资金将用于产品技术的研发迭代，并积极开展深入的商业化合作。此前，APTSell还曾获得来自Atom...
 
-📎 [阅读原文](https://36kr.com/p/3882365879005186?f=rss)
+📎 [阅读原文](https://36kr.com/p/3883591654895873?f=rss)
+
+---
+
+### 36氪首发｜前西门子、罗罗电动飞行团队创业做航空电驱系统，两轮连融数千万元
+
+本文约3000字，建议阅读6分钟 作者 | 乔钰杰 编辑 | 袁斯来 硬氪获悉，开普动能航空技术有限责任公司（以下简称“开普动能”）近期连续完成种子轮及天使轮融资，两轮融资合计金额达数千万元人民币，由零以资本领投、新鼎资本跟投，唯快资本担任长期财务顾问。 随着eVTOL产业进入工程化阶段，航空电驱系统正成为产业链中技术壁垒最高的核心环节之一。作为电动飞行器“三电系统”的关键组成部分，航空电驱系统成本约占整机成本的30-40%，不仅需要兼顾高功率密度、高扭矩密度和高效率，还需满足极高的安全性、可靠性、可测试维护性等适航要求（包括多通道冗余设计、单点失效保护以及复杂热管理等能力），同时电机控制器的...
+
+📎 [阅读原文](https://36kr.com/p/3883721315971078?f=rss)
+
+---
+
+### Smart glasses maker Even Realities hits $1B valuation with $150M funding led by Meituan, Tencent
+
+Even Realities, an ex-Apple team building camera-free smart glasses, raised $150M from Meituan and Tencent at a $1B valuation.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/)
+
+---
+
+### This humanoid robotics company is going public, but its CEO isn’t promising a robot in your home anytime soon
+
+While other humanoid startups chase sky-high valuations, Agility Robotics is betting its future on execution — and a SPAC.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/05/this-humanoid-robotics-company-is-going-public-but-its-ceo-isnt-promising-a-robot-in-your-home-anytime-soon/)
 
 ---
 
@@ -109,43 +125,43 @@ Back in February, Uber announced ambitious plans to launch in seven new European
 
 ---
 
-### Trump memecoin investors lost $3.8 billion, analysis finds
+### C programmers commit fresh crimes against readability
 
-Nearly 1 million people have lost a total of $3.8 billion after buying President Donald Trump’s $TRUMP memecoin, while Trump made $636 million.
+Article URL: https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981 Comments URL: https://news.ycombinator.com/item?id=48803347 Points: 5 # Comments: 0
 
-📎 [阅读原文](https://techcrunch.com/2026/07/05/trump-memecoin-investors-lost-3-8-billion-analysis-finds/)
-
----
-
-### Amazon will stop accepting new customers for Mechanical Turk
-
-These may be the last days of Amazon’s Mechanical Turk.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/)
+📎 [阅读原文](https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981)
 
 ---
 
-### Connections in Math: the two kinds of random
+### "Software Engineering" Is Not Engineering
 
-Article URL: https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/ Comments URL: https://news.ycombinator.com/item?id=48799026 Points: 5 # Comments: 0
+Article URL: https://web.archive.org/web/20050615235108/http://www.geocities.com/tablizer/science.htm Comments URL: https://news.ycombinator.com/item?id=48803338 Points: 5 # Comments: 0
 
-📎 [阅读原文](https://stillthinking.net/posts/connections-in-math-two-kinds-of-random/)
-
----
-
-### DNSGlobe – Rust TUI to watch DNS propagate around the world
-
-Article URL: https://github.com/514-labs/dnsglobe Comments URL: https://news.ycombinator.com/item?id=48798313 Points: 13 # Comments: 10
-
-📎 [阅读原文](https://github.com/514-labs/dnsglobe)
+📎 [阅读原文](https://web.archive.org/web/20050615235108/http://www.geocities.com/tablizer/science.htm)
 
 ---
 
-### Composite Video on the NES: Why's it so wobbly?
+### How the U.S. Engineered Its Sovereignty
 
-Article URL: https://nicole.express/2026/phase-altering-by-line.html Comments URL: https://news.ycombinator.com/item?id=48798247 Points: 24 # Comments: 1
+Article URL: https://spectrum.ieee.org/us-engineered-sovereignty Comments URL: https://news.ycombinator.com/item?id=48802971 Points: 4 # Comments: 0
 
-📎 [阅读原文](https://nicole.express/2026/phase-altering-by-line.html)
+📎 [阅读原文](https://spectrum.ieee.org/us-engineered-sovereignty)
+
+---
+
+### Bentley teases its first EV, the Torcal
+
+The new model will be officially unveiled in late September.
+
+📎 [阅读原文](https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/)
+
+---
+
+### The Czinger 21C might be the wildest car we drive all year
+
+This hybrid V8 has organic-looking 3D-printed components and shatters lap records.
+
+📎 [阅读原文](https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/)
 
 ---
 
@@ -154,22 +170,6 @@ Article URL: https://nicole.express/2026/phase-altering-by-line.html Comments UR
 Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.
 
 📎 [阅读原文](https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/)
-
----
-
-### The missing 500 million: Cosmic bombardment melted Earth's first crust
-
-The heat of the Hadean may have come from impacts as well as the interior.
-
-📎 [阅读原文](https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/)
-
----
-
-### Review: Supergirl is not the disaster its low box office suggests
-
-It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.
-
-📎 [阅读原文](https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/)
 
 ---
 
@@ -182,4 +182,4 @@ It’s a pretty good movie, but it needed to be a great movie to thrive in an ov
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:06 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:05 GMT+8*
