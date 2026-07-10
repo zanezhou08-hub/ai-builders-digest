@@ -77,27 +77,43 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 8点1氪｜小米将发布澎程系列增程SUV；OpenAI首席未来学家宣布离职；张小龙辞任粉笔首席执行官、董事会主席
+### 2026年度「中国股权投资行业投资机构」系列名册正式发布
 
-今日热点导览 工信部：AI编程工具Claude Code存在安全后门隐患，危害严重 字节绩效规则调整：加大半年激励，加强字节范与领导力考核 沙特阿美大降价吸引亚洲买家，国际机构看空下半年油价 欧盟法院驳回苹果上诉，维持App Store和iOS“看门人”认定 摩根大通：投资者低估了特斯拉与SpaceX合并的潜在障碍 TOP3大新闻 小米汽车新产品系列命名为SKYNOMAD，雷军回复上市时间 7月8日，小米汽车官方微博发布主题为“SKYNOMAD”的海报，“SKY”指天空，“NOMAD”指游牧者，海报上带有小米品牌LOGO。据媒体报道，小米汽车首款增程式SUV将归属全新独立子品牌“SKYNOMA...
+Alpha will be made, not found。 麦肯锡在2026年初发布的全球私募市场报告中给出了一个精准的判断。Alpha（超额收益）不再是找到的，而是做出来的。持续走低的利率、不断膨胀的估值倍数、唾手可得的廉价融资，这些放大利润的旧杠杆们，在过去十年间逐一消失。以至于，全球封闭式PE募资在2025年同比下滑17%，亚太地区的跌幅接近一半。 中国市场的故事更加复杂。钱的源头变了，美元基金退潮之后，国资和产业资本接过了定价权，也接过了游戏规则的书写权。退出的通道也变了，PPT里的“多元化退出策略”，变成了真实发生的交易（至少是一部分GP不得不学会的新手艺）。 与此同时，主线变了。...
 
-📎 [阅读原文](https://36kr.com/p/3887648675133960?f=rss)
-
----
-
-### eVTOL 走向商业化，难点不只在“飞起来”
-
-低空经济的热度，很多时候是从一架飞行器开始的。 过去几年，eVTOL真机亮相、飞行汽车概念升温、低空航线试点、地方产业基金入场，让这个行业快速成为新兴产业里的高频词。相比传统无人机，eVTOL为代表的载人载货飞行器，显然承载了更大的想象力：它不仅指向低空物流、应急救援、城市治理，也指向未来城市空中交通、城际运输和立体出行。 这股热度背后，更值得关注的不是市场空间想象，而是产业正在从概念展示进入审定、取证和运行体系建设阶段。公开资料显示，国内无人驾驶、电动垂直起降等新技术快速突破，已完成19个无人驾驶航空器型号审定工作，在审新兴航空器型号数量超过70个。 与此同时，新修订的《中华人民共和国民用航...
-
-📎 [阅读原文](https://36kr.com/p/3886750049808389?f=rss)
+📎 [阅读原文](https://36kr.com/p/3888289009678854?f=rss)
 
 ---
 
-### 从跨境电商到AI大模型：一个旅欧10年90后女生的两次出海
+### 2026·Under36丨绕过旧答案的一代人
 
-20世纪50年代，“日本制造”对世界来说意味着低廉的价格和三流的产品。到70年代日本家电崛起，巅峰时期美国市场三成的彩电都是日本产品。80年代，丰田、本田、日产等日本汽车品牌接棒家电走向世界。再往后，日本动漫、游戏、音乐等文化娱乐产业开始向海外输出并成为支柱产业。 从廉价服装到二次元，日本输出海外的核心产品在过去七十年里换了好几轮，从侧面说明一国出海的主流产品从来不是固定的，会跟着国家的产业能力变迁。 这种变迁的剧本也正在今天中国出海人的身上重演。2015年，李露薇从宁波赴法留学。彼时国内大厂刚开始试水跨境电商业务，中国商品开始借助亚马逊、速卖通、eBay等线上渠道进入欧美市场，海运等跨境物流...
+为什么颠覆性的突破总是由年轻人完成？ 因为他们还没有被旧范式驯服。 几乎所有开创一种新范式、完成根本性发明的人，都有某种相似之处：他们要么足够年轻，要么刚刚进入那个即将被他们改写的领域。 1962年，科学哲学家托马斯·库恩在《科学革命的结构》中留下了这个观察。他当时谈论的是物理科学：哥白尼提出日心说时不到四十岁，牛顿发明微积分时二十三岁，爱因斯坦发表狭义相对论时二十六岁。 而库恩试图回答的问题是，为什么颠覆性的突破总是由年轻人完成？答案是简单而残酷的，因为他们还没有被旧范式驯服。 在整理完2026年度Under 36入选者的资料之后，我们很难不想起这个判断：新的范式不靠说服旧的人，而是靠一代新...
 
-📎 [阅读原文](https://36kr.com/p/3886574096265481?f=rss)
+📎 [阅读原文](https://36kr.com/p/3888279614274048?f=rss)
+
+---
+
+### 氪星晚报｜大众汽车管理层考虑2031年起关闭德国部分工厂；消息称三星晶圆代工部分制程涨价；国家超算互联网核心节点正式上线
+
+大公司： LG Innotek将在越南海防投资10亿美元新建半导体基板厂 据6月8日声明，LG集团子公司、韩国电子元件制造商LG Innotek已获得越南海防经济区管理委员会（HEZA）颁发的投资登记证，将投资10亿美元在海防自由贸易区内的DEEP C海防2工业园新建半导体基板制造基地。该厂预计占地约33公顷，计划今年三季度动工，预计明年四季度完工。 Waymo未来几周将在美国四个新城市推出无人驾驶出租车服务 Waymo周三宣布，将在未来几周内陆续在美国四个新城市推出无人驾驶出租车服务，进一步巩固其在本土市场对特斯拉和Zoox的领先优势。新增服务城市分别为圣迭戈、拉斯维加斯、佛罗里达州坦帕以及...
+
+📎 [阅读原文](https://36kr.com/p/3888230589152008?f=rss)
+
+---
+
+### Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund
+
+Nilekani remains Fundamentum's anchor investor as the firm expands its leadership team and targets AI and fintech startups in India.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/)
+
+---
+
+### Truecaller clashes with India’s telecom regulator over anti-spam rules
+
+The caller ID company says users are increasingly ignoring and blocking calls from India's dedicated business number series.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/08/truecaller-clashes-with-indias-telecom-regulator-over-anti-spam-rules/)
 
 ---
 
@@ -109,43 +125,35 @@ The saga of Musk's tussle with the SEC over how he disclosed his growing stake i
 
 ---
 
-### Lovable reportedly in talks to double its valuation to $13.2B
+### EU Parliament greenlights Chat Control 1.0 – Breyer: "Our children lose out"
 
-The $300 million round is expected to be led by Menlo Ventures, Sifted reported.
+Article URL: https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/ Comments URL: https://news.ycombinator.com/item?id=48843923 Points: 74 # Comments: 44
 
-📎 [阅读原文](https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/)
-
----
-
-### Feds demand autonomous vehicle companies stop interfering with first responders
-
-The National Highway Traffic Safety Administration said emergency scenes are not "edge cases."
-
-📎 [阅读原文](https://techcrunch.com/2026/07/08/feds-demand-autonomous-vehicle-companies-stop-interfering-with-first-responders/)
+📎 [阅读原文](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/)
 
 ---
 
-### John Deere owners will get the right to repair equipment under FTC settlement
+### Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75
 
-Article URL: https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02 Comments URL: https://news.ycombinator.com/item?id=48838876 Points: 17 # Comments: 2
+Article URL: https://www.bbc.com/news/articles/cg5pd9z2487o Comments URL: https://news.ycombinator.com/item?id=48843438 Points: 36 # Comments: 6
 
-📎 [阅读原文](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02)
-
----
-
-### Suspecting AI cheating, Ivy League prof ordered in-person final; scores fell 50%
-
-Article URL: https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/ Comments URL: https://news.ycombinator.com/item?id=48838611 Points: 40 # Comments: 15
-
-📎 [阅读原文](https://arstechnica.com/ai/2026/07/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/)
+📎 [阅读原文](https://www.bbc.com/news/articles/cg5pd9z2487o)
 
 ---
 
-### Rewriting Bun in Rust
+### My Thoughts on the Bun Rust Rewrite
 
-Article URL: https://bun.com/blog/bun-in-rust Comments URL: https://news.ycombinator.com/item?id=48837877 Points: 181 # Comments: 76
+Article URL: https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html Comments URL: https://news.ycombinator.com/item?id=48843352 Points: 192 # Comments: 120
 
-📎 [阅读原文](https://bun.com/blog/bun-in-rust)
+📎 [阅读原文](https://andrewkelley.me/post/my-thoughts-bun-rust-rewrite.html)
+
+---
+
+### Payloads used to dictate the terms of launch. That's finally changing.
+
+"The Starship Pez dispenser demonstrates very smart industrial design and scale."
+
+📎 [阅读原文](https://arstechnica.com/space/2026/07/rocket-developers-used-to-chase-satellite-trends-is-the-inverse-now-true/)
 
 ---
 
@@ -165,14 +173,6 @@ More young girls sue X over Grok CSAM; X accused of shielding child predators.
 
 ---
 
-### Judge rejects Kalshi attempt to override New York state gambling laws
-
-Kalshi tried to ignore gambling laws on its prediction market, NY governor says.
-
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/07/new-york-can-restrict-sports-gambling-on-prediction-markets-us-judge-rules/)
-
----
-
 
 ---
 
@@ -182,4 +182,4 @@ Kalshi tried to ignore gambling laws on its prediction market, NY governor says.
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:06 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:04 GMT+8*
