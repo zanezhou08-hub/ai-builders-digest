@@ -77,75 +77,75 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 斯年智驾获3亿元C轮融资，自动驾驶重卡赛道再升温｜36氪独家
+### 氪星晚报｜IDC：百度智能云蝉联中国金融大模型市场份额第一；腾讯云与RoboScience机器科学达成战略合作；商务部回应推动解决安世半导体问题进展
 
-自动驾驶重卡赛道，今年显著升温。 36氪独家获悉，斯年智驾近日已完成 3 亿元 C 轮融资，由兴证资本、颐道资本联合投资，资金将主要用于新一代车规级自动驾驶方案研发。 2026年1-6月，该赛道公开披露的融资已达5起，累计金额近70亿人民币，IPO动作也非常密集。资本热的背后，自动驾驶重卡在商业化层面逐渐拥有清晰的落地答案。港口、矿山、钢铁等封闭场景逐渐对无人重卡形成稳定需求，干线物流等开放场景也伴随政策开始逐渐落地，进入规模化前夜。 斯年智驾成立于2020年4月，是一家专注于重载物流领域无人驾驶技术研发与落地的公司，提供港口、园区、干线等多场景的自动驾驶解决方案。 目前，斯年智驾的商业模式呈...
+大公司： OPPO：realme新品将聚焦海外市场，中国市场暂停产品更新 36氪从OPPO方面获悉，为了进一步整合集团资源，实现全球产品战略的协同，未来 realme 新品将聚焦海外市场，在中国市场暂停产品更新；一加在中国市场的产品更新保持不变。realme和一加将持续在游戏和性能领域为用户提供优质的体验。 IDC：百度智能云蝉联中国金融大模型市场份额第一 36氪获悉，根据国际数据公司（IDC）最新发布的《中国金融行业生成式AI平台及应用解决方案市场份额，2025》报告，2025年中国金融行业生成式AI市场迎来爆发式增长，整体规模达到17.40亿元人民币，同比增速高达90.4%。在高速增长的赛...
 
-📎 [阅读原文](https://36kr.com/p/3895721094842249?f=rss)
-
----
-
-### 8点1氪丨国行苹果AI功能完成备案；三家共享单车上调起步价；知情人曝DeepSeek开始筹备IPO
-
-今日热点导览 澳洲将设AI办公室，限制数据中心能源消耗 巴菲特宣布8年内清仓伯克希尔股票 前高通自动驾驶工程副总裁将加入英伟达自动驾驶团队 长鑫科技：上市后仍将保持无实际控制人的控制权架构 谷歌参与建设美国最大太阳能项目，总规模达2.5GW TOP 3大新闻 阿里、百度分别为苹果智能提供AI相关能力支撑 36氪获悉，网信办公布7款端侧生成式AI服务备案，苹果“Apple智能”大模型7月8日完成备案。阿里千问将为苹果全系列国行设备提供文本、图像生成AI能力，百度则负责配套AI搜索功能，二者共同完善国内版苹果智能套件与Siri功能。 三家共享单车上调起步价，拉长基础骑行时长 近期，美团单车、滴滴青...
-
-📎 [阅读原文](https://36kr.com/p/3897553391978371?f=rss)
+📎 [阅读原文](https://36kr.com/p/3896564308379525?f=rss)
 
 ---
 
-### 独家｜面壁智能端侧大模型将搭载三星手机上市
+### 中专生拍出破亿爆款，影视圈边缘人靠AI改命丨深氪lite
 
-文｜邓咏仪 编辑｜张雨忻 杨轩 《智能涌现》独家获悉，端侧大模型公司面壁智能已与三星手机达成合作，其自主研发的MiniCPM系列端侧模型将搭载于三星手机上市，覆盖数款旗舰机型。 就在同一日，网信部门发布公告，包括“Apple智能”等7款提供手机端侧生成式人工智能服务完成备案。 公告显示，Apple智能、华为小艺AI大模型、OPPO Andes GPT、vivo蓝心端侧大模型、小米澎湃AI、三星盖乐世AI以及努比亚豆包手机大模型共7款服务完成备案。 大模型浪潮来临后，端侧AI一直处于技术探索和萌芽期。此次七款手机端侧AI同日获批，是业界的重要里程碑——端侧AI不再是概念演示，进入了规模化落地阶段...
+“AI改了我的命” AI时代的精英叙事里，出现了草根翻身的故事。 5月，来自云南玉溪地产行业的中专生刘梓瑜，创作出了全网播放破亿的《丧尸清道夫》，被称为“国产爱死机”。他因此收到了好莱坞制作人的跨洋Offer。这部短片配有英文字幕，但一位接触过刘梓瑜的从业者表示，他的英语并不好，甚至“不会翻墙”。 一个月后，97年出生的刘梓瑜在抖音电影奇遇夜上被评为“抖音新锐未来导演”，在他的账号下，一位名为“AAA云还路**建材批发发哥”的网友评论道，“牛逼，也是登上AIGC这艘诺亚方舟了，什么时候我们这些打工仔也能翻身。”后面跟了一个大哭的表情。 《丧尸清道夫》海报，图片源自刘梓瑜小红书账号 同样“翻身”...
 
-📎 [阅读原文](https://36kr.com/p/3896830362601351?f=rss)
-
----
-
-### Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic
-
-Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/)
+📎 [阅读原文](https://36kr.com/p/3898151587890824?f=rss)
 
 ---
 
-### Tesla driver in fatal Texas crash pressed accelerator 100%, NTSB confirms
+### 大厂医疗AI战，开始“卷”减重
 
-The safety board confirmed Tesla's account of the crash, which the company shared days after it happened last month.
+文｜胡香赟 编辑｜海若镜 互联网大厂做医疗AI，越来越偏爱“减重”场景。 近日，蚂蚁集团宣布投资薄荷健康，持股比例超28%，成为薄荷健康最大外部股东。薄荷健康成立于2008年，这家互联网医疗公司通过为用户提供饮食记录、科学减重方案等，聚拢了超2亿用户，收录160万条食物数据条目。 2021年，薄荷健康完成D轮融资，估值为20亿人民币。本次投资，据接近交易人士介绍，“从战投角度来做，蚂蚁整体投资金额为数亿人民币，价格比较合理”。关于对价，蚂蚁方面并未回应。 据36氪了解，薄荷健康的主要收入来源包括食品、功效产品等电商销售，会员付费。近两年，在严肃医疗场景，薄荷健康与减重创新药企、CRO公司的合作...
 
-📎 [阅读原文](https://techcrunch.com/2026/07/15/tesla-driver-in-fatal-texas-crash-pressed-accelerator-100-ntsb-confirms/)
-
----
-
-### Daniel Ek’s body-scanning startup Neko Health raises another $700M
-
-Neko Health has developed proprietary body-scanning technology, which it couples with bloodwork, to assess a person's health.
-
-📎 [阅读原文](https://techcrunch.com/2026/07/15/daniel-eks-body-scanning-startup-neko-health-raises-another-700m/)
+📎 [阅读原文](https://36kr.com/p/3896639942592134?f=rss)
 
 ---
 
-### Show HN: One More Letter
+### Ultrahuman’s former hardware VP raises $5.5M for devices that control AI agents, not just record you
 
-Article URL: https://playonemoreletter.com/ Comments URL: https://news.ycombinator.com/item?id=48928402 Points: 10 # Comments: 5
+Aina is going to pilot a new device in the coming weeks.
 
-📎 [阅读原文](https://playonemoreletter.com/)
-
----
-
-### Nul Characters in Strings in SQLite
-
-Article URL: https://sqlite.org/nulinstr.html Comments URL: https://news.ycombinator.com/item?id=48928343 Points: 8 # Comments: 0
-
-📎 [阅读原文](https://sqlite.org/nulinstr.html)
+📎 [阅读原文](https://techcrunch.com/2026/07/16/ultrahumans-former-hardware-vp-raises-5-5m-for-devices-that-control-ai-agents-not-just-record-you/)
 
 ---
 
-### Metal-Organic Frameworks, Chemistry's New Miracle Materials
+### Meta now alerts parents if their teen discussed suicide or self-harm with its AI chatbot
 
-Article URL: https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials Comments URL: https://news.ycombinator.com/item?id=48928313 Points: 18 # Comments: 5
+The updates come as Meta and other tech companies are facing scrutiny from regulators and parents around how AI chatbots respond to users in crisis, particularly teenagers.
 
-📎 [阅读原文](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials)
+📎 [阅读原文](https://techcrunch.com/2026/07/16/meta-now-alerts-parents-if-their-teen-discussed-suicide-or-self-harm-with-its-ai-chatbot/)
+
+---
+
+### Phone maker OnePlus says it won’t release new phones in the U.S. and Europe
+
+OnePlus could also wind down its operations in India by 2027.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/16/phone-maker-oneplus-reportedly-plans-to-wind-down-us-and-europe-operations/)
+
+---
+
+### OnePlus halts operations in USA and Europe
+
+Article URL: https://community.oneplus.com/thread/2170715118587871237 Comments URL: https://news.ycombinator.com/item?id=48932539 Points: 79 # Comments: 38
+
+📎 [阅读原文](https://community.oneplus.com/thread/2170715118587871237)
+
+---
+
+### Where are YC founders now? OpenAI and Anthropic, mostly
+
+Article URL: https://joinedanthropic.com Comments URL: https://news.ycombinator.com/item?id=48931588 Points: 87 # Comments: 22
+
+📎 [阅读原文](https://joinedanthropic.com)
+
+---
+
+### Netstrings (1997)
+
+Article URL: https://cr.yp.to/proto/netstrings.txt Comments URL: https://news.ycombinator.com/item?id=48930713 Points: 23 # Comments: 11
+
+📎 [阅读原文](https://cr.yp.to/proto/netstrings.txt)
 
 ---
 
@@ -182,4 +182,4 @@ The convenience store chain will use StorMagic instead.
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:04 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:04 GMT+8*
