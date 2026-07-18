@@ -77,33 +77,41 @@ A high-level international advisory body applauded China's efforts to improve th
 
 ## 💼 财经科技
 
-### 商汤001号员工创办AI公司：将AI角色引擎做成护城河，获种子轮融资 | 36氪首发
+### 对话森博科技董事长于林义：AI应用拼的不只是技术，更是实证有效的业务闭环
 
-文丨刘士武 36氪游戏获悉， AI 角色硬件公司酷奇奇科技（Coolqq.com）已完成数千万元种子轮融资，本轮融资由上海浦东人工智能种子基金领投，商汤科技、零以创投跟投。云杉资本Spruce Capital担任长期独家财务顾问。 酷奇奇创办于2025年，创始人徐持衡是商汤科技001号员工，师从汤晓鸥教授，与团队共同开发的人脸识别技术，是商汤科技早期最重要的技术里程碑之一。此外， 他曾在灵宇宙担任CTO，带领AI教育产品“Ling”从概念落地到完整实现。 酷奇奇现阶段的核心产品「CookiePi 角色互动伙伴」是一款分布式多端互动产品：多个AI互动伙伴融入家居各处，主动探索，能陪用户聊天，也能...
+7月17日，2026世界人工智能大会在上海开场。作为36氪连续第三年深入WAIC现场的重要内容窗口，「氪话未来」直播间也在大会首日同步开启现场对话。森博科技董事长于林义在WAIC现场接受36氪「氪话未来」特邀专访，围绕企业级AI、智能体落地、行业know-how与业务闭环等话题，分享了森博从营销服务公司转向AI驱动科技服务公司的实践路径。 本届WAIC以“智能伙伴，共创未来”为主题。相比过去几年行业对模型能力、参数规模和Demo效果的集中关注，2026年的AI产业讨论正在明显后移：企业更关心AI能否进入真实流程，能否承担具体任务，能否被业务结果验证。换句话说，AI不再只是一个“会回答”的工具，...
 
-📎 [阅读原文](https://36kr.com/p/3898370289846153?f=rss)
-
----
-
-### 氪星晚报｜IDC：百度智能云蝉联中国金融大模型市场份额第一；腾讯云与RoboScience机器科学达成战略合作；商务部回应推动解决安世半导体问题进展
-
-大公司： OPPO：realme新品将聚焦海外市场，中国市场暂停产品更新 36氪从OPPO方面获悉，为了进一步整合集团资源，实现全球产品战略的协同，未来 realme 新品将聚焦海外市场，在中国市场暂停产品更新；一加在中国市场的产品更新保持不变。realme和一加将持续在游戏和性能领域为用户提供优质的体验。 IDC：百度智能云蝉联中国金融大模型市场份额第一 36氪获悉，根据国际数据公司（IDC）最新发布的《中国金融行业生成式AI平台及应用解决方案市场份额，2025》报告，2025年中国金融行业生成式AI市场迎来爆发式增长，整体规模达到17.40亿元人民币，同比增速高达90.4%。在高速增长的赛...
-
-📎 [阅读原文](https://36kr.com/p/3896564308379525?f=rss)
+📎 [阅读原文](https://36kr.com/p/3899556701128578?f=rss)
 
 ---
 
-### 中专生拍出破亿爆款，影视圈边缘人靠AI改命丨深氪lite
+### 2026最受投资人关注人工智能/具身智能企业50揭晓
 
-“AI改了我的命” AI时代的精英叙事里，出现了草根翻身的故事。 5月，来自云南玉溪地产行业的中专生刘梓瑜，创作出了全网播放破亿的《丧尸清道夫》，被称为“国产爱死机”。他因此收到了好莱坞制作人的跨洋Offer。这部短片配有英文字幕，但一位接触过刘梓瑜的从业者表示，他的英语并不好，甚至“不会翻墙”。 一个月后，97年出生的刘梓瑜在抖音电影奇遇夜上被评为“抖音新锐未来导演”，在他的账号下，一位名为“AAA云还路**建材批发发哥”的网友评论道，“牛逼，也是登上AIGC这艘诺亚方舟了，什么时候我们这些打工仔也能翻身。”后面跟了一个大哭的表情。 《丧尸清道夫》海报，图片源自刘梓瑜小红书账号 同样“翻身”...
+人工智能正在进入一个新的产业周期。 过去一年，大模型能力持续演进，生成式AI、多模态交互、智能体等技术方向快速推进；而具身智能也从早期的技术探索阶段，逐渐步入产业验证的深水区，机器人开始成为人工智能与现实世界的重要载体。 市场率先给出了回应。据36氪研究院测算，中国具身智能市场规模已从2018年的2133亿元增长至2025年的9150亿元，2026年有望突破万亿关口。IT桔子数据显示，2026上半年具身智能融资总金额达到935亿元，较2025上半年提升近5倍，投融资事件达到322起，同比增长137%。 但硬币的另一面同样刺眼。智源研究院在《2026十大AI技术趋势》中直言，具身智能创业公司业务...
 
-📎 [阅读原文](https://36kr.com/p/3898151587890824?f=rss)
+📎 [阅读原文](https://36kr.com/p/3899597215745664?f=rss)
+
+---
+
+### 最前线｜中科天塔星载激光通信终端智能产线投产，一期年产能规划600套
+
+随着低轨卫星星座建设提速，卫星之间需要传输的数据量持续增长，星间激光通信正成为卫星互联网的重要基础设施。相比传统微波通信，激光通信具备更高带宽、更低时延以及更强抗干扰能力，已成为大型卫星星座组网的重要技术方向。 7月16日，中科天塔星载激光通信智能产线正式在西安投产，一期规划年产能600套，公司计划到2027年将年产能提升至千套以上。 据中科天塔总经理曾伟刚介绍，此次投产的智能产线占地约2000平方米，位于西安高新区曲率引擎光子制造园，覆盖零部件装调、整机集成、精密调试、空间环境模拟及自动化检测等生产环节，并配套数字化管理系统和自动化测试平台，可同步完成多台设备性能检测，并通过智能系统辅助进行...
+
+📎 [阅读原文](https://36kr.com/p/3899439565325953?f=rss)
+
+---
+
+### Why the first GPU financiers are turning to inference chips in a $400 million deal
+
+A $400 million chip-backed loan points to the next wave of AI infrastructure deals.
+
+📎 [阅读原文](https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/)
 
 ---
 
 ### San Francisco mayor pushes for tougher rules after the Waymo traffic fiasco
 
-In the wake of a massive hours-long gridlock event, San Francisco Mayor Daniel Lurie has told state regulators its time to put more requirements on robotaxi operators like Waymo.
+In the wake of a massive hours-long gridlock event, San Francisco mayor Daniel Lurie has told state regulators it's time to put more requirements on robotaxi operators like Waymo.
 
 📎 [阅读原文](https://techcrunch.com/2026/07/16/san-francisco-mayor-pushes-for-tougher-rules-after-the-waymo-traffic-fiasco/)
 
@@ -117,35 +125,35 @@ The company didn't immediately say what went wrong. SpaceX's stock plunged more 
 
 ---
 
-### Coca-Cola suspended production at its Fairlife dairy after a ransomware attack
+### Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize
 
-Coca Cola said dairy production at its Fairlife unit will "remain suspended" in the United States following a hack.
+Article URL: https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423 Comments URL: https://news.ycombinator.com/item?id=48946010 Points: 73 # Comments: 10
 
-📎 [阅读原文](https://techcrunch.com/2026/07/16/coca-cola-suspended-production-at-its-fairlife-dairy-after-a-ransomware-attack/)
-
----
-
-### My car's OTA update broke Android Auto, and it's a indictment of modern software
-
-Article URL: https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/ Comments URL: https://news.ycombinator.com/item?id=48941129 Points: 84 # Comments: 87
-
-📎 [阅读原文](https://imdanielkendall.com/the-great-software-regress-how-move-fast-and-break-things-broke-our-lives/)
+📎 [阅读原文](https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423)
 
 ---
 
-### Show HN: Mojibake – a low-level Unicode library written in C
+### Ask HN: Any AWS billing issues known? Amazon forecast of 3 billion dollars
 
-I've written Mojibake because I don't like the other Unicode libraries for Unicode support.It consists of only two amalgamation files: mojibake.h and mojibake.c. I've added all the most important Unicode algorithms, such as normalization, case conversion, segmentation, bidirectional text, collation,...
+I receive an AWS Budgets alert that my budget is exceeding the alert threshold. Threshold is 5$. Forecasted amount is listed as $3,005,575,870.47. (Yepp, right, that’s 3 billion dollars.) I haven't even used AWS actively in the last year, but AWS console lists the amount as stated above. No feedback...
 
-📎 [阅读原文](https://mojibake.zaerl.com/)
+📎 [阅读原文](https://news.ycombinator.com/item?id=48945681)
 
 ---
 
-### The Little Book of Reinforcement Learning
+### Just got an AWS billing alert projecting my monthly cost at $140B
 
-Article URL: https://github.com/alxndrTL/little-book-rl/ Comments URL: https://news.ycombinator.com/item?id=48941104 Points: 30 # Comments: 3
+This has to be a bug. My usual monthly S3 bill is only $2–3. Has anyone else received a strange billing estimate today?https://prnt.sc/UqjcYD3RSQrS Comments URL: https://news.ycombinator.com/item?id=48945606 Points: 56 # Comments: 34
 
-📎 [阅读原文](https://github.com/alxndrTL/little-book-rl/)
+📎 [阅读原文](https://news.ycombinator.com/item?id=48945606)
+
+---
+
+### SpaceX scrubs Starship launch after some of its engines didn't start
+
+"Now offloading propellant. Next launch attempt hopefully in a few days."
+
+📎 [阅读原文](https://arstechnica.com/space/2026/07/spacex-scrubs-starship-launch-after-some-of-its-engines-didnt-start/)
 
 ---
 
@@ -165,14 +173,6 @@ Resellers threatened to ditch HP printing supplies for counterfeits.
 
 ---
 
-### T-Mobile bungled forced plan migration, canceling some users' free lines
-
-T-Mobile to restore free lines lost during plan migration, but price hikes remain.
-
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/07/t-mobile-bungled-forced-plan-migration-canceling-some-users-free-lines/)
-
----
-
 
 ---
 
@@ -182,4 +182,4 @@ T-Mobile to restore free lines lost during plan migration, but price hikes remai
 - 🇨🇳 国内: 8 篇
 - 💼 科技: 12 篇
 
-*Generated by OpenClaw News Aggregator at 08:05 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:04 GMT+8*
