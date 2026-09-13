@@ -11,27 +11,27 @@ section: news
 
 ## 🌍 国际新闻
 
-### Anthropic boss Dario Amodei calls for AI development to slow down
+### AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC
 
-The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.
+It comes as the AI firm's boss has called for the technology's development to be slowed down, citing "serious" risks.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### Will the Thirlwall report change the debate about Lucy Letby?
-
-The inquiry into the former nurse is expected to find failures by her hospital to ensure patient safety.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c2e0jg10dkdo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Trump's comments on a united Ireland may have targeted audience across the Atlantic
+### Reform's £72m donations 'entirely in line with law', Jenrick says
 
-Nobody could have predicted that today's main global headline would be Trump's desire to see a unified Ireland.
+The government is trying to change the law on donations to UK political parties from British expats.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwyzppd1d5lo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ckgwkeg1vy8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 'Slim chance' government will hit 1.5m new homes target, Rayner tells BBC
+
+High construction costs and the Iran war are threatening the key manifesto pledge, the housing secretary says.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cgqdlw0x092o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -43,27 +43,27 @@ CNN political contributor Maggie Haberman explains the reasoning behind Donald T
 
 ---
 
-### Alexander Zverev vs Ben Shelton: US Open men’s singles final – all to know
+### Fighting continues between Yemen gov’t forces, Houthis: What is the latest?
 
-Ben Shelton faces Alexander Zverev in the US final, hoping to end a 23-year drought in Grand Slams for American men.
+Government forces and Saudi Arabia carry out air attacks to stop Houthis' advance as thousands displaced by conflict.
 
-📎 [阅读原文](https://www.aljazeera.com/sports/2026/9/12/ben-shelton-alexander-zverev-us-open-2026-men-final-singles?traffic_source=rss)
-
----
-
-### Elena Rybakina defeats Aryna Sabalenka in US Open women’s singles final
-
-The cool Kazakh lifts the trophy after frustrating Sabalenka in a 6-4, 7-5, 6-2 win in New York as the new world No 1.
-
-📎 [阅读原文](https://www.aljazeera.com/sports/2026/9/12/elena-rybakina-defeats-aryna-sabalenka-in-us-open-womens-singles-final?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/9/13/fighting-continues-between-yemen-govt-forces-houthis-what-is-the-latest?traffic_source=rss)
 
 ---
 
-### Arteta seethes at Sunderland penalty decision despite Arsenal win
+### Israeli attack on Gaza kills two Palestinians
 
-Arsenal maintain perfect start to the season with their fourth win, thanks to goals from Guimaraes and Saka.
+Israeli strikes on Palestinian territory persist despite a 'ceasefire' brokered by the United States.
 
-📎 [阅读原文](https://www.aljazeera.com/sports/2026/9/12/arteta-seethes-at-sunderland-penalty-decision-despite-arsenal-win?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/9/13/israeli-attack-on-gaza-kills-two-palestinians?traffic_source=rss)
+
+---
+
+### A kingdom within a republic: Inside Uganda’s Buganda
+
+The kingdom’s traditions and institutions have endured through colonial rule, independence and decades of upheaval.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/9/13/a-kingdom-within-a-republic-inside-ugandas-buganda?traffic_source=rss)
 
 ---
 
@@ -135,30 +135,6 @@ Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to
 
 ---
 
-### Killing with a car costs $1.6M, California requires drivers to carry $30K
-
-Article URL: https://maxmautner.com/2026/09/11/liability-coverage.html Comments URL: https://news.ycombinator.com/item?id=49677836 Points: 27 # Comments: 20
-
-📎 [阅读原文](https://maxmautner.com/2026/09/11/liability-coverage.html)
-
----
-
-### StarCraft returns in 2030 as an open-world shooter
-
-Article URL: https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter Comments URL: https://news.ycombinator.com/item?id=49677715 Points: 32 # Comments: 30
-
-📎 [阅读原文](https://www.theverge.com/games/994371/starcraft-returns-in-2030-as-an-open-world-shooter)
-
----
-
-### Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases
-
-Article URL: https://withspecific.com/benchmarks/real-swe Comments URL: https://news.ycombinator.com/item?id=49676820 Points: 74 # Comments: 50
-
-📎 [阅读原文](https://withspecific.com/benchmarks/real-swe)
-
----
-
 ### I spent $4,000 on a robot dog from China
 
 Unitree might be the world’s most important robotics company.
@@ -186,10 +162,10 @@ Simple games gain rich strategies in the face of noise.
 
 ---
 
-📊 **今日摘要**: 21 篇精选文章
+📊 **今日摘要**: 18 篇精选文章
 
 - 🌍 国际: 7 篇
 - 🇨🇳 国内: 5 篇
-- 💼 科技: 9 篇
+- 💼 科技: 6 篇
 
-*Generated by OpenClaw News Aggregator at 08:01 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
