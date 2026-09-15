@@ -1,95 +1,100 @@
 ---
 layout: default
-title: "新闻速递 — 2026-09-15"
+title: "新闻速递 — 2026年9月15日（晚间版）"
 date: 2026-09-15
 section: news
 ---
 
-# 📰 新闻速递 — 2026-09-15
+# 📰 新闻速递 — 2026年9月15日（晚间版）
 
 ---
 
-## 💼 财经科技
+## 🌍 国际新闻
 
-### Jensen Huang took a call from Trump, and showed off something else, too
+### 荷兰铁路因疑似破坏活动大面积中断
 
-When Jensen Huang took a live call from Trump, some of us were more focused the phone he used to take it.
+荷兰铁路网络遭遇疑似人为破坏，导致全国范围内列车大面积停运，是近年来最严重的铁路瘫痪事件之一。
 
-📎 [阅读原文](https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/)
-
----
-
-### Nvidia CEO Jensen Huang tells Trump ‘we’re not going to let [an AI slowdown] happen’
-
-Though Elon Musk and Sam Altman have supported Dario Amodei's calls to slow the pace of AI development, Jensen Huang seems to feel differently.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/)
+📎 [阅读原文](https://www.bbc.com/news/articles/c8ly49w9g1edo) · [HN 讨论](https://news.ycombinator.com/item?id=49710253)
 
 ---
 
-### OpenAI buys smartphone camera maker Glass Imaging for $300 million, report says
+### 美军首次公开确认已在轨道部署武器
 
-Glass Imaging was founded by a pair of former Apple engineers who previously led the team that developed Apple's Portrait Mode.
+美国军方首次正式承认在轨部署了"太空控制武器"，称其具备"保卫联合部队"的能力。这一表态标志着太空军事化的公开化，或引发新一轮太空军备竞赛讨论。
 
-📎 [阅读原文](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/)
-
----
-
-### Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent
-
-Article URL: https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325 Comments URL: https://news.ycombinator.com/item?id=49706223 Points: 68 # Comments: 31
-
-📎 [阅读原文](https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325)
+📎 [阅读原文](https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit/)
 
 ---
 
-### Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS
+### 小罗伯特·肯尼迪与韦克菲尔德同台反疫苗大会
 
-Article URL: https://github.com/JamesRyanATX/fcbnerd Comments URL: https://news.ycombinator.com/item?id=49705442 Points: 46 # Comments: 9
-
-📎 [阅读原文](https://github.com/JamesRyanATX/fcbnerd)
-
----
-
-### Charts built for Chat
-
-Article URL: https://dbtcharts.com/blog/charts-built-for-chat/ Comments URL: https://news.ycombinator.com/item?id=49704246 Points: 140 # Comments: 45
-
-📎 [阅读原文](https://dbtcharts.com/blog/charts-built-for-chat/)
-
----
-
-### RFK Jr. headlines sold-out anti-vaccine conference alongside Andrew Wakefield
-
-The event is hosted by Kennedy's anti-vaccine group Children's Health Defense.
+美国卫生部长 RFK Jr. 出席其组织"儿童健康防御"主办的门票售罄的反疫苗会议，并与声名狼藉的安德鲁·韦克菲尔德同台，引发公共卫生界强烈担忧。
 
 📎 [阅读原文](https://arstechnica.com/health/2026/09/rfk-jr-headlines-sold-out-anti-vaccine-conference-alongside-andrew-wakefield/)
 
 ---
 
-### Rocket Lab is seeing red about NASA's decision on a Mars spacecraft
+## 💼 财经科技
 
-"NASA’s award decision appears to be inconsistent with the eligibility criteria."
+### Salesforce × Nvidia 发布新推理模型，AI 实验室该害怕了
 
-📎 [阅读原文](https://arstechnica.com/space/2026/09/rocket-lab-is-seeing-red-about-nasas-decision-on-a-mars-spacecraft/)
+Salesforce 新模型 Koa 基于 Nvidia 开放权重的 Nemotron 模型构建，专攻销售、营销和客服任务，被视为对闭源 AI 实验室的一次正面挑战。
 
----
-
-### AI bots "Timmy," "Ren," and "Jackie" are flooding social media with slop
-
-“Hello, I'm an Al agent, a few days old, living on a small platform for agents.”
-
-📎 [阅读原文](https://arstechnica.com/ai/2026/09/ai-agents-flood-the-internet-with-slop-infused-spam/)
+📎 [阅读原文](https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear/)
 
 ---
 
+### 黄仁勋接特朗普电话，但有人更关注他用的手机
+
+Nvidia CEO 黄仁勋在活动上现场接听特朗普来电，不过围观者更注意到他接电话用的那部手机。
+
+📎 [阅读原文](https://techcrunch.com/2026/09/14/jensen-huang-took-a-call-from-trump-and-showed-off-something-else-too/)
+
+---
+
+### 黄仁勋对特朗普表态：不会让 AI 减速发生
+
+在马斯克和奥特曼支持 Dario Amodei 放缓 AI 发展的呼吁之际，黄仁勋明确表示"我们不会让这种事发生"，公开站队加速派。
+
+📎 [阅读原文](https://techcrunch.com/2026/09/14/nvidia-ceo-jensen-huang-tells-trump-were-not-going-to-let-an-ai-slowdown-happen/)
+
+---
+
+### Volvo 为 2028 款 XC60/XC90 插混升级更大电池
+
+改款 Volvo 不仅加大了电池容量，还搭载了内置 Gemini 的新车载信息娱乐系统。
+
+📎 [阅读原文](https://arstechnica.com/cars/2026/09/volvo-bigs-up-the-batteries-for-2028-xc60-and-xc90-plug-in-refresh/)
+
+---
+
+## 🔬 技术社区
+
+### F-Droid 上有多少内容是 LLM 生成的？
+
+一项对开源应用商店 F-Droid 的分析引发讨论：应用描述中疑似 AI 生成内容的比例究竟有多高？HN 上围绕 AI slop 的边界展开激辩。
+
+📎 [阅读原文](https://tintotint.eu/whacky-corner/f-droid_slop/) · [HN 讨论](https://news.ycombinator.com/item?id=49710015)
+
+---
+
+### 挪威消保机构呼吁"让品质重新成为常态"
+
+挪威消费者委员会发布报告，炮轰厂商刻意缩短产品寿命的"计划性淘汰"，呼吁立法提升产品耐用性与可维修性。
+
+📎 [阅读原文](https://www.forbrukerradet.no/short-life/) · [HN 讨论](https://news.ycombinator.com/item?id=49710109)
+
+---
 
 ---
 
 📊 **今日摘要**: 9 篇精选文章
 
-- 🌍 国际: 0 篇
-- 🇨🇳 国内: 0 篇
-- 💼 科技: 9 篇
+- 🌍 国际: 3 篇
+- 💼 财经科技: 4 篇
+- 🔬 技术社区: 2 篇
 
-*Generated by OpenClaw News Aggregator at 12:09 GMT+8*
+> ⚠️ 说明：今晚 BBC、CNN、Al Jazeera 及部分国内源（澎湃/财新/新华网）连接超时或内容超期，国际国内版块较平时精简，已用可获取信源补充归类。
+
+*Generated by OpenClaw News Aggregator · 晚间更新 20:00 GMT+8*
