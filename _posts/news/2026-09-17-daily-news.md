@@ -1,95 +1,139 @@
 ---
 layout: default
-title: "新闻速递 — 2026-09-17"
+title: "新闻速递 — 2026年09月17日"
 date: 2026-09-17
 section: news
 ---
 
-# 📰 新闻速递 — 2026-09-17
+# 📰 新闻速递 — 2026年09月17日（晚间版）
+
+---
+
+## 🌍 国际新闻
+
+### 联合国调查发现：有理由相信美国参与了伊朗学校轰炸事件
+
+联合国调查团周四表示，有理由相信美国军方参与了伊朗学校轰炸暴行。事件引发国际社会高度关注，相关调查仍在推进中。
+
+📎 [阅读原文](https://www.theguardian.com/world/2026/sep/17/iran-school-bombing-un-mission-us-military-behind-attack)
+
+---
+
+### 爱知·名古屋亚运会精打细算："经济账"成关键词
+
+从运动员住宿"拼盘"安排到赛场布置"散装"化，本届名古屋亚运会在各个环节厉行节约，硬抠"经济账"，与历届大赛的铺张形成鲜明对比。
+
+📎 [阅读原文](https://www.chinanews.com.cn/gj/2026/09-17/10698419.shtml)
+
+---
+
+### 中企提供核心设备 摩洛哥标杆型大型储能项目并网
+
+摩洛哥绿色能源公司在本盖里尔矿区正式并网该国标杆型大型磷酸铁锂电池储能系统，核心设备由中国企业远景能源提供，是中国储能技术出海的又一标志性项目。
+
+📎 [阅读原文](https://www.chinanews.com.cn/cj/2026/09-17/10698408.shtml)
+
+---
+
+## 🇨🇳 国内新闻
+
+### 平陆运河正式通航 西南地区出海航程大幅缩短
+
+平陆运河16日正式通航，广西及西南地区货物出海航程显著缩短、物流成本降低。台湾舆论关注称，孙中山先生在《建国方略》中的百年夙愿由此成真。
+
+📎 [阅读原文](https://www.chinanews.com.cn/gn/2026/09-17/10698415.shtml)
+
+---
+
+### 欧盟《公共采购法》草案设"欧洲优先"条款 商务部回应
+
+针对欧委会《公共采购法》草案设置"欧洲优先"条款，中国商务部新闻发言人何亚东17日表示，中方将密切关注欧方立法进程，及时评估相关影响，坚决维护中国企业合法权益。
+
+📎 [阅读原文](https://www.chinanews.com.cn/gn/2026/09-17/10698413.shtml)
+
+---
+
+### 快递行业发布重要自律公约 保障日均5.5亿件快件安全
+
+在2026年国家网络安全宣传周期间，中国快递协会17日正式发布《以安全为中心的自律公约》，针对日均5.5亿件快件的寄递安全与数据保护作出行业规范。
+
+📎 [阅读原文](https://www.chinanews.com.cn/cj/2026/09-17/10698418.shtml)
+
+---
+
+### 上海对东盟进出口额前8个月同比增长逾三成
+
+据上海海关统计，今年前8个月上海对东盟进出口额达5462亿元，同比增长30.6%。东盟自5月份以来连续4个月保持上海最大贸易伙伴地位。
+
+📎 [阅读原文](https://www.chinanews.com.cn/aseaninfo/2026/09-17/10698401.shtml)
+
+---
+
+### "五羊星座"先导A星奔赴发射场
+
+由广州大学牵头研制的"五羊星座"先导A星（广大一号）近日整装出征、奔赴发射场，即将择机发射，标志着广州商业航天布局迈出关键一步。
+
+📎 [阅读原文](https://www.chinanews.com.cn/sh/2026/09-17/10698388.shtml)
 
 ---
 
 ## 💼 财经科技
 
-### Musk’s long-time backer is giving SpaceX stock to its investors
+### 苹果据悉正打造搭载 M 系列 Ultra 芯片的 AI 服务器
 
-Valor Equity Partners is handing out stock to its LPs instead of cash returns.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/16/musks-long-time-backer-is-giving-spacex-stock-to-its-investors/)
-
----
-
-### Al Gore has a surprisingly calm take on the AI data center backlash
-
-In an interview with TechCrunch, Al Gore suggested he isn't losing sleep over AI data center emissions — he's more worried about the AI industry's own warnings about where the technology is headed.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/16/al-gore-has-a-surprisingly-calm-take-on-the-ai-data-center-backlash/)
-
----
-
-### US automakers could soon be forced to include AM radio for free
-
-The House of Representatives, in rare bipartisan support, overwhelmingly approved legislation that would require new vehicles to include AM radio.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/16/us-automakers-could-soon-be-forced-to-include-am-radio-for-free/)
-
----
-
-### OpenSpec – A lightweight and configurable AI spec framework
-
-Article URL: https://openspec.dev/ Comments URL: https://news.ycombinator.com/item?id=49734264 Points: 22 # Comments: 3
-
-📎 [阅读原文](https://openspec.dev/)
-
----
-
-### Australia says it could follow Canada in forging deeper ties with EU
-
-Article URL: https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html Comments URL: https://news.ycombinator.com/item?id=49734171 Points: 46 # Comments: 7
-
-📎 [阅读原文](https://www.independent.co.uk/news/world/australasia/canda-eu-membership-australia-us-trade-b3050227.html)
-
----
-
-### Breaking the 1.58-bit Barrier for Ternary LLMs
-
-Article URL: https://arxiv.org/abs/2609.16338 Comments URL: https://news.ycombinator.com/item?id=49732931 Points: 110 # Comments: 10
-
-📎 [阅读原文](https://arxiv.org/abs/2609.16338)
-
----
-
-### Apple reportedly building server packed with M-series Ultra chips for AI
-
-Planned 2029 debut could make this Apple’s first enterprise server in decades.
+据报道，苹果计划推出 packed with M-Series Ultra 芯片的服务器产品，预计2029年首次亮相，或成苹果数十年来首款企业级服务器。
 
 📎 [阅读原文](https://arstechnica.com/ai/2026/09/apple-reportedly-building-server-packed-with-m-series-ultra-chips-for-ai/)
 
 ---
 
-### Epstein had huge cache of child sex pics; victims sue to find out who's in them
+### 安全合规初创 Comp AI 获3400万美元A轮融资
 
-Survivors appalled nobody will tell them if they’re in Epstein’s CSAM collection.
+由 Roo Capital 和 Grand Ventures 领投，Comp AI 将把资金用于构建"持续自主"的安全与合规代理平台。
 
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/09/lawsuit-trump-doj-notified-very-few-victims-in-epsteins-stash-of-child-sex-images/)
+📎 [阅读原文](https://techcrunch.com/2026/09/17/comp-ai-sets-eyes-on-a-continiously-agentic-future-for-security-and-complaince/)
 
 ---
 
-### Nonprofit that tracks meteors taken down by "critical blow" from a cyberattack
+### 冰岛语音模拟平台 Treble 融资1800万美元
 
-Group plans to be largely out of commission for several weeks.
+Treble 的语音模拟平台服务于语音 AI 模型开发、AI 可穿戴及机器人公司，本轮融资将加速其语音合成测试业务扩张。
+
+📎 [阅读原文](https://techcrunch.com/2026/09/16/iceland-based-treble-raises-18-million-for-its-voice-simulation-platform/)
+
+---
+
+### Neovim 有一笔约80万美元的比特币捐款沉睡三年
+
+社区发现 Neovim 项目在2023年收到一笔10枚比特币的捐赠，按当前市价约合80万美元，至今未被转移，引发开源项目捐赠管理的讨论。
+
+📎 [阅读原文](https://news.ycombinator.com/item?id=49738879)
+
+---
+
+### Manticore Search 推出长文档向量搜索自动分块
+
+Manticore Search 发布面向长文档的自动分块（auto-chunking）能力，改进向量检索精度，降低长文本 RAG 场景的接入成本。
+
+📎 [阅读原文](https://manticoresearch.com/blog/auto-chunking/)
+
+---
+
+### 追踪流星的非营利组织遭网络攻击陷入瘫痪
+
+国际流星组织（IMO）遭遇"关键性打击"级别的网络攻击，预计将瘫痪数周，暴露出小型科学机构网络安全防护的脆弱性。
 
 📎 [阅读原文](https://arstechnica.com/security/2026/09/nonprofit-that-tracks-meteors-taken-down-by-critical-blow-from-a-cyberattack/)
 
 ---
 
+📊 **今日摘要**：共 14 篇精选
 
----
+- 🌍 国际：3 篇
+- 🇨🇳 国内：5 篇
+- 💼 科技：6 篇
 
-📊 **今日摘要**: 9 篇精选文章
+*来源：中国新闻网、TechCrunch、Ars Technica、Hacker News、The Guardian*
+*注：BBC/CNN/Al Jazeera/联合早报等源今日网络超时，国际新闻由可达源补充。*
 
-- 🌍 国际: 0 篇
-- 🇨🇳 国内: 0 篇
-- 💼 科技: 9 篇
-
-*Generated by OpenClaw News Aggregator at 08:03 GMT+8*
+*Generated by OpenClaw News Aggregator · 2026-09-17 20:00 (GMT+8) 晚间版*
