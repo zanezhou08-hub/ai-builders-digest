@@ -11,7 +11,23 @@ section: news
 
 ## 💼 财经科技
 
-### A startup that builds other startups raised $100M, and is all-in on physical AI
+### India forces caller-ID apps to feed spam reports to telcos
+
+Truecaller says the one-way sharing requirement would hand a commercially valuable proprietary asset to telecom operators.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/)
+
+---
+
+### Tilly Norwood’s press tour is going about as well as you’d expect for an AI
+
+In one particularly odd interview, Norwood seems to malfunction and begin speaking Chinese.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/18/tilly-norwoods-press-tour-is-going-about-as-well-as-youd-expect-for-an-ai/)
+
+---
+
+### A startup that builds other startups raised $100M and is all-in on physical AI
 
 UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.
 
@@ -19,43 +35,43 @@ UP.Labs, now doing business under the name Vantora, is building startups for ind
 
 ---
 
-### Anthropic is operating a lab that conducts biology experiments
+### Laya the open source version of Jev
 
-AI leaders have been promising that AI is the key to curing human disease. Anthropic researchers have also been warning that AI might kill us all.
+Article URL: https://laya.convaiinnovations.com/ Comments URL: https://news.ycombinator.com/item?id=49765348 Points: 12 # Comments: 2
 
-📎 [阅读原文](https://techcrunch.com/2026/09/18/anthropic-is-operating-a-lab-that-conducts-biology-experiments/)
-
----
-
-### AI hallucination nearly triggers US military operation
-
-“It’s important for service members to understand the uncertainty inherent to LLMs," a GovAI research scholar warns.
-
-📎 [阅读原文](https://techcrunch.com/2026/09/18/ai-hallucination-nearly-triggers-us-military-operation/)
+📎 [阅读原文](https://laya.convaiinnovations.com/)
 
 ---
 
-### How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip
+### AI-generated posters don’t have to be horrible
 
-Article URL: https://spectrum.ieee.org/llms-for-chip-design Comments URL: https://news.ycombinator.com/item?id=49761432 Points: 19 # Comments: 11
+Article URL: https://john.hartnup.uk/2026/06/07/ai-event-posters.html Comments URL: https://news.ycombinator.com/item?id=49764791 Points: 240 # Comments: 158
 
-📎 [阅读原文](https://spectrum.ieee.org/llms-for-chip-design)
-
----
-
-### US troop deaths during Iran war exceed Pentagon count by at least four
-
-Article URL: https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/ Comments URL: https://news.ycombinator.com/item?id=49761178 Points: 118 # Comments: 53
-
-📎 [阅读原文](https://www.reuters.com/world/middle-east/us-troop-deaths-iran-war-exceed-pentagon-count-by-least-four-washington-post-2026-09-18/)
+📎 [阅读原文](https://john.hartnup.uk/2026/06/07/ai-event-posters.html)
 
 ---
 
-### Claude Code now reads AGENTS.md if there is no Claude.md
+### GPT-6 Astra Solves a WWI German Radio Cipher
 
-Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://news.ycombinator.com/item?id=49760187 Points: 408 # Comments: 148
+Article URL: https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio Comments URL: https://news.ycombinator.com/item?id=49763987 Points: 144 # Comments: 79
 
-📎 [阅读原文](https://code.claude.com/docs/en/changelog)
+📎 [阅读原文](https://www.prinzai.com/p/gpt-6-astra-solves-a-wwi-german-radio)
+
+---
+
+### Learning another language may be one of the best ways to keep your brain healthy
+
+Research suggests that bilingualism can offer cognitive benefits.
+
+📎 [阅读原文](https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/)
+
+---
+
+### Rings around a tiny body have changed over the past decade
+
+Chariklo is only about 250 km across, but it has two rings, and they're changing.
+
+📎 [阅读原文](https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/)
 
 ---
 
@@ -64,22 +80,6 @@ Article URL: https://code.claude.com/docs/en/changelog Comments URL: https://new
 But the military's overall use of AI seems to be accelerating.
 
 📎 [阅读原文](https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/)
-
----
-
-### FAA tees up $875M AI tool to help manage air traffic congestion
-
-FAA plans for AI tool to help manage DC air traffic before a nationwide rollout.
-
-📎 [阅读原文](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/)
-
----
-
-### FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar
-
-FCC rejects concerns about repressive governments buying influence over CBS owner.
-
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/)
 
 ---
 
@@ -92,4 +92,4 @@ FCC rejects concerns about repressive governments buying influence over CBS owne
 - 🇨🇳 国内: 0 篇
 - 💼 科技: 9 篇
 
-*Generated by OpenClaw News Aggregator at 08:06 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
