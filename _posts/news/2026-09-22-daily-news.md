@@ -1,0 +1,148 @@
+---
+layout: default
+title: "新闻速递 — 2026-09-22"
+date: 2026-09-22
+section: news
+---
+
+# 📰 新闻速递 — 2026-09-22
+
+---
+
+## 🌍 国际新闻
+
+### 丹麦、格陵兰与美国将签署北极安全协议
+
+丹麦、格陵兰和美国宣布将签署一项北极安全合作协议，被视为北极地缘政治格局的重要调整。
+
+📎 [阅读原文](https://www.chinadaily.com.cn/a/202609/22/WS6ab1dba4e4b06d4aa055f6a8.html)
+
+---
+
+### 德国总理默茨所在基民盟未进入东北部州议会
+
+德国地方选举结果显示，默茨领导的基民盟（CDU）在东北部州议会选举中受挫。
+
+📎 [阅读原文](https://www.chinadaily.com.cn/a/202609/21/WS6ab09fb8e4b06d4aa055f3c8.html)
+
+---
+
+### 欧盟考虑征收暴利税，战争推高燃料价格
+
+能源价格因战争持续攀升，欧盟正评估对能源企业征收暴利税的方案。
+
+📎 [阅读原文](https://www.chinadaily.com.cn/a/202609/21/WS6ab08cd0e4b06d4aa055f2f7.html)
+
+---
+
+### 英国将向沙特提供"防御性"军事支持
+
+报道称英国将向沙特阿拉伯提供防御性军事支持，中东军事合作再引关注。
+
+📎 [阅读原文](https://www.chinadaily.com.cn/a/202609/22/WS6ab1dbbde4b06d4aa055f6ae.html)
+
+---
+
+### 中国：出口管制针对日本军事用途
+
+中方表示相关出口管制措施旨在针对日本的军事应用领域。
+
+📎 [阅读原文](https://www.chinadaily.com.cn/a/202609/21/WS6ab0f10ae4b06d4aa055f4be.html)
+
+---
+
+## 🇨🇳 国内新闻（百度热搜）
+
+- **推动中美关系沿着正确航道平稳前行** — [查看](https://m.baidu.com/s?word=%E6%8E%A8%E5%8A%A8%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E6%B2%BF%E7%9D%80%E6%AD%A3%E7%A1%AE%E8%88%AA%E9%81%93%E5%B9%B3%E7%A8%B3%E5%89%8D%E8%A1%8C)
+- **中国女排夺冠！3-0横扫日本** — [查看](https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%A5%B3%E6%8E%92%E5%A4%BA%E5%86%A0%EF%BC%813-0%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC)
+- **中国发现超大型铜金矿** — [查看](https://m.baidu.com/s?word=%E4%B8%AD%E5%9B%BD%E5%8F%91%E7%8E%B0%E8%B6%85%E5%A4%A7%E5%9E%8B%E9%93%9C%E9%87%91%E7%9F%BF)
+- **未来五年 居民生活品质如何提高** — [查看](https://m.baidu.com/s?word=%E6%9C%AA%E6%9D%A5%E4%BA%94%E5%B9%B4%20%E5%B1%85%E6%B0%91%E7%94%9F%E6%B4%BB%E5%93%81%E8%B4%A8%E5%A6%82%E4%BD%95%E6%8F%90%E9%AB%98)
+- **杨利伟：那一刻我以为要牺牲了** — [查看](https://m.baidu.com/s?word=%E6%9D%A8%E5%88%A9%E4%BC%9F%EF%BC%9A%E9%82%A3%E4%B8%80%E5%88%BB%E6%88%91%E4%BB%A5%E4%B8%BA%E8%A6%81%E7%89%BA%E7%89%B2%E4%BA%86)
+- **微信发朋友圈可自动转为仅自己可见** — [查看](https://m.baidu.com/s?word=%E5%BE%AE%E4%BF%A1%E5%8F%91%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%AF%E8%87%AA%E5%8A%A8%E8%BD%AC%E4%B8%BA%E4%BB%85%E8%87%AA%E5%B7%B1%E5%8F%AF%E8%A7%81)
+
+---
+
+## 💼 财经科技
+
+### Meta deal will help plastics recycling startup MacroCycle build its first factory
+
+Meta is giving plastic recycling a boost in a new deal with startup MacroCycle, which is building its first commercial plant.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/22/meta-deal-will-help-plastics-recycling-startup-macrocycle-build-its-first-factory/)
+
+---
+
+### Morphotonics raises €40M to expand its display tech into data centers
+
+Deeptech company Morphotonics raises €40M from investors including 3M Ventures, Innovation Industries, BOM, and Invest-NL.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/21/morphotonics-raises-e40m-as-it-tk-tk-tk-t/)
+
+---
+
+### The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
+
+Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.
+
+📎 [阅读原文](https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/)
+
+---
+
+### Type Punning in C and C++
+
+Article URL: https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html Comments URL: https://news.ycombinator.com/item?id=49799577 Points: 6 # Comments: 0
+
+📎 [阅读原文](https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html)
+
+---
+
+### JetBrains Air: A System of Products for Agentic Software Development
+
+Article URL: https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/ Comments URL: https://news.ycombinator.com/item?id=49799287 Points: 29 # Comments: 18
+
+📎 [阅读原文](https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/)
+
+---
+
+### 9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game"
+
+Article URL: https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html Comments URL: https://news.ycombinator.com/item?id=49799083 Points: 71 # Comments: 74
+
+📎 [阅读原文](https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html)
+
+---
+
+### Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day
+
+A simple ClickFix attack is only one way to completely hijack the new agent.
+
+📎 [阅读原文](https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day/)
+
+---
+
+### Military milestone: Ukrainian naval drone sinks Russian kamikaze drone boat
+
+Drone boat battle occurs as Ukraine and Russia target Black Sea ports and ships.
+
+📎 [阅读原文](https://arstechnica.com/gadgets/2026/09/military-milestone-ukrainian-naval-drone-sinks-russian-kamikaze-drone-boat/)
+
+---
+
+### Saudi Arabia wants a car industry, launches Ceer with two EVs
+
+The new carmaker is a joint venture between the Saudi PIF and Foxconn.
+
+📎 [阅读原文](https://arstechnica.com/cars/2026/09/saudi-arabia-wants-a-car-industry-launches-ceer-with-two-evs/)
+
+---
+
+
+---
+
+📊 **今日摘要**: 15 篇精选文章
+
+- 🌍 国际: 5 篇（来源：China Daily）
+- 🇨🇳 国内: 6 条（来源：百度热搜）
+- 💼 科技: 9 篇（来源：TechCrunch / Hacker News / Ars Technica）
+
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8, updated 20:10 GMT+8*
