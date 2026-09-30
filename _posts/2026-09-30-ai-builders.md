@@ -1,4 +1,13 @@
-AI Builders Digest — 2026-09-30
+---
+layout: default
+title: "AI Builders Digest — 2026-09-30"
+date: 2026-09-30
+section: ai-builders
+---
+
+# 🤖 AI Builders Digest — 2026-09-30
+
+---
 
 ## X / TWITTER
 
