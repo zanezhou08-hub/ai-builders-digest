@@ -7,79 +7,81 @@ section: news
 
 # 📰 新闻速递 — 2026-10-08
 
+> ⚠️ 本期说明：国际/国内新闻源今日不可达（BBC/CNN/Al Jazeera 连接失败，国内 RSS 更新停滞），本期仅收录科技新闻。
+
 ---
 
 ## 💼 财经科技
 
+### Vesta raises $30M to bring swarms of agents to mortgage lenders
+
+Vesta, an AI-native software startup that helps lenders originate mortgages, announced a $30 million round led by Conversion Capital.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/08/vesta-raises-30m-as-lenders-adopt-ai-agents/)
+
+---
+
+### India rejects Elon Musk’s claim of discrimination over Starlink launch
+
+Starlink is still awaiting security clearance before it can seek spectrum and begin commercial services in India.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/07/india-rejects-elon-musks-claim-of-discrimination-over-starlink-launch/)
+
+---
+
 ### Robot data startup Mecka AI nabs $60M from Sequoia
 
-The startup pays people to record everyday tasks.
+Mecka AI collects and analyzes human motion data to train humanoid robots and other kinds of robots. The startup pays people to record everyday tasks.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/07/robot-data-startup-mecka-ai-nabs-60m-from-sequoia/)
 
 ---
 
-### While VCs crowd into San Francisco, Endeavor Catalyst raises $320M for founders ‘elsewhere’
+### OpenAI Withdraws 3 Math Papers
 
-Endeavor Catalyst just raised $320 million to keep backing founders outside Silicon Valley. Half the profits go back to the nonprofit that finds them.
+Article URL: https://github.com/openai/math/blob/main/history.md Comments URL: https://news.ycombinator.com/item?id=50003107 Points: 16 # Comments: 3
 
-📎 [阅读原文](https://techcrunch.com/2026/10/07/while-vcs-crowd-into-san-francisco-endeavor-catalyst-raises-320m-for-founders-elsewhere/)
-
----
-
-### Nous Research confirms it hit $1.5B valuation, launches AI agents for business users
-
-The developer of Hermes Agent raised a $90 million Series B.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/)
+📎 [阅读原文](https://github.com/openai/math/blob/main/history.md)
 
 ---
 
-### Margaret Hamilton, who led software development for the Apollo program, has died
+### Dat-ecosystem: high level applications built on top of P2P protocols
 
-Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 388 # Comments: 41
+Article URL: https://dat-ecosystem.org/ Comments URL: https://news.ycombinator.com/item?id=50002505 Points: 20 # Comments: 12
 
-📎 [阅读原文](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007)
-
----
-
-### 'Jonathan' is the oldest land animal on Earth
-
-Article URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/ Comments URL: https://news.ycombinator.com/item?id=49998066 Points: 11 # Comments: 0
-
-📎 [阅读原文](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/)
+📎 [阅读原文](https://dat-ecosystem.org/)
 
 ---
 
-### Photograph 49 is the key to understanding Rosalind Franklin’s DNA Photograph 51
+### Classic PC demoscene productions running natively in the browser
 
-Related: https://www.science.org/content/article/how-did-rosalind-fra... Comments URL: https://news.ycombinator.com/item?id=49998006 Points: 83 # Comments: 21
+Article URL: https://treylorswift.github.io/demoscene-recomp/web/ Comments URL: https://news.ycombinator.com/item?id=50002426 Points: 92 # Comments: 73
 
-📎 [阅读原文](https://link.springer.com/article/10.1007/s10739-026-09866-7)
-
----
-
-### “Software is over”: Bold AI developer takes aim at Adobe with open source clones
-
-Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.
-
-📎 [阅读原文](https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/)
+📎 [阅读原文](https://treylorswift.github.io/demoscene-recomp/web/)
 
 ---
 
-### PA measles outbreak tops 1,000 cases, largest since disease was eliminated
+### Nvidia's big bet on physical AI aims for safer robotaxis, humanoid robots
 
-Pennsylvania reported 1,066 outbreak-linked cases on Wednesday.
+Full-stack safety solution for physical AI is being used by robotics companies.
 
-📎 [阅读原文](https://arstechnica.com/health/2026/10/pa-measles-outbreak-tops-1000-cases-largest-since-disease-was-eliminated/)
+📎 [阅读原文](https://arstechnica.com/ai/2026/10/nvidias-big-bet-on-physical-ai-aims-for-safer-robotaxis-humanoid-robots/)
 
 ---
 
-### TP-Link problems in US grow amid FCC router ban and four state lawsuits
+### A senator tried to ban gambling on prediction markets—now she's a Kalshi lobbyist
 
-TP-Link can't sell latest routers in US, still needs exemption from FCC ban.
+Sen. Blanche Lincoln wrote law that let US ban sports-event contracts. She lobbies for the other side now.
 
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/10/florida-sues-tp-link-claiming-it-hides-router-security-risks-and-links-to-china/)
+📎 [阅读原文](https://arstechnica.com/tech-policy/2026/10/a-senator-tried-to-ban-gambling-on-prediction-markets-now-shes-a-kalshi-lobbyist/)
+
+---
+
+### Microsoft event debuts new AI-friendly hardware and Windows changes
+
+Get ready for more AI in your Windows and more AI on the desktop.
+
+📎 [阅读原文](https://arstechnica.com/gadgets/2026/10/microsoft-event-debuts-new-ai-friendly-hardware-and-windows-changes/)
 
 ---
 
@@ -92,4 +94,4 @@ TP-Link can't sell latest routers in US, still needs exemption from FCC ban.
 - 🇨🇳 国内: 0 篇
 - 💼 科技: 9 篇
 
-*Generated by OpenClaw News Aggregator at 08:01 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:00 GMT+8*
