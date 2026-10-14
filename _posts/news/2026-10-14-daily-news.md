@@ -1,0 +1,145 @@
+---
+layout: default
+title: "新闻速递 — 2026-10-14"
+date: 2026-10-14
+section: news
+---
+
+# 📰 新闻速递 — 2026-10-14
+
+---
+
+## 🌍 国际新闻
+
+### Family pays tribute to 'warm and engaging' man killed in tiger attack
+
+William Chapman was attacked by the tiger after he entered its pen at Yorkshire Wildlife Park.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck054nvzr676o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Pope diagnosed with lung cancer but had successful surgery, Vatican says
+
+Pope Leo had successful surgery to remove a lower lobe of his right lung, the Vatican said.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Saudi man charged with planting 'sophisticated' recording device in OpenAI office
+
+Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room.
+
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### Manchester United’s Martinez blasts board’s lack of investment
+
+Manchester United beaten 2-0 at Atletico Madrid, but defender Lisandro Martinez slams club's failure to invest in team.
+
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/10/13/manchester-uniteds-martinez-blasts-boards-lack-of-investment?traffic_source=rss)
+
+---
+
+### Bayern’s Michael Olise sent off for ‘super dumb’ yellows within seconds
+
+Bayern Munich draw 3-3 with Viking in UEFA Champions League, but Michael Olise sees red for two bookings within seconds.
+
+📎 [阅读原文](https://www.aljazeera.com/sports/2026/10/13/bayerns-michael-olise-sent-off-for-super-dumb-yellows-within-seconds?traffic_source=rss)
+
+---
+
+### Mauritius imposes curfew after night of unrest over police shooting
+
+Protesters block roads and burn tyres in response to a police shooting of a 27-year-old woman.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/10/13/mauritius-imposes-curfew-after-night-of-unrest-over-police-shooting?traffic_source=rss)
+
+---
+
+## 💼 财经科技
+
+### Science Corporation implants its vision-restoring chip in its first Stargardt disease patient
+
+Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).
+
+📎 [阅读原文](https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/)
+
+---
+
+### Cerebras CEO says we’re nearing a future where everyone has a personal AI assistant at home
+
+Cerebras CEO Andrew Feldman predicts a future where personal AI assistants become as commonplace as household appliances, running partly on local devices and partly in the cloud.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/13/cerebras-ceo-says-were-nearing-a-future-where-everyone-has-a-personal-ai-assistant-at-home/)
+
+---
+
+### Industrial Next wants factory robots to switch tasks in minutes, not weeks
+
+Industrial Next helps manufacturers automate complex, delicate tasks that have traditionally required human labor.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/13/industrial-next-wants-factory-robots-to-switch-tasks-in-minutes-not-weeks/)
+
+---
+
+### Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine
+
+Hi HN, I'm Niz. Pulse Local is a budgeting app for Mac (Apple Silicon, beta) that answers questions about your spending with models that run on your machine. Local mode needs no account. The ledger and your questions stay on the machine, and the app sends no analytics or crash logs.I felt there are ...
+
+📎 [阅读原文](https://pulseos.finance)
+
+---
+
+### Recreational Programming
+
+Article URL: https://www.cphiri.dev/presentations/recreational-programming Comments URL: https://news.ycombinator.com/item?id=50079865 Points: 10 # Comments: 1
+
+📎 [阅读原文](https://www.cphiri.dev/presentations/recreational-programming)
+
+---
+
+### AlphaNIST
+
+Article URL: https://alpha-nist.github.io/ Comments URL: https://news.ycombinator.com/item?id=50079464 Points: 23 # Comments: 3
+
+📎 [阅读原文](https://alpha-nist.github.io/)
+
+---
+
+### Martin Shkreli livestreamed himself violating lifetime pharma ban, FTC says
+
+"I can always find a couple of biotech stocks to smoke," Shkreli said in a livestream.
+
+📎 [阅读原文](https://arstechnica.com/health/2026/10/martin-shkreli-livestreamed-himself-violating-lifetime-pharma-ban-ftc-says/)
+
+---
+
+### ESA targets Anbernic emulation handhelds as "superfake" piracy enablers
+
+But third-party sellers, not Anbernic, are the ones routinely selling ROM-filled SD cards.
+
+📎 [阅读原文](https://arstechnica.com/gaming/2026/10/esa-targets-anbernic-emulation-handhelds-as-superfake-piracy-enablers/)
+
+---
+
+### Topgolf saved over $11.3 million after leaving VMware
+
+Topgolf and VMware "ran deep" before the migration.
+
+📎 [阅读原文](https://arstechnica.com/information-technology/2026/10/topgolf-saved-over-11-3-million-after-leaving-vmware/)
+
+---
+
+
+---
+
+📊 **今日摘要**: 15 篇精选文章
+
+- 🌍 国际: 6 篇
+- 🇨🇳 国内: 0 篇
+- 💼 科技: 9 篇
+
+*Generated by OpenClaw News Aggregator at 08:00 GMT+8*
