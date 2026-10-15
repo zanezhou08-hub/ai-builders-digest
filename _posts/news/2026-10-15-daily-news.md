@@ -11,77 +11,77 @@ section: news
 
 ## 🌍 国际新闻
 
-### Musk says US government may be behind slowdown of Ukraine drone speeds
+### Man killed by tiger climbed two fences before suffering multiple injuries, inquest hears
 
-Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield "missions".
+William Chapman climbed two fences to enter a tiger's pen at Yorkshire Wildlife Park, an inquest hears.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss)
-
----
-
-### We are behind you and that will not change, PM tells Zelensky
-
-The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cxr5y83v1eldo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Russell Brand was a 'sexual predator', prosecution alleges as rape trial begins
+### Ukraine to restart strikes on Russian oil refineries, Zelensky says
 
-The actor and comedian has pleaded not guilty to three counts of rape, three counts of sexual assault and one of indecent assault.
+Russia reports a Ukrainian strike on an oil refinery on Thursday, after Ukraine's president says a pause is over following fresh Russian attacks.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c3qjn45pepx1o?at_medium=RSS&at_campaign=rss)
-
----
-
-### Denmark pushes back as Trump touts Greenland oil and mineral deals
-
-Recent US-Greenland-Denmark agreement excludes mining or drilling rights while reinforcing Greenland's sovereignty.
-
-📎 [阅读原文](https://www.aljazeera.com/news/2026/10/14/denmark-pushes-back-as-trump-touts-greenland-oil-and-mineral-deals?traffic_source=rss)
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### ICE pushes back on report suggesting body cameras that automatically record
+### Why Starlink internet is so important on the battlefield in Ukraine
 
-The immigration agency rejects a report from a government watchdog recommending improvements to its body camera policy.
+It is the "backbone of military communications in Ukraine" that provides vital high-speed internet to forces across the country.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/10/14/ice-pushes-back-on-report-suggesting-body-cameras-that-automatically-record?traffic_source=rss)
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cqkgk4zg54reo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Real Madrid come from 3-1 down to beat Roma on Champions League travels
+### Ukrainians fear US intelligence cuts as Russian strikes intensify
 
-Real Madrid ease pressure on manager Jose Mourinho with a 4-3 win at his former club Roma in a Champions League classic.
+Reduced missile warnings increase threat to civilians as Trump pushes an 'energy ceasefire' and peace negotiations.
 
-📎 [阅读原文](https://www.aljazeera.com/sports/2026/10/14/real-madrid-come-from-3-1-down-to-beat-roma-on-champions-league-travels?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/news/2026/10/15/ukrainians-fear-us-intelligence-cuts-as-russian-strikes-intensify?traffic_source=rss)
+
+---
+
+### US-Iran stalemate: What are Trump’s next military options?
+
+Trump has ruled out attacks before the midterms. Analysts weigh what he could do next, and at what cost.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/10/15/us-iran-stalemate-what-are-trumps-next-military-options?traffic_source=rss)
+
+---
+
+### Syrian authorities arrest main suspect in 2013 Baniyas mass killings
+
+Ali Kayali, also known as Mihrac Ural, was apprehended as he tried to cross the border, state media reported.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/10/15/syrian-authorities-arrest-main-suspect-in-2013-baniyas-mass-killings?traffic_source=rss)
 
 ---
 
 ## 💼 财经科技
 
-### Gudea leverages AI to help organizations prevent social media crises before they erupt
+### Amazon’s Bee launches two new personal AI devices, starting at $75
 
-Every day, conversations unfold across social media and websites around the world. A seemingly insignificant post—whether it involves AI-generated misinformation, hate speech, or a damaging rumor—can quickly snowball into a much larger public controversy. Gudea, a company that tracks how stories and...
+Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and integrate with Alexa and Amazon shopping, with prices starting a...
 
-📎 [阅读原文](https://techcrunch.com/2026/10/14/gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they-erupt/)
-
----
-
-### Intero Biosystems wants drugmakers to test on mini human intestines, not animals
-
-Intero Biosystems is selling lab-grown human intestines to drugmakers as regulators push for alternatives to animal testing, while the startup looks to scale production and expand its organoid technology.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/14/intero-biosystems-wants-drugmakers-to-test-on-mini-human-intestines-not-animals/)
+📎 [阅读原文](https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75/)
 
 ---
 
-### CedarDB wants one database to handle both transactions and analytics, as AI agents raise the stakes
+### Citizen Lab says governments are abusing online ads to hack people with ‘zero-click’ spyware
 
-Databases have traditionally been designed either for analytical data or for operational data. But database engine CedarDB supports both, and its approach has gained relevance with the rise of agentic AI.
+The digital rights unit found evidence that dozens of devices at media organization Al Jazeera were hacked after being shown malicious online ads.
 
-📎 [阅读原文](https://techcrunch.com/2026/10/14/cedardb-wants-one-database-to-handle-both-transactions-and-analytics-as-ai-agents-raise-the-stakes/)
+📎 [阅读原文](https://techcrunch.com/2026/10/15/citizen-lab-says-governments-are-abusing-online-ads-to-hack-people-with-zero-click-spyware/)
+
+---
+
+### Figma announces new features to define how agents work on its platform
+
+Figma is also releasing its code layers feature in open beta.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/)
 
 ---
 
@@ -118,4 +118,4 @@ Suspected Russian drones have sunk or damaged 5 ships near Bulgaria and Romania.
 - 🇨🇳 国内: 0 篇
 - 💼 科技: 6 篇
 
-*Generated by OpenClaw News Aggregator at 08:00 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:00 GMT+8*
