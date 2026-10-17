@@ -11,125 +11,125 @@ section: news
 
 ## 🌍 国际新闻
 
-### Bus hits train stopped on French side of Channel Tunnel, with 19 injured
+### British father fined for causing his two-year-old son's death in Cyprus hotel fall
 
-Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.
+Joshua Foster "lost control" of his son while showing him the view of a water park from a window.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss)
-
----
-
-### Trump calls off livestream of Fort Hood attacker's execution by firing squad
-
-Trump said some would "rather not watch" the killing of Nidal Hasan, the first military execution in over 60 years.
-
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Trans people should use hospital spaces according to biological sex, NHS England says
+### Israeli settlers attack Palestinians in West Bank during olive harvest
 
-New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.
+Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.
 
-📎 [阅读原文](https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss)
-
----
-
-### At least 4, including 3 children, killed in US elementary school shooting
-
-Authorities have indicated that the shooter was killed by gunfire, though details remain scant about the attack.
-
-📎 [阅读原文](https://www.aljazeera.com/news/2026/10/15/at-least-4-including-3-children-killed-in-us-elementary-school-shooting?traffic_source=rss)
+📎 [阅读原文](https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Israel halts commercial goods from entering Gaza; Hamas denies tax claims
+### Norwegian teen 'hitman' detained for UK murder plot
 
-The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.
+Johannes Natland, 19, travelled to West Yorkshire to carry out a "hit" in March last year.
 
-📎 [阅读原文](https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss)
+📎 [阅读原文](https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### Man United’s Martinez apologises for outburst after talks with Carrick
+### Malaysia’s welcome for Min Aung Hlaing undermines its stand on justice
 
-Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.
+As the US attacks the ICC, Kuala Lumpur welcomes a leader the court’s prosecutor wants arrested.
 
-📎 [阅读原文](https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss)
+📎 [阅读原文](https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss)
+
+---
+
+### US in ‘denuclearisation’ talks with Russia and China: Trump
+
+US and Russia each have more than 4,000 warheads. China set to catch up with them within five years, Trump says.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/10/16/us-in-denuclearisation-talks-with-russia-and-china-trump?traffic_source=rss)
+
+---
+
+### ‘It was fake’: Indian villagers allege forgery behind Adani mine project
+
+Forged signatures and thumbprints - even of dead and fictitious people - allegedly used to obtain land for bauxite mine.
+
+📎 [阅读原文](https://www.aljazeera.com/news/2026/10/16/tribals-in-indias-odisha-allege-forgery-behind-lands-taken-for-adani-mine?traffic_source=rss)
 
 ---
 
 ## 💼 财经科技
 
+### Even Benchmark thinks AI is eroding the venture pact against backing rivals
+
+Benchmark says the Valley’s rule against backing rivals is getting harder to keep.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/15/even-benchmark-thinks-ai-is-eroding-the-venture-pact-against-backing-rivals/)
+
+---
+
+### Tesla reveals SpaceX-powered Roadster that flies and falls with style
+
+The new car used thrusters to leap over a Cybercab, Cybertruck, Tesla Semi, Model Y, and Model 3 at a demo in Texas.
+
+📎 [阅读原文](https://techcrunch.com/2026/10/15/tesla-reveals-spacex-powered-roadster-that-flies-and-falls-with-style/)
+
+---
+
 ### When it came to Cal AI’s viral success, a small army of influencers paid off
 
-The company generated over $30 million in revenue in two years and was acquired by MyFitness for an undisclosed amount of money in March.
+The company generated over $30 million in revenue in two years and was acquired by MyFitnessPal for an undisclosed amount of money in March.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/)
 
 ---
 
-### And the winner of Startup Battlefield at Disrupt 2026 is: Intero Biosystems
+### The Folders Programming Language
 
-Intero Biosystems beat out 199 other Startup Battlefield companies to take home the $100,000 grand prize at TechCrunch Disrupt 2026.
+Article URL: https://danieltemkin.com/esolangs/folders Comments URL: https://news.ycombinator.com/item?id=50114342 Points: 96 # Comments: 12
 
-📎 [阅读原文](https://techcrunch.com/2026/10/15/and-the-winner-of-startup-battlefield-at-disrupt-2026-is-intero-biosystems/)
-
----
-
-### Amazon devices chief Panos Panay on the importance of failure and bouncing back from it
-
-Panay said that it's possible to recover and learn from all sorts of failures, even catastrophic ones, when building products.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/15/amazon-devices-chief-panos-panay-on-the-importance-of-failure-and-bouncing-back-from-it/)
+📎 [阅读原文](https://danieltemkin.com/esolangs/folders)
 
 ---
 
-### What I Self-Host
+### Comparing Chromium Development at Google and Igalia
 
-Article URL: https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/ Comments URL: https://news.ycombinator.com/item?id=50109715 Points: 185 # Comments: 96
+Article URL: https://lwn.net/Articles/1094721/ Comments URL: https://news.ycombinator.com/item?id=50112887 Points: 59 # Comments: 17
 
-📎 [阅读原文](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
-
----
-
-### New Withings Users Must Pay $99/Year for Apple Health Syncing
-
-Article URL: https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts Comments URL: https://news.ycombinator.com/item?id=50109375 Points: 129 # Comments: 109
-
-📎 [阅读原文](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
+📎 [阅读原文](https://lwn.net/Articles/1094721/)
 
 ---
 
-### Someone on Torrent Sites Kept Fucking with My Sonarr
+### Any window from your Mac, on your iPhone and iPad
 
-Article URL: https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup Comments URL: https://news.ycombinator.com/item?id=50108872 Points: 178 # Comments: 69
+Article URL: https://github.com/Saffsanity/sill Comments URL: https://news.ycombinator.com/item?id=50112739 Points: 172 # Comments: 42
 
-📎 [阅读原文](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
-
----
-
-### Plex now helps sell movie theater tickets
-
-Discovery data from Plex users will help studios, advertisers.
-
-📎 [阅读原文](https://arstechnica.com/gadgets/2026/10/plex-now-helps-sell-movie-theater-tickets/)
+📎 [阅读原文](https://github.com/Saffsanity/sill)
 
 ---
 
-### Hegseth’s dubious low-T screening may flag up to 25 percent of the Army
+### Rocket Report: FAA eyes more Starbase traffic; India's Skyroot snares US customer
 
-Medical experts explicitly recommend against blanket screenings.
+The pioneering reusable upper stage for Stoke Space's Nova rocket ships out for testing.
 
-📎 [阅读原文](https://arstechnica.com/health/2026/10/hegseths-dubious-low-t-screening-may-flag-up-to-25-percent-of-the-army/)
+📎 [阅读原文](https://arstechnica.com/space/2026/10/rocket-report-faa-eyes-more-starbase-traffic-indias-skyroot-snares-us-customer/)
 
 ---
 
-### Targeted ads delivered 0-click exploits to install mercenary malware
+### Blue Origin is going all in on the New Glenn rocket
 
-The incident is likely 1st confirmation of mercenary spyware delivered by targeted ads.
+The infrastructure is designed to support multiple flights per week by the end of the decade.
 
-📎 [阅读原文](https://arstechnica.com/security/2026/10/targeted-ads-delivered-0-click-exploits-to-install-mercenary-malware/)
+📎 [阅读原文](https://arstechnica.com/space/2026/10/blue-origin-is-going-all-in-on-the-new-glenn-rocket/)
+
+---
+
+### Googlebook review: Android on a laptop is still Android
+
+Android laptops are here, but Google has a lot of work ahead to make them good.
+
+📎 [阅读原文](https://arstechnica.com/reviews/2026/10/googlebook-review-android-on-a-laptop-is-still-android/)
 
 ---
 
@@ -142,4 +142,4 @@ The incident is likely 1st confirmation of mercenary spyware delivered by target
 - 🇨🇳 国内: 0 篇
 - 💼 科技: 9 篇
 
-*Generated by OpenClaw News Aggregator at 08:00 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:00 GMT+8*
