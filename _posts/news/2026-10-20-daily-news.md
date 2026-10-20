@@ -11,51 +11,67 @@ section: news
 
 ## 💼 财经科技
 
-### Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal
+### Spotify launches paid podcast memberships with perks beyond bonus content
 
-In August, Nscale and Anthropic announced a $45 billion compute deal. The two companies are reportedly discussing yet another deal of the same magnitude.
+Spotify's new paid memberships let podcasters offer fans exclusive perks, including ad-free listening, early access, and bonus content, while keeping 90% of the revenue.
 
-📎 [阅读原文](https://techcrunch.com/2026/10/19/nscale-and-anthropic-are-reportedly-in-talks-for-yet-another-45-billion-compute-deal/)
-
----
-
-### Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says
-
-AI labs have staked their reputations on model benchmarking — the supposedly neutral and accurate system of evaluations that are designed to measure whether one AI product is better than another. However, the methods behind these evaluations are complicated and still maturing, said Irene Solaiman, H...
-
-📎 [阅读原文](https://techcrunch.com/2026/10/19/embedded-ai-evaluators-wont-be-an-easy-solution-hugging-faces-policy-chief-says/)
+📎 [阅读原文](https://techcrunch.com/2026/10/20/spotify-launches-paid-podcast-memberships-with-perks-beyond-bonus-content/)
 
 ---
 
-### Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’
+### Oura adds new fitness metrics to show how workouts impact your body
 
-Microsoft wants enterprises to closely watch the agents employees use with systems not controlled by AI labs like OpenAI and Anthropic.
+While Oura has largely dominated the smart ring market for years, rivals like RingConn and Ultrahuman are emerging to dethrone it, putting pressure on the company to keep innovating. By launching more advanced workout metrics, Oura is looking to differentiate itself from competitors as the smart rin...
 
-📎 [阅读原文](https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted/)
-
----
-
-### GridFTP: A Brief History of Fast File Transfer (2024)
-
-Article URL: https://www.globus.org/blog/gridftp-a-brief-history-of-fast-file-transfer Comments URL: https://news.ycombinator.com/item?id=50159119 Points: 3 # Comments: 0
-
-📎 [阅读原文](https://www.globus.org/blog/gridftp-a-brief-history-of-fast-file-transfer)
+📎 [阅读原文](https://techcrunch.com/2026/10/20/oura-is-launching-two-new-ways-to-track-and-understand-activity/)
 
 ---
 
-### Drupal is now light-years ahead of its reputation
+### Yelp can now call on your behalf to check wait times at a restaurant
 
-Article URL: https://dri.es/state-of-drupal-presentation-september-2026 Comments URL: https://news.ycombinator.com/item?id=50158408 Points: 15 # Comments: 10
+Yelp is embedding numerous new AI features into its app that can do everything from call to check on restaurant wait times to create personalized recommendations that remember your preferences.
 
-📎 [阅读原文](https://dri.es/state-of-drupal-presentation-september-2026)
+📎 [阅读原文](https://techcrunch.com/2026/10/20/yelp-can-now-call-on-your-behalf-to-check-wait-times-at-a-restaurant/)
 
 ---
 
-### OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18
+### Google cloud outage takes down banks
 
-Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https://news.ycombinator.com/item?id=50158138 Points: 61 # Comments: 10
+Article URL: https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ Comments URL: https://news.ycombinator.com/item?id=50163961 Points: 56 # Comments: 20
 
-📎 [阅读原文](https://bsd.network/@brynet/117407035545900963)
+📎 [阅读原文](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
+
+---
+
+### Revolut down as users report app not working
+
+Article URL: https://www.bbc.com/news/articles/cxdd8mm6qy4mo Comments URL: https://news.ycombinator.com/item?id=50163625 Points: 68 # Comments: 34
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cxdd8mm6qy4mo)
+
+---
+
+### DeepSeek just open-sourced its inference engine
+
+Article URL: https://github.com/deepseek-ai/DeepInfer Comments URL: https://news.ycombinator.com/item?id=50163277 Points: 565 # Comments: 201
+
+📎 [阅读原文](https://github.com/deepseek-ai/DeepInfer)
+
+---
+
+### Visiting Slate’s first showroom as its $25,000 electric truck nears production
+
+Slate's first showroom sells the promise. Mass production will determine the rest.
+
+📎 [阅读原文](https://arstechnica.com/cars/2026/10/visiting-slates-first-showroom-as-its-25000-electric-truck-nears-production/)
+
+---
+
+### Japan launches mission to bring home a piece of the Martian moon Phobos
+
+The climax for MMX will come in 2029, when the spacecraft will attempt up to two landings on Phobos.
+
+📎 [阅读原文](https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos/)
 
 ---
 
@@ -64,22 +80,6 @@ Article URL: https://bsd.network/@brynet/117407035545900963 Comments URL: https:
 Congenital measles can be fatal, and survivors require monitoring for years.
 
 📎 [阅读原文](https://arstechnica.com/health/2026/10/pennsylvania-issues-alert-on-congenital-measles-something-us-hasnt-seen-for-decades/)
-
----
-
-### Russian spacecraft maneuvers in "extreme proximity" to satellite used by Ukraine
-
-"Kosmos 2612 closed from hundreds of kilometers away to extreme proximity to ICEYE-X36."
-
-📎 [阅读原文](https://arstechnica.com/space/2026/10/russian-spacecraft-maneuvers-in-extreme-proximity-to-satellite-used-by-ukraine/)
-
----
-
-### Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says
-
-US fears Saudi government will help ex-OpenAI engineer flee spying charges.
-
-📎 [阅读原文](https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says/)
 
 ---
 
@@ -92,4 +92,4 @@ US fears Saudi government will help ex-OpenAI engineer flee spying charges.
 - 🇨🇳 国内: 0 篇
 - 💼 科技: 9 篇
 
-*Generated by OpenClaw News Aggregator at 08:01 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
