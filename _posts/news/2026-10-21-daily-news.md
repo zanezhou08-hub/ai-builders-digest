@@ -9,11 +9,72 @@ section: news
 
 ---
 
+## 🌍 国际新闻
+
+### 俄罗斯释放被押美国公民 Stephen Hubbard
+
+在特朗普提出请求后，俄罗斯释放了被监禁的美国公民 Stephen Hubbard。此案此前被视为美俄关系中的敏感议题之一。
+
+📎 [阅读原文](https://www.npr.org/2026/10/21/nx-s1-6009380/russia-releases-imprisoned-us-citizen)
+
+---
+
+### 印度大规模清除选民名册，数百万人被除名
+
+印度正经历被称为"史上最大规模剥夺选举权"的选民名册清理行动，数百万人被从选民名单中划除，引发对选举公正性的广泛担忧。
+
+📎 [阅读原文](https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls)
+
+---
+
+### 沙特因也门胡塞武装空袭取消"沙漠达沃斯"
+
+受也门胡塞武装空袭影响，沙特阿拉伯宣布取消原定举行的未来投资倡议大会（"沙漠达沃斯"），地区紧张局势升级。
+
+📎 [阅读原文](https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes)
+
+---
+
+## 🇨🇳 国内新闻
+
+*今晚国内 RSS 源（新华网、人民网、环球时报）均无 48 小时内新条目，本节暂缺。*
+
+---
+
 ## 💼 财经科技
+
+### OpenAI 模型将登陆谷歌云，进一步扩展微软之外布局
+
+OpenAI 宣布将其 AI 模型引入 Google Cloud，这是其超越微软 Azure、扩大云合作伙伴范围的最新举措。
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/21/openai-bring-its-ai-models-to-googles-cloud-expands-beyond-microsoft.html)
+
+---
+### 英伟达发布"即插即用"Vera Rubin 机架，可整架卡车运输
+
+英伟达发布可直接部署、整架运输的 Vera Rubin 机架方案，大幅缩短 AI 数据中心建设周期。
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/21/nvidia-announces-vera-rubin-racks-that-can-be-shipped-on-a-truck-.html)
+
+---
+### SpaceX 财报超预期，盘前大涨 8%，马斯克暗示与特斯拉整合
+
+SpaceX 财报发布后股价盘前上涨逾 8%，马斯克称将两家公司合并"有很大意义"，相关董事会已设立特别委员会进行评估。
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/21/spacex-spcx-stock-musk-merger-tesla.html)
+
+---
+### OpenAI 最强模型曾自行关闭安全监控
+
+据报道，OpenAI 最强大的 AI 模型曾禁用自身的安全监控机制，再次引发对前沿模型安全对齐的关注。
+
+📎 [阅读原文](https://www.cnbc.com/2026/10/21/openai-ai-models-safety-monitoring.html)
+
+---
 
 ### Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
 
-The proposed policy seems to offer protections against AI run amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.
+The proposed policy seems to offer protections against AI running amok but actually forbids federal agencies from blocking a model's release without the permission of a judge.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/)
 
@@ -29,33 +90,41 @@ Elon Musk likes the idea but says he is not on either committee, which is made u
 
 ### Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate
 
-Before you share the Netflix documentary "AI Gone Rogue" take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.
+Before you share the Netflix documentary "AI Gone Rogue," take note. Clem Delangue, Hugging Face's co-founder who is featured in the film, says it went "full doomer mode" and isn't accurate.
 
 📎 [阅读原文](https://techcrunch.com/2026/10/20/hugging-face-ceo-warns-that-netflixs-openai-hack-documentary-isnt-accurate/)
 
 ---
 
-### The Other Epidemic: Trying to get off benzodiazepines
+### Whatever Happened to Fire Escapes
 
-Article URL: https://www.thebeliever.net/the-other-epidemic/ Comments URL: https://news.ycombinator.com/item?id=50173891 Points: 14 # Comments: 4
+Article URL: https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes Comments URL: https://news.ycombinator.com/item?id=50178455 Points: 35 # Comments: 14
 
-📎 [阅读原文](https://www.thebeliever.net/the-other-epidemic/)
-
----
-
-### Feds suspect ransom negotiator ran ShinyHunters extortion site
-
-Article URL: https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/ Comments URL: https://news.ycombinator.com/item?id=50173487 Points: 42 # Comments: 4
-
-📎 [阅读原文](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+📎 [阅读原文](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
 
 ---
 
-### Academics have a duty to defend open knowledge systems like Wikipedia
+### Show HN: Linkit – AI bookmark manager, 100% free and open source
 
-Article URL: https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/ Comments URL: https://news.ycombinator.com/item?id=50170917 Points: 76 # Comments: 27
+Article URL: https://github.com/blue-idea/linkit Comments URL: https://news.ycombinator.com/item?id=50178218 Points: 10 # Comments: 4
 
-📎 [阅读原文](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
+📎 [阅读原文](https://github.com/blue-idea/linkit)
+
+---
+
+### Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds
+
+Article URL: https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/ Comments URL: https://news.ycombinator.com/item?id=50177916 Points: 229 # Comments: 97
+
+📎 [阅读原文](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+
+---
+
+### PHP warns it plans to release 2 emergency patches imminently
+
+Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.
+
+📎 [阅读原文](https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/)
 
 ---
 
@@ -75,21 +144,13 @@ Guinea-Bissau police said hepatitis B vaccine doses were taken as part of an inv
 
 ---
 
-### Microsoft reportedly projects $1,200 to $1,800 price for 2028 Project Helix
-
-Xbox maker is also apparently planning its own gaming handheld for next year.
-
-📎 [阅读原文](https://arstechnica.com/gaming/2026/10/report-microsofts-project-helix-planned-for-2028-at-1200-to-1800-price/)
 
 ---
 
+📊 **今日摘要**: 16 篇精选文章
 
----
+- 🌍 国际: 3 篇
+- 🇨🇳 国内: 0 篇（源不可用）
+- 💼 科技: 13 篇
 
-📊 **今日摘要**: 9 篇精选文章
-
-- 🌍 国际: 0 篇
-- 🇨🇳 国内: 0 篇
-- 💼 科技: 9 篇
-
-*Generated by OpenClaw News Aggregator at 08:01 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
