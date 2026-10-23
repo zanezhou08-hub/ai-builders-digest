@@ -9,87 +9,119 @@ section: news
 
 ---
 
+## 🌍 国际新闻
+
+### 伊朗称 7 艘油轮在霍尔木兹海峡遇袭，市场担忧冲突重启
+
+伊朗方面表示 7 艘油轮在霍尔木兹海峡遭到攻击，外界担忧该地区可能重回战争状态，国际油价与航运保险面临冲击。
+
+📎 [阅读原文](https://apnews.com)
+
+---
+
+### 巴黎卢浮宫等多家顶级博物馆周六闭馆，防范抗议暴力
+
+因担忧生活成本抗议引发的潜在暴力，法国文化部宣布卢浮宫、奥赛博物馆和毕加索博物馆等周六关闭。
+
+📎 [阅读原文](https://www.click2houston.com/news/world/2026/10/23/paris-louvre-and-other-top-museums-will-shut-down-on-saturday-over-concern-about-protest-violence)
+
+---
+
+### 美国财政部拟新规，限制对华等"受关注国家"高科技投资
+
+美国财政部周四提出新规，将限制美国在 AI、超级计算等高科技领域对中国等国家的投资，进一步收紧技术出口管制。
+
+📎 [阅读原文](https://www.chicagotribune.com/2026/10/22/treasury-china-tech-investments-rule/)
+
+---
+### 英媒头版："做好最坏准备"，英国备战供应链中断
+
+英国报纸头条聚焦供应链中断预警与新冠疫情报告余波，中东战事扩大加剧了市场对冬季供应链的担忧。
+
+📎 [阅读原文](https://www.bbc.com/news/articles/cwly393mj7y3o)
+
+---
+## 🇨🇳 国内新闻
+
+### DeepSeek 融资 150 亿美元，创中国 AI 领域最大规模融资之一
+
+在美国限制联邦机构使用其技术仅两天后，DeepSeek 完成 150 亿美元（约千亿元人民币）融资，资金将用于扩建 AI 基础设施并拓展国内外市场。
+
+📎 [阅读原文](https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/)
+
+---
+### 大西洋月刊：中国制造业"什么都能造，唯独造不出利润"
+
+尽管中国制造持续席卷全球汽车、芯片等市场，但今年约 30% 的中国工业企业处于亏损状态，产能扩张与利润承压形成鲜明对比。
+
+📎 [阅读原文](https://www.theatlantic.com/international/2026/10/chinese-companies-profit-problem/689088/)
+
+---
+### 台风"烟花"（Champi）逼近台湾，全台停班停课
+
+台风 Champi 外围环流覆盖全台，中心于今明两天最接近，台湾多地今日取消上班上课，预计明晚离境。
+
+📎 [阅读原文](https://www.taipeitimes.com/News/front/archives/2026/10/23/2003866461)
+
+---
+
 ## 💼 财经科技
 
-### Mark Zuckerberg’s creative plan to pay California’s proposed billionaire tax without losing control of Meta
+### Oura sues rival Ultrahuman again, threatening its U.S. smart ring comeback
 
-A newly launched stock class being offered was partially engineered to help Meta founder and CEO Mark Zuckerberg pay the "billionaire's tax," should the measure be voted into law.
+Oura alleges in its newest lawsuit that Ultrahuman's Ring Pro infringes two of its patents.
 
-📎 [阅读原文](https://techcrunch.com/2026/10/22/mark-zuckerbergs-creative-plan-to-pay-californias-proposed-billionaire-tax-without-losing-control-of-meta/)
-
----
-
-### Warhound raises $200M to engineer war dogs and arm them with Anduril gear
-
-Warhound, the brainchild of Ben Lamm and Palmer Luckey, emerges from stealth to genetically engineer dogs for military and law enforcement.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/22/ben-lamm-raises-200m-for-warhound-to-engineer-war-dogs-and-arm-them-with-anduril-gear/)
+📎 [阅读原文](https://techcrunch.com/2026/10/22/oura-sues-rival-ultrahuman-again-threatening-its-u-s-smart-ring-comeback/)
 
 ---
 
-### As blockchain investing falls out of vogue, a16z Crypto rebrands as a16z Frontier
+### Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia
 
-The digital asset unit, helmed by Chris Dixon, broadens its scope.
+inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.
 
-📎 [阅读原文](https://techcrunch.com/2026/10/22/as-blockchain-investing-falls-out-of-vogue-a16z-crypto-rebrands-as-a16z-frontier/)
-
----
-
-### LLMs are making formal software verification feasible at a much larger scale
-
-Article URL: https://www.anthropic.com/research/formal-verification Comments URL: https://news.ycombinator.com/item?id=50202217 Points: 6 # Comments: 1
-
-📎 [阅读原文](https://www.anthropic.com/research/formal-verification)
+📎 [阅读原文](https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/)
 
 ---
 
-### Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI
+### Left alone with nothing to do, AI agents started playing
 
-Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinct. We built this to reduce our own frustrations with building an MCP/API for these agents to consume.The problem: testing against these tools is hard! Agent memo...
+MIT researchers marooned 13 AIs on a virtual island, and they responded by inventing games, mourning a lost ring and, eventually, getting better at their jobs.
 
-📎 [阅读原文](https://github.com/Coverage-Cat/consumer-agent-testing-tool)
-
----
-
-### Railpass
-
-Article URL: https://train.samismith.com/ Comments URL: https://news.ycombinator.com/item?id=50201414 Points: 30 # Comments: 7
-
-📎 [阅读原文](https://train.samismith.com/)
+📎 [阅读原文](https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/)
 
 ---
 
-### Disgraced eMudhra drops out of TLS business after using cert private key of 4
+### Switch 2 security takes a hit as hackers unlock homebrew access
 
-Flubbed key signing "ceremony" allowed minting of web credentials for any site.
+"Userland" exploit relies on integer overflow found in "SmileBasic" interpreter.
 
-📎 [阅读原文](https://arstechnica.com/security/2026/10/disgraced-emudhra-drops-out-of-tls-business-following-certificate-debacle/)
-
----
-
-### Leaked Mass Effect: Universe trailer gives a taste of what we're all missing
-
-We can't have nice things, but at least we can get trailers for them.
-
-📎 [阅读原文](https://arstechnica.com/gaming/2026/10/leaked-mass-effect-universe-trailer-gives-a-taste-of-what-were-all-missing/)
+📎 [阅读原文](https://arstechnica.com/gaming/2026/10/switch-2-jailbreak-gives-hackers-new-ways-to-run-homebrew-and-mod-games/)
 
 ---
 
-### Ink droplets in motion snag top prize in Nikon Small World contest
+### Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%
 
-Ole Bielfeldt of Germany captured a microscopic view of an inkjet printer depositing ink onto paper.
+Markers released top-line results today after previously reporting the trial succeeded.
 
-📎 [阅读原文](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/)
+📎 [阅读原文](https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42/)
+
+---
+
+### Latest estimate for Starship launches required to support a Moon landing? 22.
+
+"We need to keep our eyes on numerous required fuelings for the lander."
+
+📎 [阅读原文](https://arstechnica.com/space/2026/10/latest-estimate-for-starship-launches-required-to-support-a-moon-landing-22/)
 
 ---
 
 
 ---
 
-📊 **今日摘要**: 9 篇精选文章
+📊 **今日摘要**: 12 篇精选文章
 
-- 🌍 国际: 0 篇
-- 🇨🇳 国内: 0 篇
-- 💼 科技: 9 篇
+- 🌍 国际: 4 篇
+- 🇨🇳 国内: 3 篇
+- 💼 科技: 6 篇（含 DeepSeek 融资）
 
-*Generated by OpenClaw News Aggregator at 08:01 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8, supplemented via Tavily search at 20:05*
