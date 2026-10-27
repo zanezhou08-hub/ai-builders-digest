@@ -9,53 +9,145 @@ section: news
 
 ---
 
+## 🌍 国际新闻
+
+### 以色列大选投票，伊朗战争阴影笼罩
+
+以色列选民正在选出下一届政府。内塔尼亚胡坚称，只有他才能完成八个月前对伊朗开启的“未竟事业”。此次选举结果将深刻影响中东局势走向。
+
+📎 [阅读原文](https://www.cbsnews.com/live-updates/iran-war-trump-us-diplomacy-oil-prices-strait-of-hormuz/)
+
+---
+
+### 美国中期选举进入最后冲刺，民调显示民主党略占优势
+
+据 NPR/PBS/Marist 最新民调，距投票日仅一周之际，民主党仍保持微弱领先。密西西比、密歇根等关键州的参议院选战进入白热化阶段。
+
+📎 [阅读原文](https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections)
+
+---
+
+### 联合国：2025年温室气体浓度再创历史新高
+
+联合国报告指出，大气中温室气体浓度在2025年再度刷新纪录，由此锁定的气候影响将持续数个世纪，减排形势依然严峻。
+
+📎 [阅读原文](https://www.cbsnews.com/news/greenhouse-gas-levels-records-again-2025-un/)
+
+---
+
+### 苏丹法希尔陷落一周年
+
+法希尔（北达尔富尔）被快速支援部队（RSF）攻陷已满一年，据称至少6000名平民在战事中丧生。苏丹人道主义危机仍在持续恶化。
+
+📎 [阅读原文](https://www.france24.com/en/video/20261027-sudan-one-year-after-the-fall-of-el-fasher)
+
+---
+
+### 美国说唱歌手Macklemore开启“Free Palestine”巡演
+
+Macklemore宣布将在巡演中大声反对加沙战争，首站选在欧洲最亲巴勒斯坦的国家之一爱尔兰。此举在美国国内引发巨大争议。
+
+📎 [阅读原文](https://www.france24.com/en/video/20261027-american-rapper-macklemore-begins-free-palestine-tour)
+
+---
+
+## 🇨🇳 国内新闻
+
+### 姆巴佩就不当言论致歉，外交部回应
+
+法国球星姆巴佩因发表不当言论登上热搜第一并公开致歉，中国外交部对此作出回应，西甲联盟亦发布道歉声明。光明日报发表评论：不容侮辱中国已故伟大领袖。
+
+📎 [阅读原文](https://www.toutiao.com/trending/7701312231488818715/)
+
+---
+
+### 王会民贪腐4.36亿元一审获死缓
+
+法院一审宣判，王会民受贿4.36亿元，被判处死刑缓期二年执行。反腐斗争持续保持高压态势。
+
+📎 [阅读原文](https://www.toutiao.com/trending/7701267363065299507/)
+
+---
+
+### 小米首个住宅小区开售
+
+小米旗下首个住宅项目正式开售，引发市场高度关注。“小米造房”成为科技企业跨界房地产的最新样本。
+
+📎 [阅读原文](https://www.toutiao.com/trending/7699854788087025206/)
+
+---
+
+### 投资金条克价重回“8字头”
+
+金价高位回调后，投资金条零售克价重新回到800元以上区间。上周伦敦现货黄金收于3995美元/盎司（周环比-4.1%），国内AU9999收于864元/克。
+
+📎 [阅读原文](https://www.toutiao.com/trending/7701279198081453578/)
+
+---
+
+### 许家印香港山顶豪宅被曝违建730平方米
+
+恒大创始人许家印位于香港山顶的豪宅被曝存在730平方米违建，相关处置进展受到关注。
+
+📎 [阅读原文](https://www.toutiao.com/trending/7701259366133170726/)
+
+---
+
+### 量质齐升，中国外贸何以表现强劲
+
+官方媒体解读：在全球需求疲软背景下，中国外贸进出口逆势实现“量质齐升”，新能源、高端制造等新增长点功不可没。
+
+📎 [阅读原文](https://www.toutiao.com/article/7701154477784449545)
+
+---
+
 ## 💼 财经科技
 
-### Databricks co-founder shares his secrets for winning big enterprise customers
+### Nvidia backs Indian startup helping companies run AI models with fewer GPUs
 
-Turns out selling to big companies isn’t about having the shiniest tech: It’s about hitching a ride on a giant’s sales team.
+Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.
 
-📎 [阅读原文](https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/)
-
----
-
-### Watch out, YouTube — Instagram goes from short-form to 90-minute videos
-
-After years in which every social platform (even LinkedIn!) aggressively pursued short-form video, this is a notable shift in strategy for Instagram.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/26/watch-out-youtube-instagram-goes-from-short-form-to-90-minute-videos/)
+📎 [阅读原文](https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/)
 
 ---
 
-### Uh-oh, it sounds like the iPhone Duo keeps cracking and users aren’t happy about it
+### X is nudging users to promote their posts with a pointing hand, and people are confused
 
-A small number of early adopters of the much-hyped new foldable phone from Apple have complained of screens cracking.
+Whose hand is behind this travesty?
 
-📎 [阅读原文](https://techcrunch.com/2026/10/26/uh-oh-it-sounds-like-the-iphone-duo-keeps-cracking-and-users-arent-happy-about-it/)
-
----
-
-### Just Imagining a Workout Can Make You Stronger
-
-Article URL: https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068 Comments URL: https://news.ycombinator.com/item?id=50252457 Points: 30 # Comments: 16
-
-📎 [阅读原文](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068)
+📎 [阅读原文](https://techcrunch.com/2026/10/26/x-is-nudging-users-to-promote-their-posts-with-a-pointing-hand-and-people-are-confused/)
 
 ---
 
-### Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
+### How OpenAI turned its coding tools into dots, an always-on personal assistant
 
-Article URL: https://blog.cloudflare.com/kv-cache-exposure-remediation/ Comments URL: https://news.ycombinator.com/item?id=50252159 Points: 33 # Comments: 6
+Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.
 
-📎 [阅读原文](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+📎 [阅读原文](https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/)
 
 ---
 
-### The Exponential Time Hypothesis Is False [pdf]
+### Software may be getting worse, but it used to be horrible
 
-Article URL: https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf Comments URL: https://news.ycombinator.com/item?id=50251661 Points: 121 # Comments: 44
+Article URL: https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/ Comments URL: https://news.ycombinator.com/item?id=50257548 Points: 24 # Comments: 4
 
-📎 [阅读原文](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
+📎 [阅读原文](https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/)
+
+---
+
+### Wikipedia's Cleanup of AI-Generated Content
+
+Article URL: https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup Comments URL: https://news.ycombinator.com/item?id=50257326 Points: 18 # Comments: 4
+
+📎 [阅读原文](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
+
+---
+
+### Roblox downloaded 145GB models from us (including adult content) without asking
+
+Article URL: https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/ Comments URL: https://news.ycombinator.com/item?id=50256985 Points: 126 # Comments: 88
+
+📎 [阅读原文](https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/)
 
 ---
 
@@ -86,10 +178,11 @@ Lindsey Fitzharris chats with Ars about her new book, Sleuth-Hound: The Case of 
 
 ---
 
-📊 **今日摘要**: 9 篇精选文章
+📊 **今日摘要**: 20 篇精选文章
 
-- 🌍 国际: 0 篇
-- 🇨🇳 国内: 0 篇
+- 🌍 国际: 5 篇
+- 🇨🇳 国内: 6 篇
 - 💼 科技: 9 篇
 
-*Generated by OpenClaw News Aggregator at 08:01 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:01 GMT+8*
+*国际/国内板块补充来源: NPR, France24, CBS News, 今日头条热榜（RSS源超时后的备用方案）*
