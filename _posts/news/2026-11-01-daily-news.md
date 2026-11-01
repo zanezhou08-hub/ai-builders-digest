@@ -5,67 +5,140 @@ date: 2026-11-01
 section: news
 ---
 
-# 📰 新闻速递 — 2026-11-01
+# 📰 新闻速递 — 2026-11-01（晚间版）
+
+---
+
+## 🌍 国际新闻
+
+### 美国中期选举进入最后倒计时，特朗普开启"告别式"助选行程
+
+11月1日，美国中期选举投票日前两天，特朗普保持近乎每日一场的集会节奏，在红州为共和党候选人做最后冲刺。分析普遍认为本次选举对共和党形势严峻，参众两院控制权悬念十足。Gen Z 共和党候选人也首次批量登场，寻求在国会塑造党内未来。
+
+📎 [阅读原文](https://www.npr.org/2026/11/01/nx-s1-6022128/trump-rally-2026-midterms-republicans) ｜ [选举夜观选指南](https://www.npr.org/2026/11/01/g-s1-149978/midterms-election-night)
+
+---
+
+### 联邦法官驳回特朗普对《华尔街日报》100亿美元诉讼
+
+周六，一名联邦法官驳回特朗普针对《华尔街日报》及默多克的百亿美元诉讼，称总统的说法是在"抓稻草"。该案涉及报社刊发的一封 Epstein 相关信件，判决被视为新闻自由的标志性胜利。
+
+📎 [阅读原文](https://www.npr.org/2026/11/01/nx-s1-6025342/judge-dismisses-trump-suit-against-wall-street-journal-epstein-letter)
+
+---
+
+### 弗吉尼亚州与华盛顿特区起诉阻止"特朗普拱门"修建
+
+弗吉尼亚州和华盛顿特区提起诉讼，要求叫停"特朗普拱门"建设工程。联邦地区法院法官 Chutkin 已要求双方协商简报日程，并将于周六晚前敲定临时限制令安排。
+
+📎 [阅读原文](https://www.npr.org/2026/10/31/nx-s1-6024694/virginia-dc-sue-trump-arch)
+
+---
+
+### 美最高法院审理宗教自由与学前普惠教育之争
+
+最高法院受理丹佛大主教区案：天主教幼儿园在接受州资金的情况下，能否拒绝 LGBTQ 家庭入园。此案可能重新划定向宗教学校提供公共资助的边界。
+
+📎 [阅读原文](https://www.npr.org/2026/11/01/nx-s1-6000367/supreme-court-colorado-catholic-preschool-religious-freedom-lgbtq)
+
+---
+
+## 🇨🇳 国内新闻
+
+### 《中共中央关于持之以恒推进全面从严治党若干重大问题的决定》单行本出版
+
+单行本已由人民出版社出版，即日起在全国新华书店公开发行。
+
+📎 [阅读原文](https://www.chinanews.com.cn/gn/2026/11-01/10724439.shtml)
+
+---
+
+### 国防部批日剧《VIVANT》颠倒黑白：历史不容置换，罪行不容转嫁
+
+11月1日，国防部发布视频，批驳日本谍战剧《VIVANT》第二季将侵华日军罪行强行嫁祸给中国，强调坚决抵制历史虚无主义，真相不容歪曲。
+
+📎 [阅读原文](https://www.chinanews.com.cn/gn/2026/11-01/10724428.shtml)
+
+---
+
+### 揽月着陆器将开启无人飞行，载人登月"彩排计划"公布
+
+第七届载人航天学术大会披露，揽月着陆器将开展无人飞行任务，为载人登月进行全流程"彩排"，标志着中国载人登月工程稳步推进。
+
+📎 [阅读原文](https://www.chinanews.com.cn/gn/2026/11-01/10724382.shtml)
+
+---
+
+### 中印尼"利刃-2026"陆军反恐联合训练进入实装实操阶段
+
+中国与印度尼西亚"利刃-2026"陆军反恐联合训练正在广州举行，双方参训兵力已进入实装实操阶段。
+
+📎 [阅读原文](https://www.chinanews.com.cn/gn/2026/11-01/10724404.shtml)
 
 ---
 
 ## 💼 财经科技
 
-### Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’
+### 我国人工智能推理数据量首超训练数据量
 
-Apple's new CEO defended the company's current position in the AI landscape.
+中国电子信息产业发展研究院发布《新域新质创新发展十大趋势》显示，我国 AI 推理数据量首次超过训练数据量，标志着中国人工智能从模型训练研发阶段迈入规模化产业应用阶段。
 
-📎 [阅读原文](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/)
-
----
-
-### 4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale
-
-On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.
-
-📎 [阅读原文](https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/)
+📎 [阅读原文](https://www.chinanews.com.cn/gn/2026/11-01/10724411.shtml)
 
 ---
 
-### Judge allows NAACP lawsuit over xAI data center pollution to move forward
+### 数据中心成为美国中期选举议题，连布鲁克林也不例外
 
-An NAACP lawsuit accuses the SpaceX-owned AI company of violating the Clean Air Act.
+选举日前五天的布鲁克林中期聚会活动上，从市议员炉边谈话到民主党路线之争，话题不断回到 AI 与数据中心——基建扩张正在重塑地方政治。
 
-📎 [阅读原文](https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/)
-
----
-
-### Seabirds racing home over the ocean can get jet-lagged
-
-A long flight home from feeding grounds messes with birds' internal clocks.
-
-📎 [阅读原文](https://arstechnica.com/science/2026/10/seabirds-racing-home-over-the-ocean-can-get-jet-lagged/)
+📎 [阅读原文](https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/)
 
 ---
 
-### The FDA wants to pull its approval of a drug. It’s not so easy.
+### 苹果 CEO：公司不打算"为了 AI 而 AI"
 
-The regulator says Tavneos was approved on the basis of manipulated study data. Should patients still have access to it?
+苹果新任 CEO 为公司在 AI 领域的当前立场辩护，称不会为了追赶潮流而仓促发布 AI 功能。
+
+📎 [阅读原文](https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ai-sake/)
+
+---
+
+### 太平洋小国推行全民基本收入
+
+《经济学人》报道，一个太平洋小国正式推出全民基本收入（UBI）计划，为全球 UBI 实验提供了罕见的国家级样本。
+
+📎 [阅读原文](https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income)
+
+---
+
+### FDA 想撤销一款药物获批，没那么容易
+
+FDA 称 Tavneos 的获批基于被操纵的试验数据，试图撤回批准；但患者仍在依赖该药，监管与临床需求的拉锯战随之展开。
 
 📎 [阅读原文](https://arstechnica.com/science/2026/10/the-fda-wants-to-pull-its-approval-of-a-drug-its-not-so-easy/)
 
 ---
 
-### Once again, NASA is asking for ideas to rescue Hubble from certain death
+### NASA 再次征集拯救哈勃望远镜的方案
 
-The space agency solicited ideas for reboosting Hubble four years ago, but they didn't go anywhere.
+四年前 NASA 曾征集哈勃再提升轨道方案但无果而终，如今哈勃衰减风险加剧，航天局再度公开征求可行创意。
 
 📎 [阅读原文](https://arstechnica.com/space/2026/10/think-you-can-save-the-hubble-space-telescope-nasa-wants-to-know/)
 
 ---
 
+### 美国社保 COLA 调整机制面临改革讨论
+
+有分析指出，挽救美国社会保障体系的方案中，可能包括修改生活成本调整（COLA）计算方式，影响数千万退休人员的实际购买力。
+
+📎 [阅读原文](https://www.marketwatch.com/story/is-it-curtains-for-cola-saving-social-security-could-mean-changing-the-cost-of-living-adjustment-867c6bd8)
 
 ---
 
-📊 **今日摘要**: 6 篇精选文章
+📊 **今日摘要**: 15 篇精选文章
 
-- 🌍 国际: 0 篇
-- 🇨🇳 国内: 0 篇
-- 💼 科技: 6 篇
+- 🌍 国际: 4 篇
+- 🇨🇳 国内: 4 篇
+- 💼 财经科技: 7 篇
 
-*Generated by OpenClaw News Aggregator at 08:01 GMT+8*
+*Generated by OpenClaw News Aggregator（晚间版）at 20:05 GMT+8*
