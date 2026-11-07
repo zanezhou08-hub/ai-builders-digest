@@ -9,87 +9,163 @@ section: news
 
 ---
 
+## 🌍 国际新闻
+
+### 中方确认：中美俄三国领导人历史性会晤正在磋商中
+
+中方确认正就习近平、特朗普、普京之间的历史性三方会晤进行讨论。若成行，将是近年来最重磅的外交事件，与进博会期间的外交活跃期叠加，值得关注。
+
+📎 综合报道
+
+---
+
+### 美军对伊朗实施新一轮有限打击，船只异常徘徊海底电缆附近
+
+伊朗警告若美方继续升级军事打击，将袭击海底电缆。多国监测发现船只在地中海及红海关键海缆节点附近异常滞留，全球网络基础设施安全引发担忧。
+
+📎 [阅读原文](https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/)
+
+---
+
+### 南加州两名跳伞者空中相撞身亡
+
+两名跳伞员在南加州上空相撞后坠亡，事故原因仍在调查中，联邦航空管理部门已介入。
+
+📎 [NBC News](https://www.nbcnews.com)
+
+---
+
+### 美司法部撤回迫使加州搁置"非公民选票"的诉讼请求
+
+中期选举后，司法部放弃迫使加州将所谓非公民选民选票单独搁置的努力，被视为选后法律战降温的信号。
+
+📎 [NBC News](https://www.nbcnews.com)
+
+---
+
+### 巴拉圭被罢免总统因银行倒闭被软禁
+
+巴拉圭政治危机持续发酵：因银行倒闭引发的动荡导致总统被罢免，现已被置于软禁之中。
+
+📎 [NBC News](https://www.nbcnews.com)
+
+---
+
+## 🇨🇳 国内新闻
+
+### 神舟二十四号任务标识发布，外籍航天员确认参加飞行任务
+
+神舟二十四号载人飞行任务标识正式发布，以飞船与空间站交会对接为主体画面。更重磅的是，官方确认将有外籍航天员参加本次任务——中国载人航天国际化迈出标志性一步。
+
+📎 [任务标识发布](https://www.mrjjxw.com/articles/2026-11-07/4641271.html) | [外籍航天员](https://news.cctv.com/2026/11/07/ARTI9W32ljQsHNR3Rk4BD0yq261107.shtml)
+
+---
+
+### 第九届进博会：中国电建集中签约 6.77 亿美元创历史新高
+
+第九届中国国际进口博览会上海举行期间，中国电建与日立能源、卡特彼勒、西门子能源等集中签约 6.77 亿美元，再创历史新高。巴西等国开设跨行业展馆，海外客商赴约热情不减。
+
+📎 [阅读原文](https://www.powerchina.cn/zxzx/gsyw/art/2026/art_fe4b943fa4eb417f8b278d62ef3e8249.html)
+
+---
+
+### 第十五届中国国际专利技术与产品交易会在无锡开幕
+
+专利交易会暨第二十六届中国专利奖颁奖大会在无锡举办，江苏提出加快知识产权数智转型、实施 AI 与知识产权双向赋能行动。
+
+📎 [阅读原文](https://www.cnipa.gov.cn/art/2026/11/7/art_53_208998.html)
+
+---
+
+### 本周图览：力箭二号遥二火箭发射成功
+
+11 月 3 日，力箭二号遥二运载火箭在东风商业航天创新试验区发射升空，成功将千帆极轨 21 组卫星送入预定轨道，中国商业航天再进一步。
+
+📎 [阅读原文](https://www.news.cn/photo/20261107/3ed44c0df90c4188be3c52f126dced9c/c.html)
+
+---
+
 ## 💼 财经科技
 
-### OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation
+### Sequoia shutting down its Scouts program marks the end of an era
 
-OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.
+Sequoia pioneered the scouts model and many VC firms followed suit, but a consensus now seems to be forming that the model has reached limits in its current form.
 
-📎 [阅读原文](https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/)
-
----
-
-### The Duo apps are coming, says Apple
-
-There are now 100,000 Duo-optimized apps, says Apple, and thousands more arrive daily.
-
-📎 [阅读原文](https://techcrunch.com/2026/11/06/the-duo-apps-are-coming-says-apple/)
+📎 [阅读原文](https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/)
 
 ---
 
-### Hundreds of Artex AI hacking tools found publicly exposed to the web
+### From the front row to the hot seat — what the midterms mean for Big Tech
 
-Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.
+After spending two years getting cozy with the White House, Big Tech is suddenly trying to make friends with Democrats, and the open question is whether that image makeover can hold up against what states, local communities, and the markets are about to do.
 
-📎 [阅读原文](https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/)
-
----
-
-### No CVE Today, Please
-
-Article URL: https://nocveday.com/ Comments URL: https://news.ycombinator.com/item?id=50399859 Points: 4 # Comments: 0
-
-📎 [阅读原文](https://nocveday.com/)
+📎 [阅读原文](https://techcrunch.com/2026/11/06/from-the-front-row-to-the-hot-seat-what-the-midterms-mean-for-big-tech/)
 
 ---
 
-### CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life
+### Crusoe sells troubled Wyoming data center project to Google
 
-Article URL: https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/ Comments URL: https://news.ycombinator.com/item?id=50399657 Points: 51 # Comments: 17
+The deal highlights the challenges of developing massive AI data centers.
 
-📎 [阅读原文](https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/)
-
----
-
-### ChatGPT silently passes data between connectors and the bounty wants an ID card
-
-Article URL: https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053 Comments URL: https://news.ycombinator.com/item?id=50399569 Points: 36 # Comments: 9
-
-📎 [阅读原文](https://community.openai.com/t/security-follow-up-tool-call-silently-routed-to-a-different-connector/1413053)
+📎 [阅读原文](https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/)
 
 ---
 
-### Chainalysis says hackers stole credentials and tokens for all of its customers
+### Upload Your RAM
 
-Company said a "multifront cyberattack" included AI agents and an on-path data snatch.
+Article URL: https://uploadyourram.org Comments URL: https://news.ycombinator.com/item?id=50403214 Points: 77 # Comments: 45
 
-📎 [阅读原文](https://arstechnica.com/security/2026/11/chainalysis-says-hackers-stole-credentials-and-tokens-for-all-of-its-customers/)
-
----
-
-### Earth's churning mantle may have created the Great Unconformity
-
-Explaining the Great Unconformity, where Cambrian deposits sit on top of older rocks.
-
-📎 [阅读原文](https://arstechnica.com/science/2026/11/earths-churning-mantle-may-have-created-the-great-unconformity/)
+📎 [阅读原文](https://uploadyourram.org)
 
 ---
 
-### Nvidia hardware worth $11.4M vanished between Oakland and Texas
+### Every Mac comes with an (undocumented) family member classifier
 
-6 pallets of hardware vanished en route to Texas, with no arrests 2 months later.
+Article URL: https://8rank.ai/game/apple-intelligence-personal-knowledge-graph Comments URL: https://news.ycombinator.com/item?id=50403097 Points: 89 # Comments: 25
 
-📎 [阅读原文](https://arstechnica.com/gadgets/2026/11/nvidia-hardware-worth-11-4m-vanished-between-oakland-and-texas/)
+📎 [阅读原文](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
+
+---
+
+### Port 0: The Port That Does Not Exist
+
+Article URL: https://acid.vegas/blog/the-port-that-does-not-exist/ Comments URL: https://news.ycombinator.com/item?id=50403063 Points: 9 # Comments: 2
+
+📎 [阅读原文](https://acid.vegas/blog/the-port-that-does-not-exist/)
+
+---
+
+### Doctors pull knife from man's eye that went through his brain—and he's fine now
+
+It's the exact path, not the apparent severity that matters most, doctors say.
+
+📎 [阅读原文](https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/)
+
+---
+
+### Ships loiter near subsea cables amid Iran's warnings to Trump
+
+Iran threatened to attack subsea cables if US escalates military strikes again.
+
+📎 [阅读原文](https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/)
+
+---
+
+### Re-releases of Wing Commander, Ultima titles hit Steam and GOG
+
+It's mostly bad news from EA lately, but preservation efforts are nice to see.
+
+📎 [阅读原文](https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/)
 
 ---
 
 
 ---
 
-📊 **今日摘要**: 9 篇精选文章
+📊 **今日摘要**: 18 篇精选文章
 
-- 🌍 国际: 0 篇
-- 🇨🇳 国内: 0 篇
+- 🌍 国际: 5 篇
+- 🇨🇳 国内: 4 篇
 - 💼 科技: 9 篇
 
-*Generated by OpenClaw News Aggregator at 08:01 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:00 GMT+8 · 国际/国内部分由 Tavily 检索补充*
