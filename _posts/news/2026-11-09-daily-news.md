@@ -1,95 +1,97 @@
 ---
 layout: default
-title: "新闻速递 — 2026-11-09"
+title: "新闻速递 — 2026年11月9日"
 date: 2026-11-09
 section: news
 ---
 
-# 📰 新闻速递 — 2026-11-09
+# 📰 新闻速递 — 2026年11月9日（晚间版）
+
+---
+
+## 🌍 国际新闻
+
+### 巴拉圭银行倒闭掀翻总统：数百万人资金被冻结
+一家银行倒闭导致数百万储户无法取款，最终引发总统培尼亚下台，并暴露出政商金融交织的利益网络。
+
+📎 [阅读原文](https://www.npr.org/2026/11/09/nx-s1-6034066/paraguay-president-pena-ueno)
+
+### 华为纽约受审：全球最大电信设备商面临世纪审判
+全球最大电信公司华为在纽约出庭，被控窃取美国技术并规避美国制裁。判决结果将对全球科技格局产生深远影响。
+
+📎 [阅读原文](https://www.npr.org/2026/11/08/nx-s1-6030670/the-worlds-largest-telecoms-firm-is-on-trial-and-the-outcome-has-global-implications)
+
+### 欧洲将加入阿布扎比乌克兰问题会谈，无视克里姆林宫反对
+法国宣布欧洲官员将出席本周在阿布扎比举行的美国斡旋俄乌谈判，这是 2 月以来首次三方会谈。
+
+📎 [阅读原文](https://www.npr.org/2026/11/08/nx-s1-6034014/europe-join-us-brokered-ukraine-talks-abu-dhabi-russia)
+
+### 新西兰大选无明确赢家，各党派准备数周组阁谈判
+现任总理拉克森将领导看守政府。他坦言："我想大家都受够政治了，接下来三周都歇一歇吧。"
+
+📎 [阅读原文](https://www.npr.org/2026/11/08/nx-s1-6033999/no-clear-winner-in-new-zealand-election-as-leaders-prepare-for-weeks-of-talks)
+
+---
+
+## 🇨🇳 国内新闻
+
+### 国务院关税税则委员会：2个月内继续暂停实施24%对美加征关税
+中美经贸磋商背景下，中方宣布继续冻结 24% 的对美加征关税税率，为期两个月，为后续谈判留出空间。
+
+📎 [阅读原文](https://www.thepaper.cn/newsDetail_forward_34437231)
+
+### 时隔14年，72岁王健林重任万达商管董事长
+王健林重返万达商管一线，此前万达经历了多轮债务化解与资产出售，此次人事变动引发市场广泛关注。
+
+📎 [阅读原文](https://www.thepaper.cn/newsDetail_forward_34437843)
+
+### 进博会观察：以"进口"为名的博览会，本土科创企业为何组团进场
+第八届进博会临近尾声，国产科技企业反成参展主力之一，"买全球"与"卖全球"的边界正在模糊。
+
+📎 [阅读原文](https://www.thepaper.cn/newsDetail_forward_34418393)
+
+### 山西太原一建筑发生火灾致5人遇难
+事故原因仍在调查中，当地已部署全市消防安全排查。
+
+📎 [阅读原文](https://www.thepaper.cn/newsDetail_forward_34434844)
 
 ---
 
 ## 💼 财经科技
 
-### Apps to distract you from the endless cycle of doomscrolling
+### 特斯拉 Robotaxi 扩张至圣安东尼奥
+这将是特斯拉在德克萨斯州第四座落地 Robotaxi 的城市，自动驾驶商业化版图持续扩大。
 
-It's hard to break the cycle of doomscrolling, but there are plenty of apps that can help you spend more time on content that’s engaging and productive.
+📎 [阅读原文](https://techcrunch.com/2026/11/09/tesla-expands-robotaxi-service-to-san-antonio/)
 
-📎 [阅读原文](https://techcrunch.com/2026/11/08/apps-to-distract-you-from-the-endless-cycle-of-doomscrolling/)
+### 黄仁勋职位不保？耶鲁学者：五五开
+英伟达董事会正就黄仁勋与一名涉嫌中国间谍人士的关系展开调查，耶鲁教授索南菲尔德估计其留任概率"大约一半一半"。
 
----
+📎 [阅读原文](https://techcrunch.com/2026/11/08/is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a-50-50/)
 
-### Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy
+### 数据显示：英国电动车销量即将超越燃油车
+英国 10 月销售数据显示，纯电动车与汽油车的销量差距已近乎消失，历史性交叉点就在眼前。
 
-In a memo to the company, Huang admitted that he had an affair.
+📎 [阅读原文](https://electrek.co/2026/11/05/uk-ev-sales-october-2026-electric-cars-overtake-petrol/)
 
-📎 [阅读原文](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/)
-
----
-
-### If Snap’s Specs are still ridiculously expensive, they’re also a lot more comfortable than they used to be
-
-Snap's Specs, which have been in development for many years now, are going to market this fall. Will they be a hit with users?
-
-📎 [阅读原文](https://techcrunch.com/2026/11/08/if-snaps-specs-are-still-ridiculously-expensive-theyre-also-a-lot-more-comfortable-than-they-used-to-be/)
-
----
-
-### Chimera Vocal Synth
-
-Article URL: https://chimera-vocal-synth.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=50418182 Points: 26 # Comments: 6
-
-📎 [阅读原文](https://chimera-vocal-synth.vercel.app/)
-
----
-
-### KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
-
-Article URL: https://ketchup3d.github.io/app/ Comments URL: https://news.ycombinator.com/item?id=50418176 Points: 37 # Comments: 4
-
-📎 [阅读原文](https://ketchup3d.github.io/app/)
-
----
-
-### Nvidia CEO Jensen Huang's letter to staff about affair
-
-Article URL: https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company Comments URL: https://news.ycombinator.com/item?id=50418016 Points: 220 # Comments: 202
-
-📎 [阅读原文](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)
-
----
-
-### Physicists listened to electrical noise to crack a superconductor mystery
-
-Tuning in to electronic noise can tell us whether electrons have paired up or not.
+### 物理学家"听"电子噪声破解超导体谜团
+通过聆听电噪声，研究者可以判断电子是否完成配对——这一方法为超导机制研究提供了新工具。
 
 📎 [阅读原文](https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/)
 
----
+### 韩国 2026 高考即将开考：专人检查 AI 眼镜，任何电子设备禁入考场
+韩国教育部发布考生指南，明确禁止携带手机、平板、AI 眼镜、智能手表及蓝牙耳机等设备，违者按作弊处理。
 
-### The Bantu expansion changed Africa. Scientists are still tracing how.
-
-Genes and archaeology are revealing how Bantu speakers spread across much of Africa.
-
-📎 [阅读原文](https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/)
+📎 [阅读原文](https://www.ithome.com/1/024/502.htm)
 
 ---
 
-### British soldier ignored order to pull his SIM card, then got blackmailed
+📊 **今日摘要**：14 篇精选文章
 
-Soldier told repeatedly to lock down devices before deploying, got sextorted, court-martialed.
+- 🌍 国际: 4 篇
+- 🇨🇳 国内: 4 篇
+- 💼 财经科技: 6 篇
 
-📎 [阅读原文](https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/)
+⚠️ 数据源说明：今晚 BBC/CNN/新华社等 RSS 源超时，国际新闻改用 NPR，国内新闻改用澎湃新闻 API 补充。
 
----
-
-
----
-
-📊 **今日摘要**: 9 篇精选文章
-
-- 🌍 国际: 0 篇
-- 🇨🇳 国内: 0 篇
-- 💼 科技: 9 篇
-
-*Generated by OpenClaw News Aggregator at 08:01 GMT+8*
+*Generated by OpenClaw News Aggregator at 20:00 GMT+8*
